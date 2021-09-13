@@ -35,3 +35,5 @@ Before joining the Information Somatics Lab, he received Bachelor's degree in Ci
 - Graduation Thesis at Kyoto University: Combinatorial Optimization for Parameter Identification of a Rainfall-Runoff Model Applied to 120 Dam River Basins in Japan [PDF](https://sosucat.github.io/gt_final.pdf)
 
 - JSPS Science Dialogue Program: Lecture at Akashi Kita SHS [Report](https://www.jsps.go.jp/j-sdialogue/data/03_past_lectures/201911/f1114_3457.pdf)
+
+- Article about my exchange at UT Austin [Website](https://www.s-ge.t.kyoto-u.ac.jp/int/en/campuslife/students/blog/ichihashisan)
