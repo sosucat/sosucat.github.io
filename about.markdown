@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 ![profile pic](assets/profile1.jpg){: width="250" }  
+
 Sosuke Ichihashi is an HCI (Human-Computer Interaction) researcher from Japan.  
 As a M.Sc. (Interdisciplinary Information Studies) Candidate in the [Information Somatics Lab](https://www.star.rcast.u-tokyo.ac.jp) of The University of Tokyo RCAST, he focuses on inventing novel thermal interface technologies that augment interpersonal communications or media experiences. He is passionate about creating interactive thermal experiences using such interfaces. He also explores augmentation techniques of human cognitive skills as a research collaborator of the [JST ERATO JIZAI Body Project](https://www.jst.go.jp/erato/inami/en/member.html).
 
@@ -25,7 +26,7 @@ Before joining the Information Somatics Lab, he received Bachelor's degree in Ci
 
 - **Sosuke Ichihashi**, Arata Horie, Hiroto Saito, Zendai Kashino, and Masahiko Inami. Preliminary Study on Orientation Perception with Far Infrared Stimulus. The Society of Instrument and Control Engineering System Integration Division Conference. 2020. in Japanese. [Timetable (JPN)](https://www.sice-si.org/conf/si2020/SI2020%E6%9A%AB%E5%AE%9A%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A01204r2.pdf)
   
-You can find my other works at:
+### You can find my other works at:
 
 - UT Austin GEO 327G GIS & GPS Applications in Earth Sciences: Maps of the Week [Website](http://courses.geo.utexas.edu/courses/371c/MOW/2018F/lab1/MOW_Lab1.htm)
 
