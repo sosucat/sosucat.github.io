@@ -33,6 +33,8 @@ This page shows my works ranging from published research to course work.
 ![colorization](/assets/works/colorization.gif){: height="400" }
 *caption caption*
 
-{% include youtubePlayer.html id=VKDcPVnvKvc %}
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VKDcPVnvKvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 *caption caption make it gif.*
 
