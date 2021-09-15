@@ -6,7 +6,7 @@ categories: research
 ---
 
 This page shows my works ranging from published research to course work.
-![](/assets/works/fireball.png)
+![fireball](/assets/works/fireball.png)
 
 {% highlight ruby %}
 def print_hi(name)
