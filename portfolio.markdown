@@ -10,7 +10,7 @@ This page shows my works ranging from published research to course work.
 ![thermoBlinds](/assets/images/thermoBlinds.png){: .img-left}
 *Caption test calk asfdlkjl lkasfjd asdklfj alsdfj  lasfdjk*
 
-![mesh1](/assets/images/mesh1.jpg){: .img-left}
+![mesh1](/assets/images/mesh1.png){: .img-left}
 ![mesh2](/assets/images/mesh2.png){: .img-left}
 *Caption test caption test caption test*
 
@@ -20,7 +20,6 @@ This page shows my works ranging from published research to course work.
 
 
 ![thermalGaze](/assets/images/thermalGaze.png){: .img-left}
-![thermalGazeGif](/assets/images/thermalGaze.gif){: .img-left}
 *caption*
 
 
@@ -30,15 +29,11 @@ This page shows my works ranging from published research to course work.
 ![redirection](/assets/images/redirection.png){: .img-left}
 *caption caption*
 
-![therMouse](/assets/images/therMouse.jpg){: .img-left}
-![therMouse2](/assets/images/therMouse2.jpg){: .img-left}
+![therMouse](/assets/images/therMouse.png){: .img-left}
 *caption caption*
 
 ![colorization](/assets/images/colorization.gif){: .img-left}
 *caption caption*
-
-![](/assets/images/colorization.gif){: .img-left}
-*ccccc ccccccccc cccccccccc ccccc ccccccccccc ccccccccccc ccccc ccccccccc ccccccccc cccccc ccccccc ccccccc ccccccc ccccccccc*
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKDcPVnvKvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
