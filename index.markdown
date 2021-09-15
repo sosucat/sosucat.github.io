@@ -1,7 +1,6 @@
 ---
 layout: home
 title: About
-permalink: /about/
 ---
 
 ![profile pic](assets/images/profile1.jpg){: width="250" }  
