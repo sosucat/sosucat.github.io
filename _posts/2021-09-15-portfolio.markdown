@@ -5,32 +5,32 @@ date:   2021-09-15 20:30:48 +0900
 categories: research
 ---
 
-This page shows my works ranging from published research to course work.
-![thermoBlinds](/assets/works/thermoBlinds.png)
+This page shows my images ranging from published research to course work.
+![thermoBlinds](/assets/images/thermoBlinds.png)
 *Caption test*
 
-![mesh1](/assets/works/mesh1.jpg)
-![mesh2](/assets/works/mesh2.png){: height="200" }
+![mesh1](/assets/images/mesh1.jpg)
+![mesh2](/assets/images/mesh2.png){: height="200" }
 *Caption test caption test caption test*
 
-![rattlEye](/assets/works/rattlEye.png){: height="400" }
+![rattlEye](/assets/images/rattlEye.png){: height="400" }
 *Caption caption aldfjjjjj kkkkkads dddddd ddddddd dddddddd ddddd dddddd dddd dddddd dddddd ddddddddd ddddddd dddddd dddd ddddddd dddd ddddddd ddddd ddddd dddddddd dddd dddddd ddddddd*
 
-![thermalGaze](/assets/works/thermalGaze.png){: height="400" }
-![thermalGazeGif](/assets/works/thermalGaze.gif){: height="200" }
-*Caption caption ![](/assets/works/){: height="200" } caption*
+![thermalGaze](/assets/images/thermalGaze.png){: height="400" }
+![thermalGazeGif](/assets/images/thermalGaze.gif){: height="200" }
+*Caption caption ![](/assets/images/){: height="200" } caption*
 
-![fireball](/assets/works/fireball.png){: height="400" }
+![fireball](/assets/images/fireball.png){: height="400" }
 *Caption caption add warm to snow. both in gif file*
 
-![redirection](/assets/works/redirection.png){: height="300" }
+![redirection](/assets/images/redirection.png){: height="300" }
 *caption caption*
 
-![therMouse](/assets/works/therMouse.jpg){: height="300" }
-![therMouse2](/assets/works/therMouse2.jpg){: height="300" }
+![therMouse](/assets/images/therMouse.jpg){: height="300" }
+![therMouse2](/assets/images/therMouse2.jpg){: height="300" }
 *caption caption*
 
-![colorization](/assets/works/colorization.gif){: height="400" }
+![colorization](/assets/images/colorization.gif){: height="400" }
 *caption caption*
 
 <p align="center">
