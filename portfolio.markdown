@@ -20,7 +20,7 @@ This page shows my works ranging from published research to course work.
 
 ![thermalGaze](/assets/images/thermalGaze.png){: .img-left}
 ![thermalGazeGif](/assets/images/thermalGaze.gif){: .img-left}
-*Caption caption ![](/assets/images/){: height="200" } caption*
+*caption*
 
 
 ![fireball](/assets/images/fireball.png){: .img-left}
