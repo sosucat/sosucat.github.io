@@ -86,6 +86,7 @@ This page shows my works ranging from published research to course work.
    <p><b>ViewSplitter</b> <br> A device for remote communication to show what you are doing at your desk and your facial expressions at the same time
    <b><i>[UTokyo GII-WS6135L3 Project]</i></b>
    <a href="https://docs.google.com/presentation/d/1fDDWufgdbZk1DB2PpHOGyjapFjPou3qkyc6yPcuW8AM/edit?usp=sharing">Slides</a>
+   </p>
 
 <p></p>
 
