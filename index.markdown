@@ -4,6 +4,8 @@ title: About
 ---
 
 ![profile pic](assets/images/profile1.jpg){: width="250" }  
+[Download CV](assets/pdfs/soi_cv.pdf)
+
 
 <b>Sosuke Ichihashi</b> is an HCI (Human-Computer Interaction) researcher from Japan.  <br>
 As a M.Sc. Candidate in the [Information Somatics Lab](https://www.star.rcast.u-tokyo.ac.jp) of The University of Tokyo, <u>he focuses on inventing novel thermal interface technologies that augment interpersonal communications or media experiences</u>.
