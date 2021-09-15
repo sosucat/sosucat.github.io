@@ -6,7 +6,18 @@ categories: research
 ---
 
 This page shows my works ranging from published research to course work.
+![thermoBlinds](/assets/works/thermoBlinds){: height="200" }
+![mesh1](/assets/works/mesh1.jpg){: height="200" }
+![mesh2](/assets/works/mesh2.jpg){: height="200" }
+![rattlEye](/assets/works/rattlEye.png){: height="200" }
+![thermalGaze](/assets/works/thermalGaze.png){: height="200" }
+![thermalGazeGif](/assets/works/thermalGaze.gif){: height="200" }
 ![fireball](/assets/works/fireball.png)
+![redirection](/assets/works/redirection.png){: height="200" }
+![therMouse](/assets/works/therMouse.jpg){: height="200" }
+![therMouse2](/assets/works/therMouse2.jpg){: height="200" }
+![colorization](/assets/works/colorization.gif){: height="200" }
+![drawOnScreen](/assets/works/draw_on_screen.mp4){: height="200" }
 
 {% highlight ruby %}
 def print_hi(name)
