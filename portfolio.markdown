@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "Portfolio"
-date:   2021-09-15 20:30:48 +0900
-categories: research
+permalink: /portfolio/
 ---
 
 <link href="{{site.baseurl}}/assets/css/main.css" rel="stylesheet">
