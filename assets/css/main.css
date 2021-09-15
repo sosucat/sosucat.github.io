@@ -40,6 +40,11 @@ img {
 .active {
 }
 
+.img-left {
+  float: left;
+  margin-right: 1em;
+}
+
 em {
 	font-size: .9rem;
 	border-top: 1px solid lightgray;
