@@ -17,6 +17,12 @@
   vertical-align: middle;
 }
 
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 /*em {
   font-size: .9rem;
   border-top: 1px solid lightgray;

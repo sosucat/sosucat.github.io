@@ -8,22 +8,22 @@ permalink: /portfolio/
 This page shows my works ranging from published research to course work.
 
 ![thermoBlinds](/assets/images/thermoBlinds.png){: .img-left}
-<div class="center">
-<p>Caption test calk asfdlkjl lkasfjd asdklfj alsdfj  lasfdjk</p>
+<div class="clearfix">
+<p>Caption test calk asfdlkjl lkasfjd asdklfj alsdfj lasfdjk</p>
 </div>
 
 ![mesh1](/assets/images/mesh1.png){: .img-left}
-<div class="center">
+<div class="clearfix">
 <p>Caption test caption test ca</p>
 </div>
 
 ![rattlEye](/assets/images/rattlEye.png){: .img-left}
-<div class="center">
+<div class="clearfix">
 <p>Caption caption aldfjjjjj kkkkkads dddddd ddddddd ddddd</p>
 </div>
 
 ![thermalGaze](/assets/images/thermalGaze.png){: .img-left}
-<div class="center">
+<div class="clearcix">
 <p>caption</p>
 </div>
 
