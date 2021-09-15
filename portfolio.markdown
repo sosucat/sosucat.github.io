@@ -13,12 +13,15 @@ This page shows my works ranging from published research to course work.
 ![mesh2](/assets/images/mesh2.png){: .img-left}
 *Caption test caption test caption test*
 
+
 ![rattlEye](/assets/images/rattlEye.png){: .img-left}
 *Caption caption aldfjjjjj kkkkkads dddddd ddddddd dddddddd ddddd dddddd dddd dddddd dddddd ddddddddd ddddddd dddddd dddd ddddddd dddd ddddddd ddddd ddddd dddddddd dddd dddddd ddddddd*
+
 
 ![thermalGaze](/assets/images/thermalGaze.png){: .img-left}
 ![thermalGazeGif](/assets/images/thermalGaze.gif){: .img-left}
 *Caption caption ![](/assets/images/){: height="200" } caption*
+
 
 ![fireball](/assets/images/fireball.png){: .img-left}
 *Caption caption add warm to snow. both in gif file*
