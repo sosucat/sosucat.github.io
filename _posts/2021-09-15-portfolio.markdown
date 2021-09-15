@@ -6,34 +6,34 @@ categories: research
 ---
 
 This page shows my works ranging from published research to course work.
-![thermoBlinds](/assets/works/thermoBlinds.png){: height="200" }
+![thermoBlinds](/assets/works/thermoBlinds.png)
 *Caption test*
 
-![mesh1](/assets/works/mesh1.jpg){: height="200" }
+![mesh1](/assets/works/mesh1.jpg)
 ![mesh2](/assets/works/mesh2.png){: height="200" }
 *Caption test caption test caption test*
 
-![rattlEye](/assets/works/rattlEye.png){: height="200" }
+![rattlEye](/assets/works/rattlEye.png){: height="400" }
 *Caption ![](/assets/works/){: height="200" } caption ![](/assets/works/){: height="200" }*
 
-![thermalGaze](/assets/works/thermalGaze.png){: height="200" }
+![thermalGaze](/assets/works/thermalGaze.png){: height="400" }
 ![thermalGazeGif](/assets/works/thermalGaze.gif){: height="200" }
 *Caption caption ![](/assets/works/){: height="200" } caption*
 
-![fireball](/assets/works/fireball.png){: height="200" }
+![fireball](/assets/works/fireball.png){: height="400" }
 *Caption caption add warm to snow. both in gif file*
 
-![redirection](/assets/works/redirection.png){: height="200" }
+![redirection](/assets/works/redirection.png){: height="300" }
 *caption caption*
 
-![therMouse](/assets/works/therMouse.jpg){: height="200" }
-![therMouse2](/assets/works/therMouse2.jpg){: height="200" }
+![therMouse](/assets/works/therMouse.jpg){: height="300" }
+![therMouse2](/assets/works/therMouse2.jpg){: height="300" }
 *caption caption*
 
-![colorization](/assets/works/colorization.gif){: height="200" }
+![colorization](/assets/works/colorization.gif){: height="400" }
 *caption caption*
 
-![drawOnScreen](/assets/works/draw_on_screen.mp4){: height="200" }
+![drawOnScreen](/assets/works/draw_on_screen.mp4)
 *caption caption make it gif.*
 
 {% highlight ruby %}
