@@ -49,6 +49,8 @@ This page shows my works ranging from published research to course work.
    </p>
   </div>
 
+<p></p>
+
 ![fireball](/assets/images/fireball.gif){: .img-left}
   <div class="clearfix">
    <hr style="width:40%;text-align:left;margin-left:0">
@@ -58,7 +60,7 @@ This page shows my works ranging from published research to course work.
    </p>
   </div>
 
-<p></p>
+<p><br></p>
 
 ![redirection](/assets/images/redirection.png){: .img-left}
   <div class="clearfix">
@@ -69,7 +71,7 @@ This page shows my works ranging from published research to course work.
    </p>
   </div>
 
-<p></p> 
+<p><br></p> 
 
 ![thermoPinArray](/assets/images/thermoPinArray.png){: .img-left}
   <div class="clearfix">
@@ -78,7 +80,7 @@ This page shows my works ranging from published research to course work.
    </p>
   </div>
 
-<p></p> 
+<p><br></p> 
 
 
 ![therMouse](/assets/images/therMouse.png){: .img-left}
@@ -89,7 +91,7 @@ This page shows my works ranging from published research to course work.
    </p>
   </div>
 
-<p></p> 
+<p><br></p> 
 
 ![colorization](/assets/images/colorization.gif){: .img-left}
   <div class="clearfix">
@@ -99,7 +101,7 @@ This page shows my works ranging from published research to course work.
    </p>
   </div>
 
-<p></p>
+<p><br></p>
 
 ![ds](/assets/images/ds.png){: .img-left}
   <div class="clearfix">
@@ -110,7 +112,7 @@ This page shows my works ranging from published research to course work.
    </p>
   </div>
 
-<p></p>
+<p><br></p>
 
 ![susuki](/assets/images/susuki.gif){: .img-left}
   <div class="clearfix">
@@ -118,7 +120,7 @@ This page shows my works ranging from published research to course work.
    <p><b>SUSUKI</b> <br>Plant-like Motion Drawn with A Recursive Algorithm</p>
   </div>
 
-<p></p>
+<p><br></p>
 
 ![map](/assets/images/geo.png){: .img-left}
   <div class="clearfix">
@@ -129,7 +131,7 @@ This page shows my works ranging from published research to course work.
    </p>
   </div>
 
-<p></p>
+<p><br></p>
 
 <p></p>
 
@@ -142,7 +144,7 @@ This page shows my works ranging from published research to course work.
    </p>
   </div>
 
-<p></p>
+<p><br></p>
 
 <p></p>
 
