@@ -5,7 +5,7 @@ date:   2021-09-15 20:30:48 +0900
 categories: research
 ---
 
-<link rel="stylesheet" href="{{ "/assets/css/grid_img.css, " | prepend: site.baseurl }}">
+<link rel="stylesheet" href="{{ "../assets/css/grid_img.scss, " | prepend: site.baseurl }}">
 
 This page shows my images ranging from published research to course work.
 ![thermoBlinds](../assets/images/thermoBlinds.png)
@@ -15,12 +15,8 @@ This page shows my images ranging from published research to course work.
 ![mesh2](/assets/images/mesh2.png){: height="200" }
 *Caption test caption test caption test*
 
-<p style="display: flex;
-	width: 100%;
-	margin-bottom: 3rem">
 ![rattlEye](/assets/images/rattlEye.png){: height="400" }
 *Caption caption aldfjjjjj kkkkkads dddddd ddddddd dddddddd ddddd dddddd dddd dddddd dddddd ddddddddd ddddddd dddddd dddd ddddddd dddd ddddddd ddddd ddddd dddddddd dddd dddddd ddddddd*
-</p>
 
 ![thermalGaze](/assets/images/thermalGaze.png){: height="400" }
 ![thermalGazeGif](/assets/images/thermalGaze.gif){: height="200" }
