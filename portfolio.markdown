@@ -9,27 +9,27 @@ This page shows my works ranging from published research to course work.
 
 ![thermoBlinds](/assets/images/thermoBlinds.png){: .img-left}
 <div class="center">
-Caption test calk asfdlkjl lkasfjd asdklfj alsdfj  lasfdjk
+<p>Caption test calk asfdlkjl lkasfjd asdklfj alsdfj  lasfdjk</p>
 </div>
 
 ![mesh1](/assets/images/mesh1.png){: .img-left}
 <div class="center">
-Caption test caption test ca
+<p>Caption test caption test ca</p>
 </div>
 
 ![rattlEye](/assets/images/rattlEye.png){: .img-left}
 <div class="center">
-Caption caption aldfjjjjj kkkkkads dddddd ddddddd ddddd
+<p>Caption caption aldfjjjjj kkkkkads dddddd ddddddd ddddd</p>
 </div>
 
 ![thermalGaze](/assets/images/thermalGaze.png){: .img-left}
 <div class="center">
-caption
+<p>caption</p>
 </div>
 
 ![fireball](/assets/images/fireball.png){: .img-left}
 <div class="center">
-Caption caption add warm to snow. both in gif file
+<p>Caption caption add warm to snow. both in gif file</p>
 </div>
 
 ![redirection](/assets/images/redirection.png){: .img-left}
