@@ -5,12 +5,15 @@ title: About
 
 ![profile pic](assets/images/profile1.jpg){: width="250" }  
 
-Sosuke Ichihashi is an HCI (Human-Computer Interaction) researcher from Japan.  
-As a M.Sc. (Interdisciplinary Information Studies) Candidate in the [Information Somatics Lab](https://www.star.rcast.u-tokyo.ac.jp) of The University of Tokyo RCAST, he focuses on inventing novel thermal interface technologies that augment interpersonal communications or media experiences. He is passionate about creating interactive thermal experiences using such interfaces. He also explores augmentation techniques of human cognitive skills as a research collaborator of the [JST ERATO JIZAI Body Project](https://www.jst.go.jp/erato/inami/en/member.html).
+<b>Sosuke Ichihashi</b> is an HCI (Human-Computer Interaction) researcher from Japan.  <br>
+As a M.Sc. (Interdisciplinary Information Studies) Candidate in the [Information Somatics Lab](https://www.star.rcast.u-tokyo.ac.jp) of The University of Tokyo RCAST, he focuses on inventing novel thermal interface technologies that augment interpersonal communications or media experiences.
+
+He is passionate about creating interactive thermal experiences using such interfaces. He also explores augmentation techniques of human cognitive skills as a research collaborator of the [JST ERATO JIZAI Body Project](https://www.jst.go.jp/erato/inami/en/member.html).
 
 Before joining the Information Somatics Lab, he received Bachelor's degree in Civil Engineering from Kyoto University ICP. His research is presented in several HCI conferences (ACM UbiComp MIMSVAI, IEEE ISMCR) and domestic conferences (VRSJ, IPSJ EC, SICE SI) and submitted to ACM CHI.
 
-### You can find my publications at:  
+
+## You can find my publications at:  
 ### International Conference
 
 - **Sosuke Ichihashi**, Arata Horie, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami. The effect of temperature presentation according to the gaze of others on remote communications. International Symposium on Measurement and Control in Robotics 2021 (ISMCR 2021). 2021.
