@@ -6,10 +6,9 @@ categories: research
 ---
 
 <link rel="stylesheet" href="{{ "/assets/css/grid_img.css, " | prepend: site.baseurl }}">
-<script type="text/javascript" src="/assets/js/grid_img.js"></script>
 
 This page shows my images ranging from published research to course work.
-![thermoBlinds](/assets/images/thermoBlinds.png)
+![thermoBlinds](../assets/images/thermoBlinds.png)
 *Caption test*
 
 ![mesh1](/assets/images/mesh1.jpg)
@@ -41,3 +40,4 @@ This page shows my images ranging from published research to course work.
 </p>
 *If the video does not work, please watch it [here](https://www.youtube.com/VKDcPVnvKvc)*
 
+<script src="../assets/js/grid_img.js"></script>
