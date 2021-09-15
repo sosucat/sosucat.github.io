@@ -68,6 +68,15 @@ This page shows my works ranging from published research to course work.
 
 <p></p>
 
+![map](/assets/images/geo.png){: .img-left}
+  <div class="clearfix">
+   <p><b>Extimation of Population Affected by the Tsunami of the Tohoku Earthquake</b>  
+   <a href="https://www.geo.utexas.edu/courses/371c/project/2018F/Ichihashi_GIS_project.pdf">PDF</a>
+</p>
+  </div>
+
+<p></p>
+
  <p align="left" class="img-left">
   <iframe width="360" height="270" src="https://www.youtube.com/embed/VKDcPVnvKvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
