@@ -7,7 +7,9 @@ categories: research
 
 This page shows my works ranging from published research to course work.
 
-
+![](/assets/works/colorization.gif)
+![](/assets/works/draw_on_screen.mp4)
+![](/assets/works/fireball.png)
 
 {% highlight ruby %}
 def print_hi(name)
