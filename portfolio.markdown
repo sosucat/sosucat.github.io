@@ -12,15 +12,21 @@ This page shows my works ranging from published research to course work.
    <p><b>ThermoBlinds</b> <br>Non-Contact Rapid Thermal Feedback</p>
   </div>
 
+<p></p>
+
 ![mesh1](/assets/images/mesh1.png){: .img-left}
   <div class="clearfix">
    <p><b>Visuo-Thermal Display</b> <br>Superimposing Visual and Thermal Feedback Using a Mesh Screen</p>
   </div>
 
+<p></p>
+
 ![rattlEye](/assets/images/rattlEye.gif){: .img-left}
   <div class="clearfix">
    <p><b>RattlEye</b> <br>Augmenting Vision with Gaze-based Thermal Feedback</p>
   </div>
+
+<p></p>
 
 ![thermalGaze](/assets/images/thermalGaze.png){: .img-left}
   <div class="clearfix">
@@ -31,6 +37,8 @@ This page shows my works ranging from published research to course work.
   <div class="clearfix">
    <p><b>Reproduction of Non-Contact Sudden Temperature Changes</b></p>
   </div>
+
+<p></p>
 
 ![redirection](/assets/images/redirection.png){: .img-left}
   <div class="clearfix">
