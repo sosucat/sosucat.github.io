@@ -23,13 +23,13 @@ This page shows my works ranging from published research to course work.
   </div>
 
 ![thermalGaze](/assets/images/thermalGaze.png){: .img-left}
-  <div class="clearcix">
-   <p>Representing Other's Gaze with Gaze-based Thermal Feedback</p>
+  <div class="clearfix">
+   <p>Representation of Other's Gaze with Thermal Feedback</p>
   </div>
 
 ![fireball](/assets/images/fireball.png){: .img-left}
   <div class="clearfix">
-   <p>Reproduce Non-Contact Sudden Temperature Changes Using ThermoBlinds</p>
+   <p>Reproduction of Non-Contact Sudden Temperature Changes</p>
   </div>
 
 ![redirection](/assets/images/redirection.png){: .img-left}
