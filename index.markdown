@@ -12,7 +12,7 @@ As a M.Sc. Candidate in the [Information Somatics Lab](https://www.star.rcast.u-
 
 He is passionate about creating interactive thermal experiences using such interfaces. He also explores augmentation techniques for human cognitive skills as a research collaborator of the [JST ERATO JIZAI Body Project](https://www.jst.go.jp/erato/inami/en/member.html).
 
-Before joining the Information Somatics Lab, he received Bachelor's degree in Civil Engineering from [Kyoto University ICP](https://www.s-ge.t.kyoto-u.ac.jp/int/en).  
+Before joining the Information Somatics Lab, he received Bachelor's degree in Civil Engineering from [Kyoto University ICP](https://www.s-ge.t.kyoto-u.ac.jp/int/en). He also took an exchange at the University of Texas at Austin ECE. 
 His research is presented in several HCI conferences (ACM UbiComp MIMSVAI, IEEE ISMCR) and domestic conferences (VRSJ, IPSJ EC, SICE SI) and submitted to ACM CHI.
 
 ## You can find my publications at:  
