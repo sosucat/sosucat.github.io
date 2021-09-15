@@ -33,6 +33,6 @@ This page shows my works ranging from published research to course work.
 ![colorization](/assets/works/colorization.gif){: height="400" }
 *caption caption*
 
-![drawOnScreen](https://youtube.com/embed/VKDcPVnvKvc)
+{% include youtubePlayer.html id=VKDcPVnvKvc %}
 *caption caption make it gif.*
 
