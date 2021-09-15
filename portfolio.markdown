@@ -10,7 +10,7 @@ This page shows my works ranging from published research to course work.
 ![thermoBlinds](/assets/images/thermoBlinds.gif){: .img-left}
   <div class="clearfix">
    <hr style="width:40%;text-align:left;margin-left:0">
-   <p><b>ThermoBlinds</b> <br>Non-Contact Rapid Thermal Feedback<br>
+   <p><b style="font-size:28px">ThermoBlinds</b> <br>Non-Contact Rapid Thermal Feedback<br>
    <b><i>[MIMSVAI'21 (UbiComp'21), Ichihashi et al.]</i></b><br>
    <a href="https://doi.org/10.1145/3460418.3480160">PDF</a> | <a href="https://mimsvai.github.io/#/">Program</a>
    </p>
