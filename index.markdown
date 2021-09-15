@@ -34,7 +34,7 @@ His research is presented in several HCI conferences (ACM UbiComp MIMSVAI, IEEE 
 
 - UT Austin GEO 327G GIS & GPS Applications in Earth Sciences: Class Project [PDF](https://www.geo.utexas.edu/courses/371c/project/2018F/Ichihashi_GIS_project.pdf)
 
-- Graduation Thesis at Kyoto University: Combinatorial Optimization for Parameter Identification of a Rainfall-Runoff Model Applied to 120 Dam River Basins in Japan [PDF](https://sosucat.github.io/gt_final.pdf)
+- Graduation Thesis at Kyoto University: Combinatorial Optimization for Parameter Identification of a Rainfall-Runoff Model Applied to 120 Dam River Basins in Japan
 
 - JSPS Science Dialogue Program: Lecture at Akashi Kita SHS [Report](https://www.jsps.go.jp/j-sdialogue/data/03_past_lectures/201911/f1114_3457.pdf)
 
