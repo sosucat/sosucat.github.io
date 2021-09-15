@@ -5,8 +5,7 @@ date:   2021-09-15 20:30:48 +0900
 categories: research
 ---
 
-<link rel="stylesheet" href="{{ "/assets/css/main.scss, " | relative_url }}">
-
+<link href="{{site.baseurl}}/assets/css/main.css" rel="stylesheet">
 This page shows my images ranging from published research to course work.
 ![thermoBlinds](/assets/images/thermoBlinds.png)
 *Caption test*
@@ -40,4 +39,4 @@ This page shows my images ranging from published research to course work.
 </p>
 *If the video does not work, please watch it [here](https://www.youtube.com/VKDcPVnvKvc)*
 
-<script src="/assets/js/main.js"></script>
+<script src="{{site.baseurl}}/assets/js/main.js"></script>
