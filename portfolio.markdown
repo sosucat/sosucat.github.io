@@ -65,6 +65,15 @@ This page shows my works ranging from published research to course work.
 
 <p></p> 
 
+![thermoPinArray](/assets/images/thermoPinArray.png){: .img-left}
+  <div class="clearfix">
+   <p><b>ThermoPinArray</b> <br>How do we perceive thermal tactile feedback with higher resolution than the spatial resolution of human temperature sense?
+   </p>
+  </div>
+
+<p></p> 
+
+
 ![therMouse](/assets/images/therMouse.png){: .img-left}
   <div class="clearfix">
    <p><b>TherMouse</b> <br>Mouse with Thermal Feedback based on Cursor Positions<br>
@@ -110,6 +119,8 @@ This page shows my works ranging from published research to course work.
 
 <p></p>
 
+<p></p>
+
 ![map2](/assets/images/geo2.png){: .img-left}
   <div class="clearfix">
    <p><b>Population in 1990 and Faults in Texas</b><br>
@@ -117,6 +128,8 @@ This page shows my works ranging from published research to course work.
    <a href="http://courses.geo.utexas.edu/courses/371c/MOW/2018F/lab1/MOW_Lab_1__Ichihashi_large.htm">PDF</a>
    </p>
   </div>
+
+<p></p>
 
 <p></p>
 
