@@ -23,7 +23,6 @@ email: firstname.familyname[at]gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is Sosuke Ichihashi's website including his portfolio, publications, and introduction.
 baseurl: "" # the subpath of your site, e.g. /blog
-oCaption ![](/assets/works/){: height="200" } caption ![](/assets/works/){: height="200" }$('p:has(img)').addClass('hasImage')$('p:has(img)').addClass('hasImage')$('p:has(img)').addClass('hasImage')$('p:has(img)').addClass('hasImage')$('p:has(img)').addClass('hasImage')$('p:has(img)').addClass('hasImage')*
 url: "https://sosucat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:  RefreshSource
 github_username:  sosucat
