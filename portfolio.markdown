@@ -7,7 +7,7 @@ permalink: /portfolio/
 <link href="{{site.baseurl}}/assets/css/main.css" rel="stylesheet">
 This page shows my works ranging from published research to course work.
 
-![thermoBlinds](/assets/images/thermoBlinds.png){: .image-container .clearfix}
+![thermoBlinds](/assets/images/thermoBlinds.png){: .img-left}
 *Caption test calk asfdlkjl lkasfjd asdklfj alsdfj  lasfdjk*
 
 ![mesh1](/assets/images/mesh1.jpg){: .img-left}
