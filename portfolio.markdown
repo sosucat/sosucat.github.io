@@ -37,14 +37,25 @@ This page shows my works ranging from published research to course work.
    <p><b>Orientation Perception Using Far-Infrared Rays</b></p>
   </div>
 
+<p></p> 
+
 ![therMouse](/assets/images/therMouse.png){: .img-left}
   <div class="clearfix">
    <p><b>TherMouse</b> <br>Mouse with Thermal Feedback based on Cursor Positions</p>
   </div>
 
+<p></p> 
+
 ![colorization](/assets/images/colorization.gif){: .img-left}
   <div class="clearfix">
    <p><b>AfterMemory</b> <br>Instant Colorization of Black-and-White Images Using DNN and After Image Illusions</p>
+  </div>
+
+<p></p>
+
+![susuki](/assets/images/susuki.gif){: .img-left}
+  <div class="clearfix">
+   <p><b>SUSUKI</b> <br>Plant-like Motion Drawn with A Recursive Algorithm</p>
   </div>
 
 <p></p>
