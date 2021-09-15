@@ -61,7 +61,7 @@ This page shows my works ranging from published research to course work.
 <p></p>
 
  <p align="left" class="img-left">
-  <iframe width="480" height="270" src="https://www.youtube.com/embed/VKDcPVnvKvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="360" height="270" src="https://www.youtube.com/embed/VKDcPVnvKvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
   <div class="clearfix">
    <p><b>DrawOnWebCam</b> <br>Your webcam is the canvas! Drop image and draw on your webcam video.<br><br><br><br><br></p>
