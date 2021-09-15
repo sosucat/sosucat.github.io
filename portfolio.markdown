@@ -31,7 +31,7 @@ This page shows my works ranging from published research to course work.
 ![thermalGaze](/assets/images/thermalGaze.png){: .img-left}
   <div class="clearfix">
    <p><b>ThermoGaze</b> <br>Representation of Other's Gaze with Thermal Feedback<br>
-   [<i>ISMCR'21, Ichihashi et al.</i>] <a href="http://ismcr.org/">Web</a>|<a href="https://secureservercdn.net/198.71.233.33/l95.2a1.myftpupload.com/wp-content/uploads/2021/09/ISMCR2021-October-1st-PROGRAM-.pdf">Program</a>
+   <b><i>[ISMCR'21, Ichihashi et al.]</i></b> <a href="http://ismcr.org/">Web</a>|<a href="https://secureservercdn.net/198.71.233.33/l95.2a1.myftpupload.com/wp-content/uploads/2021/09/ISMCR2021-October-1st-PROGRAM-.pdf">Program</a>
    </p>
   </div>
 
@@ -73,7 +73,7 @@ This page shows my works ranging from published research to course work.
 ![map](/assets/images/geo.png){: .img-left}
   <div class="clearfix">
    <p><b>Extimation of Population Affected by the Tsunami of the Tohoku Earthquake</b><br>
-   <a href="https://www.geo.utexas.edu/courses/371c/project/2018F/Ichihashi_GIS_project.pdf">PDF</a>
+   <b><i>[UT Austin GEO327G Semester Project]</i></b><a href="https://www.geo.utexas.edu/courses/371c/project/2018F/Ichihashi_GIS_project.pdf">PDF</a>
 </p>
   </div>
 
