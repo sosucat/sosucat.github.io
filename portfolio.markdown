@@ -8,7 +8,9 @@ permalink: /portfolio/
 This page shows my works ranging from published research to course work.
 
 ![thermoBlinds](/assets/images/thermoBlinds.png){: .img-left}
-Caption test calk asfdlkjl lkasfjd asdklfj alsdfj  lasfdjk{: .caption}
+<div class="center">
+Caption test calk asfdlkjl lkasfjd asdklfj alsdfj  lasfdjk
+</div>
 
 ![mesh1](/assets/images/mesh1.png){: .img-left}
 Caption test caption test caption test\n\n\n

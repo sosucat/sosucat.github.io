@@ -4,8 +4,9 @@
   margin-right: 1em;
 }
 
-.caption {
-  float: right;
+.center {
+  padding: 40px 0;
+  border: 3px solid green;
 }
 
 /*em {
