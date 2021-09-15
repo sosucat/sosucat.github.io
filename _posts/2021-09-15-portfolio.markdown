@@ -36,5 +36,5 @@ This page shows my works ranging from published research to course work.
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKDcPVnvKvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-*If the video does not work, please watch it [here](https://www.youtube.com/embed/VKDcPVnvKvc)*
+*If the video does not work, please watch it [here](https://www.youtube.com/VKDcPVnvKvc)*
 
