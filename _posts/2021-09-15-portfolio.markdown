@@ -14,7 +14,7 @@ This page shows my works ranging from published research to course work.
 *Caption test caption test caption test*
 
 ![rattlEye](/assets/works/rattlEye.png){: height="400" }
-*Caption ![](/assets/works/){: height="200" } caption ![](/assets/works/){: height="200" }*
+*Caption ![](/assets/works/){: height="200" } caption ![](/assets/works/){: height="200" }$('p:has(img)').addClass('hasImage')$('p:has(img)').addClass('hasImage')$('p:has(img)').addClass('hasImage')$('p:has(img)').addClass('hasImage')$('p:has(img)').addClass('hasImage')$('p:has(img)').addClass('hasImage')*
 
 ![thermalGaze](/assets/works/thermalGaze.png){: height="400" }
 ![thermalGazeGif](/assets/works/thermalGaze.gif){: height="200" }
