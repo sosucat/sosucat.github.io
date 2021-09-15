@@ -47,8 +47,8 @@ This page shows my works ranging from published research to course work.
    <p>AfterMemory: Instant Colorization of Black and White Image Using DNN and After Image Illusions</p>
   </div>
 
-<p align="left">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VKDcPVnvKvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="left" class="img-left">
+<iframe width=60% src="https://www.youtube.com/embed/VKDcPVnvKvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <div class="clearfix">
 <p>DrawOnWebCam: Your webcam is the camvas! Drop image and draw on your webcam video.</p>
