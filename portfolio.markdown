@@ -6,8 +6,15 @@ permalink: /portfolio/
 
 <link href="{{site.baseurl}}/assets/css/main.css" rel="stylesheet">
 This page shows my works ranging from published research to course work.
-![thermoBlinds](/assets/images/thermoBlinds.png){: .img-left}
-*Caption test*
+
+<div class="clearfix">
+  <div class="img-container">
+    ![thermoBlinds](/assets/images/thermoBlinds.png)
+  </div>
+  <div class="img-container">
+    *Caption test calk asfdlkjl lkasfjd asdklfj alsdfj  lasfdjk*
+  </div>
+</div>
 
 ![mesh1](/assets/images/mesh1.jpg){: .img-left}
 ![mesh2](/assets/images/mesh2.png){: .img-left}
@@ -15,7 +22,7 @@ This page shows my works ranging from published research to course work.
 
 
 ![rattlEye](/assets/images/rattlEye.png){: .img-left}
-*Caption caption aldfjjjjj kkkkkads dddddd ddddddd dddddddd ddddd dddddd dddd dddddd dddddd ddddddddd ddddddd dddddd dddd ddddddd dddd ddddddd ddddd ddddd dddddddd dddd dddddd ddddddd*
+*Caption caption aldfjjjjj kkkkkads dddddd ddddddd ddddd*
 
 
 ![thermalGaze](/assets/images/thermalGaze.png){: .img-left}

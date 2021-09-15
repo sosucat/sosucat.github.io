@@ -1,14 +1,17 @@
-p {
-	max-width: 50rem;
-	margin-bottom: 1rem;
-	font-size: 1.2rem;
-	line-height: 1.45;
+* {
+  box-sizing: border-box;
 }
 
-.hasImage {
-	display: flex;
-	width: 50%;
-	margin-bottom: 3rem;
+.img-container {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 .img-left {
