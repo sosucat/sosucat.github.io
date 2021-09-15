@@ -8,11 +8,11 @@ categories: research
 This page shows my works ranging from published research to course work.
 ![thermoBlinds](/assets/works/thermoBlinds){: height="200" }
 ![mesh1](/assets/works/mesh1.jpg){: height="200" }
-![mesh2](/assets/works/mesh2.jpg){: height="200" }
+![mesh2](/assets/works/mesh2.png){: height="200" }
 ![rattlEye](/assets/works/rattlEye.png){: height="200" }
 ![thermalGaze](/assets/works/thermalGaze.png){: height="200" }
 ![thermalGazeGif](/assets/works/thermalGaze.gif){: height="200" }
-![fireball](/assets/works/fireball.png)
+![fireball](/assets/works/fireball.png){: height="200" }
 ![redirection](/assets/works/redirection.png){: height="200" }
 ![therMouse](/assets/works/therMouse.jpg){: height="200" }
 ![therMouse2](/assets/works/therMouse2.jpg){: height="200" }
