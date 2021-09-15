@@ -7,6 +7,7 @@ categories: research
 
 This page shows my works ranging from published research to course work.
 ![thermoBlinds](/assets/works/thermoBlinds){: height="200" }
+*Caption test*
 ![mesh1](/assets/works/mesh1.jpg){: height="200" }
 ![mesh2](/assets/works/mesh2.png){: height="200" }
 ![rattlEye](/assets/works/rattlEye.png){: height="200" }
