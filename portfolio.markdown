@@ -16,7 +16,7 @@ This page shows my works ranging from published research to course work.
    </p>
   </div>
 
-<p></p>
+<p><br></p>
 
 ![mesh1](/assets/images/mesh1.png){: .img-left}
   <div class="clearfix">
@@ -27,7 +27,7 @@ This page shows my works ranging from published research to course work.
    </p>
   </div>
 
-<p></p>
+<p><br></p>
 
 ![rattlEye](/assets/images/rattlEye.gif){: .img-left}
   <div class="clearfix">
@@ -38,7 +38,7 @@ This page shows my works ranging from published research to course work.
    </p>
   </div>
 
-<p></p>
+<p><br></p>
 
 ![thermalGaze](/assets/images/thermalGaze.png){: .img-left}
   <div class="clearfix">
