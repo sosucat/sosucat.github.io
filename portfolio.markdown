@@ -7,7 +7,7 @@ permalink: /portfolio/
 <link href="{{site.baseurl}}/assets/css/main.css" rel="stylesheet">
 This page shows my works ranging from published research to course work.
 
-![thermoBlinds](/assets/images/thermoBlinds.png){: .img-left}
+![thermoBlinds](/assets/images/thermoBlinds.gif){: .img-left}
   <div class="clearfix">
    <p><b>ThermoBlinds</b> <br>Non-Contact Rapid Thermal Feedback</p>
   </div>
@@ -17,7 +17,7 @@ This page shows my works ranging from published research to course work.
    <p><b>Visuo-Thermal Display</b> <br>Superimposing Visual and Thermal Feedback Using a Mesh Screen</p>
   </div>
 
-![rattlEye](/assets/images/rattlEye.png){: .img-left}
+![rattlEye](/assets/images/rattlEye.gif){: .img-left}
   <div class="clearfix">
    <p><b>RattlEye</b> <br>Augmenting Vision with Gaze-based Thermal Feedback</p>
   </div>
@@ -27,7 +27,7 @@ This page shows my works ranging from published research to course work.
    <p><b>ThermoGaze</b> <br>Representation of Other's Gaze with Thermal Feedback</p>
   </div>
 
-![fireball](/assets/images/fireball.png){: .img-left}
+![fireball](/assets/images/fireball.gif){: .img-left}
   <div class="clearfix">
    <p><b>Reproduction of Non-Contact Sudden Temperature Changes</b></p>
   </div>
