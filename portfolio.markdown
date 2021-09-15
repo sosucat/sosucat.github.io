@@ -13,30 +13,41 @@ Caption test calk asfdlkjl lkasfjd asdklfj alsdfj  lasfdjk
 </div>
 
 ![mesh1](/assets/images/mesh1.png){: .img-left}
-Caption test caption test caption test\n\n\n
-
+<div class="center">
+Caption test caption test ca
+</div>
 
 ![rattlEye](/assets/images/rattlEye.png){: .img-left}
-*Caption caption aldfjjjjj kkkkkads dddddd ddddddd ddddd*
-
+<div class="center">
+Caption caption aldfjjjjj kkkkkads dddddd ddddddd ddddd
+</div>
 
 ![thermalGaze](/assets/images/thermalGaze.png){: .img-left}
-*caption*
-
+<div class="center">
+caption
+</div>
 
 ![fireball](/assets/images/fireball.png){: .img-left}
-*Caption caption add warm to snow. both in gif file*
+<div class="center">
+Caption caption add warm to snow. both in gif file
+</div>
 
 ![redirection](/assets/images/redirection.png){: .img-left}
-*caption caption*
+<div class="center">
+caption caption
+</div>
 
 ![therMouse](/assets/images/therMouse.png){: .img-left}
-*caption caption*
+<div class="center">
+caption caption
+</div>
 
 ![colorization](/assets/images/colorization.gif){: .img-left}
-*caption caption*
+<div class="center">
+caption caption
+</div>
 
-<p align="center">
+<p align="left">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKDcPVnvKvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 *If the video does not work, please watch it [here](https://www.youtube.com/VKDcPVnvKvc)*
