@@ -9,21 +9,27 @@ This page shows my works ranging from published research to course work.
 
 ![thermoBlinds](/assets/images/thermoBlinds.gif){: .img-left}
   <div class="clearfix">
-   <p><b>ThermoBlinds</b> <br>Non-Contact Rapid Thermal Feedback</p>
+   <p><b>ThermoBlinds</b> <br>Non-Contact Rapid Thermal Feedback
+   <b><i>[MIMSVAI'21 (UbiComp'21), Ichihashi et al.]</i></b> <a href="https://doi.org/10.1145/3460418.3480160">PDF</a>|<a href="https://mimsvai.github.io/#/">Program</a>
+   </p>
   </div>
 
 <p></p>
 
 ![mesh1](/assets/images/mesh1.png){: .img-left}
   <div class="clearfix">
-   <p><b>Visuo-Thermal Display</b> <br>Superimposing Visual and Thermal Feedback Using a Mesh Screen</p>
+   <p><b>Visuo-Thermal Display</b> <br>Superimposing Visual and Thermal Feedback Using a Mesh Screen
+   <b><i>[MIMSVAI'21 (UbiComp'21), Ichihashi et al.]</i></b> <a href="https://doi.org/10.1145/3460418.3480160">PDF</a>|<a href="https://mimsvai.github.io/#/">Program</a>
+   </p>
   </div>
 
 <p></p>
 
 ![rattlEye](/assets/images/rattlEye.gif){: .img-left}
   <div class="clearfix">
-   <p><b>RattlEye</b> <br>Augmenting Vision with Gaze-based Thermal Feedback</p>
+   <p><b>RattlEye</b> <br>Augmenting Vision with Gaze-based Thermal Feedback
+   <b><i>[MIMSVAI'21 (UbiComp'21), Ichihashi et al.]</i></b> <a href="https://doi.org/10.1145/3460418.3480160">PDF</a>|<a href="https://mimsvai.github.io/#/">Program</a>
+   </p>
   </div>
 
 <p></p>
@@ -44,7 +50,9 @@ This page shows my works ranging from published research to course work.
 
 ![redirection](/assets/images/redirection.png){: .img-left}
   <div class="clearfix">
-   <p><b>Orientation Perception Using Far-Infrared Rays</b></p>
+   <p><b>Orientation Perception Using Far-Infrared Rays</b>
+   <b><i>[SICE SI'21, Ichihashi et al. (JPN)]</i></b> <a href="https://sice-si.org/conf/si2020/SI2020%E6%9A%AB%E5%AE%9A%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A01204r2.pdf#page=5">Program (1F1-13)</a>
+   </p>
   </div>
 
 <p></p> 
