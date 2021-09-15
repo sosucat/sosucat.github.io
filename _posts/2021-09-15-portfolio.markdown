@@ -14,7 +14,7 @@ This page shows my works ranging from published research to course work.
 *Caption test caption test caption test*
 
 ![rattlEye](/assets/works/rattlEye.png){: height="400" }
-*Caption caption aldfjjjjjkkkkkadsddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd*
+*Caption caption aldfjjjjj kkkkkads dddddd ddddddd dddddddd ddddd dddddd dddd dddddd dddddd ddddddddd ddddddd dddddd dddd ddddddd dddd ddddddd ddddd ddddd dddddddd dddd dddddd ddddddd*
 
 ![thermalGaze](/assets/works/thermalGaze.png){: height="400" }
 ![thermalGazeGif](/assets/works/thermalGaze.gif){: height="200" }
