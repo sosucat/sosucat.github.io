@@ -26,7 +26,7 @@ International Symposium on Measurement and Control in Robotics 2021 (ISMCR 2021)
 - <i><b>High-Speed Non-Contact Thermal Display Using Infrared Rays and Shutter Mechanism</b></i>.<br>
 **Sosuke Ichihashi**, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami. <br>
 The First Workshop on Multiple Input Modalities and Sensations for VR/AR Interactions (MIMSVAI 2021). In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium on Wearable Computers (UbiComp-ISWC ’21 Adjunct). 2021.<br>
-![award-icon](assets/images/award.png){: height="25"}
+![award-icon](assets/images/award.png){: height="35"}
 <b>Best Paper Award</b> (The best paper presented at the conference)<br>
 [Web](https://mimsvai.github.io/#/) ; [PDF](https://doi.org/10.1145/3460418.3480160)
   
