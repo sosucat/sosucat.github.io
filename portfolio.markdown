@@ -12,7 +12,7 @@ This page shows my works ranging from published research to course work.
    <hr style="width:40%;text-align:left;margin-left:0">
    <p><b style="font-size:28px">ThermoBlinds</b> <br>Non-Contact Rapid Thermal Feedback<br>
    <b><i>[MIMSVAI'21 (UbiComp'21), Ichihashi et al.]</i></b><br>
-   ![award-icon](/assets/images/award.png){: height="45"}
+![award-icon](/assets/images/award.png){: height="45"}
    <b>Best Paper Award</b><br>
    <a href="https://doi.org/10.1145/3460418.3480160">PDF</a> | <a href="https://mimsvai.github.io/#/">Program</a>
    </p>
