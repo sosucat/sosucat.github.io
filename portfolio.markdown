@@ -106,6 +106,7 @@ This page shows my works ranging from published research to course work.
    <hr style="width:40%;text-align:left;margin-left:0">
    <p><b style="font-size:28px">AfterMemory</b> <br>Instant Colorization of Black-and-White Images Using DNN and After Image Illusions<br>
    <b><i>[UTokyo GII-WS6135L3 Project]</i></b>
+   Keep looking at the white dot at the center of the inverted color image, and you can see colors in the black-and-while photo.
    </p>
   </div>
 
