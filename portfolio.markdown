@@ -60,7 +60,7 @@ This page shows my works ranging from published research to course work.
 ![fireball](/assets/images/fireball.gif){: .img-left}
   <div class="clearfix">
    <hr style="width:40%;text-align:left;margin-left:0">
-   <p><b style="font-size:28px">Reproduction of Non-Contact Sudden Temperature Changes</b><br>
+   <p><b style="font-size:28px">Reproduction of Sudden Temperature Changes</b><br>
    <b><i>[MIMSVAI'21 (UbiComp'21), Ichihashi et al.]</i></b><br>
    <img src="/assets/images/award.png" alt="award-icon" height="40">
    <b>Best Paper Award</b><br>
