@@ -22,7 +22,7 @@ His research is presented in several HCI conferences (ACM UbiComp MIMSVAI, IEEE 
 
 - **Sosuke Ichihashi**, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami. <br><i>High-Speed Non-Contact Thermal Display Using Infrared Rays and Shutter Mechanism</i>.
 <br>The First Workshop on Multiple Input Modalities and Sensations for VR/AR Interactions (MIMSVAI 2021). In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium on Wearable Computers (UbiComp-ISWC ’21 Adjunct). 2021. <br>[Web](https://mimsvai.github.io/#/) ; [PDF](https://doi.org/10.1145/3460418.3480160)
-<img src="assets/award.png" alt="award-icon" width="200"/>
+![award-icon](assets/award.png){: width="200"}
   
 ### Domestic Conference
 
