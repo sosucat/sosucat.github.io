@@ -44,7 +44,21 @@ permalink: /portfolio/
   </div>
 
 <p><br></p>
- 
+
+<p></p>
+
+<p align="left" class="img-left">
+   <iframe width="448" height="252" src="https://www.youtube.com/embed/D27hc_rb2Y4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </p>
+ <div class="clearfix">
+  <hr style="width:40%;text-align:left;margin-left:0">
+  <p><b style="font-size:28px">Thermal Landscape</b> <br>Combination of Rattleye and Visuo-Thermal Display.<br><br><br><br><br></p>
+ </div>
+
+<p><br></p>
+
+<p></p>
+
 ![thermalGaze](/assets/images/thermalGaze.png){: .img-left}
   <div class="clearfix">
    <hr style="width:40%;text-align:left;margin-left:0">
@@ -168,16 +182,5 @@ permalink: /portfolio/
 
 <p></p>
 
-<p align="left" class="img-left">
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/D27hc_rb2Y4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- </p>
- <div class="clearfix">
-  <hr style="width:40%;text-align:left;margin-left:0">
-  <p><b style="font-size:28px">Thermal Landscape</b> <br>Combination of Rattleye and Visuo-Thermal Display.<br><br><br><br><br></p>
- </div>
-
-<p><br></p>
-
-<p></p>
 
 <script src="{{site.baseurl}}/assets/js/main.js"></script>
