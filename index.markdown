@@ -13,10 +13,15 @@ As a M.Sc. Candidate in the [Information Somatics Lab](https://www.star.rcast.u-
 He is passionate about creating interactive thermal experiences using such interfaces. He also explores augmentation techniques for human cognitive skills as a research collaborator of the [JST ERATO JIZAI Body Project](https://www.jst.go.jp/erato/inami/en/member.html).
 
 Before joining the Information Somatics Lab, he received Bachelor's degree in Civil Engineering from [Kyoto University ICP](https://www.s-ge.t.kyoto-u.ac.jp/int/en). He also took an exchange at the University of Texas at Austin ECE. 
-His research is presented in several HCI conferences (ACM UbiComp MIMSVAI, IEEE ISMCR) and domestic conferences (VRSJ, IPSJ EC, SICE SI) and submitted to ACM CHI.
+His research is presented in several HCI conferences (ACM SIGGRAPH Emerging Technologies, ACM UbiComp MIMSVAI, IEEE ISMCR) and domestic conferences (VRSJ, IPSJ EC, SICE SI).
 
 ## You can find my publications at:  
 ### International Conference
+
+- <i><b>ThermoBlinds: Non-Contact, Highly Responsive Thermal Feedback for Thermal Interaction</b></i>.<br>
+**Sosuke Ichihashi**, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, Sohei Wakisaka, and Masahiko Inami. <br>
+In Special Interest Group on Computer Graphics and Interactive Techniques Conference Emerging Technologies (SIGGRAPH ’22 Emerging Technologies ). 2021.<br>
+[Web](https://s2022.siggraph.org/) ; [PDF](https://doi.org/10.1145/3532721.3535569)
 
 - <i><b>The effect of temperature presentation according to the gaze of others on remote communications</b></i>. <br>
 **Sosuke Ichihashi**, Arata Horie, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami. <br>
@@ -25,7 +30,7 @@ International Symposium on Measurement and Control in Robotics 2021 (ISMCR 2021)
 
 - <i><b>High-Speed Non-Contact Thermal Display Using Infrared Rays and Shutter Mechanism</b></i>.<br>
 **Sosuke Ichihashi**, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami. <br>
-The First Workshop on Multiple Input Modalities and Sensations for VR/AR Interactions (MIMSVAI 2021). In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium on Wearable Computers (UbiComp-ISWC ’21 Adjunct). 2021.<br>
+In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium on Wearable Computers (UbiComp-ISWC ’21 Adjunct). 2021.<br>
 ![award-icon](assets/images/award.png){: height="45"}
 <b>Best Paper Award</b> (The best paper presented at the MIMSVAI 2021)<br>
 [Web](https://mimsvai.github.io/#/) ; [PDF](https://doi.org/10.1145/3460418.3480160)
