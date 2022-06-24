@@ -20,7 +20,7 @@ His research is presented in several HCI conferences (ACM SIGGRAPH Emerging Tech
 
 - <i><b>ThermoBlinds: Non-Contact, Highly Responsive Thermal Feedback for Thermal Interaction</b></i>.<br>
 **Sosuke Ichihashi**, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, Sohei Wakisaka, and Masahiko Inami. <br>
-In Special Interest Group on Computer Graphics and Interactive Techniques Conference Emerging Technologies (SIGGRAPH ’22 Emerging Technologies ). 2021.<br>
+In Special Interest Group on Computer Graphics and Interactive Techniques Conference Emerging Technologies (SIGGRAPH ’22 Emerging Technologies ). 2022.<br>
 [Web](https://s2022.siggraph.org/) ; [PDF](https://doi.org/10.1145/3532721.3535569)
 
 - <i><b>The effect of temperature presentation according to the gaze of others on remote communications</b></i>. <br>
