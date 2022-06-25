@@ -13,7 +13,8 @@ permalink: /portfolio/
    <b><i>[MIMSVAI'21 (UbiComp'21), Ichihashi et al.]</i></b><br>
    <img src="/assets/images/award.png" alt="award-icon" height="40">
    <b>Best Paper Award</b><br>
-   <a href="https://doi.org/10.1145/3460418.3480160">PDF</a> | <a href="https://mimsvai.github.io/#/">Program</a>
+   <a href="https://doi.org/10.1145/3460418.3480160">PDF</a> | <a href="https://mimsvai.github.io/#/">Program</a><br>
+   <b><i>[SIGGRAPH '22 Emerging Technologies, Ichihashi et al.]</i></b>
    </p>
   </div>
 
