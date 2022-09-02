@@ -15,7 +15,7 @@ permalink: /portfolio/
    <b>Best Paper Award</b><br>
    <a href="https://doi.org/10.1145/3460418.3480160">PDF</a> | <a href="https://mimsvai.github.io/#/">Program</a><br>
    <b><i>[SIGGRAPH '22 Emerging Technologies, Ichihashi et al.]</i></b><br>
-   PDF | <a href="https://s2022.siggraph.org/">Program</a>
+   <a href="https://youtu.be/r-ATCyN7rWQ">Video</a> | <a href="https://doi.org/10.1145/3532721.3535569">PDF</a> | <a href="https://s2022.siggraph.org/">Program</a>
    </p>
   </div>
 
