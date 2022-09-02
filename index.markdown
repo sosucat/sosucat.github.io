@@ -8,11 +8,11 @@ title: About
 
 
 <b style="font-size:24px">Sosuke Ichihashi</b> is an HCI (Human-Computer Interaction) & DM (Digital Media) researcher from Japan.  <br>
-As a Ph.D. Candidate in [Digital Media](https://dm.lmc.gatech.edu/) at Georgia Tech, <u>he focuses on inventing novel thermal feedback systems, exploring the relationship between thermal sensations and emotions, and creating installations where people's emotional/social interactions are mediated through interactive thermal feedback.</u>
+As a Ph.D. Candidate in [Digital Media](https://dm.lmc.gatech.edu/) Georgia Tech, advised by [Dr. Noura Howell](https://nourahowell.com/), <u>he focuses on inventing novel thermal feedback systems, exploring the relationship between thermal sensations and emotions, and creating installations where people's emotional/social interactions are mediated through interactive thermal feedback.</u>
 
 He is passionate about creating interactive thermal feedback system to augment interpersonal and human-computer interactions.
 
-Before joining Georgia Tech, he worked on in the [Information Somatics Lab](https://www.star.rcast.u-tokyo.ac.jp) of The University of Tokyo, where he received Master's degree in Arts and Sciences. During his master's study, he also explores augmentation techniques for human cognitive skills as a research collaborator of the [JST ERATO JIZAI Body Project](https://www.jst.go.jp/erato/inami/en/member.html). He received Bachelor's degree in Civil Engineering from [Kyoto University ICP](https://www.s-ge.t.kyoto-u.ac.jp/int/en) and took an exchange at the University of Texas at Austin ECE. 
+Before joining Georgia Tech, he worked with [Dr. Masahiko Inami](https://twitter.com/drinami) in the [Information Somatics Lab](https://www.star.rcast.u-tokyo.ac.jp) of The University of Tokyo, where he received Master's degree in Arts and Sciences. During his master's study, he also explores augmentation techniques for human cognitive skills as a research collaborator of the [JST ERATO JIZAI Body Project](https://www.jst.go.jp/erato/inami/en/member.html). He received Bachelor's degree in Civil Engineering from [Kyoto University ICP](https://www.s-ge.t.kyoto-u.ac.jp/int/en) and took an exchange at the University of Texas at Austin ECE. 
 His research is presented in several HCI conferences (ACM SIGGRAPH Emerging Technologies, ACM UbiComp MIMSVAI, IEEE ISMCR) and domestic conferences (VRSJ, IPSJ EC, SICE SI).
 
 ## You can find my publications at:  
