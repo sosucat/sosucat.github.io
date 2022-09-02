@@ -3,7 +3,7 @@ layout: home
 title: About
 ---
 
-![profile pic](assets/images/profile1.jpg){: width="250" }  
+![profile pic](assets/images/ichihashi_headshot.jpg){: width="250" }  
 <a style="font-size:24px" href="/assets/pdfs/soi_cv.pdf">Download CV</a>
 
 
