@@ -5,6 +5,7 @@ title: About
 
 ![profile pic](assets/images/ichihashi_headshot.jpg){: width="250" }  
 <a style="font-size:24px" href="/assets/pdfs/soi_cv.pdf">Download CV</a>
+<a style="font-size:24px" href="https://twitter.com/RefreshSource">Follow me on</a>![Twitter_icon](assets/images/Twitter social icons - rounded square - blue.png)
 
 
 <b style="font-size:24px">Sosuke Ichihashi</b> is an HCI (Human-Computer Interaction) & DM (Digital Media) researcher from Japan.  <br>
