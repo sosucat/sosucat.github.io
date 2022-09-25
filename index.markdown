@@ -10,7 +10,7 @@ title: About
 
 
 <b style="font-size:24px">Sosuke Ichihashi</b> is an HCI (Human-Computer Interaction) & DM (Digital Media) researcher from Japan.  <br>
-As a Ph.D. Candidate in [Digital Media](https://dm.lmc.gatech.edu/) Georgia Tech, advised by [Dr. Noura Howell](https://nourahowell.com/), <u>he focuses on inventing novel thermal feedback systems, exploring the relationship between thermal sensations and emotions, and creating installations where people's emotional/social interactions are mediated through interactive thermal feedback.</u>
+As a Ph.D. student in [Digital Media](https://dm.lmc.gatech.edu/) Georgia Tech, advised by [Dr. Noura Howell](https://nourahowell.com/), <u>he focuses on inventing novel thermal feedback systems, exploring the relationship between thermal sensations and emotions, and creating installations where people's emotional/social interactions are mediated through interactive thermal feedback.</u>
 
 He is passionate about creating interactive thermal feedback system to augment interpersonal and human-computer interactions.
 
