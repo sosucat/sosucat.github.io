@@ -4,7 +4,7 @@ title: About
 ---
 
 ![profile pic](assets/images/ichihashi_headshot.jpg){: width="250" }  
-<a style="font-size:24px" href="/assets/pdfs/soi_cv202209.pdf">Download CV</a> | Follow me:
+<a style="font-size:24px" href="/assets/pdfs/soi_cv_20221221.pdf">Download CV</a> | Follow me:
 <a href="https://twitter.com/RefreshSource">
   <img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:26px;height:26px;">
 
