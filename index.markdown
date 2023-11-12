@@ -7,7 +7,7 @@ google_analytics: UA-NNNNNNNN-N
 <br>
 <p style="font-weight:450;line-height:2.5">Sosuke Ichihashi is a Ph.D. student in Digital Media, Georgia Tech (advisor: <a style="color: inherit; text-decoration: underline;" href="https://nourahowell.com/">Noura Howell</a>).<br>
 He creates new media to gain insights into how people perceive and engage with the world.
-He approaches this in a variety of ways, going back to debates in philosophy, the arts, media theory and computational science in its early days, as well as augmenting human perception by considering human perceptual and bodily mechanisms.
+He approaches this in a variety of ways, going back to debates in philosophy, the arts, media theory and computer science in its early days, as well as augmenting human perception by considering human perceptual and bodily mechanisms.
 </p>
 <br>
 
@@ -19,7 +19,7 @@ He approaches this in a variety of ways, going back to debates in philosophy, th
 
  
 # Publications
-### International Conference
+### International Conferences
 <ol style="font-size:14px; font-weight:320">
 <li><p><strong>Sosuke Ichihashi</strong>, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, Sohei Wakisaka, and Masahiko Inami.
 ThermoBlinds: Non-Contact, Highly Responsive Thermal Feedback for Thermal Interaction.
@@ -40,7 +40,7 @@ In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasi
 </ol>
 <br>
 
-### Domestic Conference
+### Domestic Conferences
 <ol style="font-size:14px; font-weight:320">
 <li><strong>Sosuke Ichihashi</strong>, Arata Horie, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami.
 The effect of temperature presentation according to the gaze of others on remote communications.
@@ -62,7 +62,7 @@ The Society of Instrument and Control Engineering System Integration Division Co
 </ol>
 <br>
 
-### Other works
+### Other Works
 <ol style="font-size:14px; font-weight:320">
 <li>UT Austin GEO 327G GIS & GPS Applications in Earth Sciences: Maps of the Week.
 <a style="color: inherit; text-decoration: underline;" href="http://courses.geo.utexas.edu/courses/371c/MOW/2018F/lab1/MOW_Lab_1__Ichihashi_large.htm">PDF</a>
