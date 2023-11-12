@@ -6,7 +6,4 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize",
   "minima/custom-styles";
-@font-face {
-  font-family: "cairo_play";
-  src: url("../assets/fonts/Cairo_Play/static/CairoPlay-Bold.ttf");
-}
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
