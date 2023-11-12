@@ -5,3 +5,4 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'solarized' }}",
   "minima/initialize";
+  "minima/custom-styles";
