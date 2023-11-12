@@ -4,16 +4,6 @@ title: About
 google_analytics: UA-NNNNNNNN-N
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-G7XY13DQR0"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-G7XY13DQR0');
-</script>
-
 
 ![profile pic](assets/images/ichihashi_headshot.jpg){: width="250" }  
 <a style="font-size:24px" href="/assets/pdfs/soi_cv_20221221.pdf">Download CV</a> | Follow me:
