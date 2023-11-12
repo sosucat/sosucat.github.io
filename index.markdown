@@ -5,21 +5,18 @@ google_analytics: UA-NNNNNNNN-N
 ---
 
 
+Sosuke Ichihashi is a Ph.D. student in Digital Media, Georgia Tech (advisor: [Noura Howell](https://nourahowell.com/)).
+He creates new media to gain new insights into how people perceive and engage with the world.
+He approaches this in a variety of ways, going back to debates in philosophy, the arts, media theory and computational science in its early days, as well as augmenting human perception by considering human perceptual and bodily mechanisms.
+
+
 ![profile pic](assets/images/ichihashi_headshot.jpg){: width="250" }  
-<a style="font-size:24px" href="/assets/pdfs/soi_cv_20221221.pdf">Download CV</a> | Follow me:
+<a style="font-size:17px;color:rgba(30, 30, 100);" href="/assets/pdfs/soi_cv_20221221.pdf">Download CV</a> | Follow me:
 <a href="https://twitter.com/RefreshSource">
   <img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:26px;height:26px;">
 
-
-<b style="font-size:24px">Sosuke Ichihashi</b> is an HCI (Human-Computer Interaction) & DM (Digital Media) researcher from Japan.  <br>
-As a Ph.D. student in [Digital Media](https://dm.lmc.gatech.edu/) Georgia Tech, advised by [Dr. Noura Howell](https://nourahowell.com/), <u>he focuses on inventing novel thermal feedback systems, exploring the relationship between thermal sensations and emotions, and creating installations where people's emotional/social interactions are mediated through interactive thermal feedback.</u>
-
-He is passionate about creating interactive thermal feedback system to augment interpersonal and human-computer interactions.
-
-Before joining Georgia Tech, he worked with [Dr. Masahiko Inami](https://twitter.com/drinami) in the [Information Somatics Lab](https://www.star.rcast.u-tokyo.ac.jp) of The University of Tokyo, where he received Master's degree in Arts and Sciences. During his master's study, he also explores augmentation techniques for human cognitive skills as a research collaborator of the [JST ERATO JIZAI Body Project](https://www.jst.go.jp/erato/inami/en/member.html). He received Bachelor's degree in Civil Engineering from [Kyoto University ICP](https://www.s-ge.t.kyoto-u.ac.jp/int/en) and took an exchange at the University of Texas at Austin ECE. 
-His research is presented in several HCI conferences (ACM SIGGRAPH Emerging Technologies, ACM UbiComp MIMSVAI, IEEE ISMCR) and domestic conferences (VRSJ, IPSJ EC, SICE SI).
-
-## You can find my publications at:  
+ 
+## Publications:  
 ### International Conference
 
 - <i><b>ThermoBlinds: Non-Contact, Highly Responsive Thermal Feedback for Thermal Interaction</b></i>.<br>
@@ -56,7 +53,7 @@ Information Processing Society of Japan Entertainment Computing 2021. 2021. in J
 The Society of Instrument and Control Engineering System Integration Division Conference. 2020. in Japanese. <br>
 [Program (JPN)](https://www.sice-si.org/conf/si2020/SI2020%E6%9A%AB%E5%AE%9A%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A01204r2.pdf)
   
-### You can find my other works at:
+### Other works:
 
 - UT Austin GEO 327G GIS & GPS Applications in Earth Sciences: Maps of the Week <br>
 [PDF](http://courses.geo.utexas.edu/courses/371c/MOW/2018F/lab1/MOW_Lab_1__Ichihashi_large.htm)
