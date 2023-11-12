@@ -5,7 +5,7 @@ permalink: /portfolio/
 google_analytics: UA-NNNNNNNN-N
 ---
 
-<link href="{{site.baseurl}}/assets/css/main.css" rel="stylesheet">
+<!--<link href="{{site.baseurl}}/assets/css/main.css" rel="stylesheet">-->
 
 ![thermoBlinds](/assets/images/thermoBlinds.gif){: .img-left}
   <div class="clearfix">
