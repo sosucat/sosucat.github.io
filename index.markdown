@@ -5,7 +5,7 @@ google_analytics: UA-NNNNNNNN-N
 ---
 
 
-<p style="font-weight:450;">Sosuke Ichihashi is a Ph.D. student in Digital Media, Georgia Tech (advisor: <a color:inherit; text-decoration:underline; href="https://nourahowell.com/">Noura Howell</a>).<br>
+<p style="font-weight:450;">Sosuke Ichihashi is a Ph.D. student in Digital Media, Georgia Tech (advisor: <a style="color: inherit; text-decoration: underline;" href="https://nourahowell.com/">Noura Howell</a>).<br>
 He creates new media to gain insights into how people perceive and engage with the world.
 He approaches this in a variety of ways, going back to debates in philosophy, the arts, media theory and computational science in its early days, as well as augmenting human perception by considering human perceptual and bodily mechanisms.
 </p>
@@ -20,25 +20,25 @@ He approaches this in a variety of ways, going back to debates in philosophy, th
 # Publications
 ### International Conference
 
-<ul style="font-size:14px; font-weight:300">
+<ol style="font-size:14px; font-weight:300">
 <li><p><strong>Sosuke Ichihashi</strong>, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, Sohei Wakisaka, and Masahiko Inami.
 ThermoBlinds: Non-Contact, Highly Responsive Thermal Feedback for Thermal Interaction.
 In Special Interest Group on Computer Graphics and Interactive Techniques Conference Emerging Technologies (SIGGRAPH ’22 Emerging Technologies ). 2022.
-<ul><a color=inherit; href="https://doi.org/10.1145/3532721.3535569">doi</a></ul></p>
+<a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3532721.3535569">doi</a></p>
 </li>
 <li><p><strong>Sosuke Ichihashi</strong>, Arata Horie, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami.
 The effect of temperature presentation according to the gaze of others on remote communications.
 International Symposium on Measurement and Control in Robotics 2021 (ISMCR 2021). 2021.
-<ul><a style="color:rgba(50, 50, 50, 1.0)"; href="https://secureservercdn.net/198.71.233.33/l95.2a1.myftpupload.com/wp-content/uploads/2021/09/ISMCR2021-October-1st-PROGRAM-.pdf">Program</a></ul></p>
+<ul><a style="color: inherit; text-decoration: underline;" href="https://secureservercdn.net/198.71.233.33/l95.2a1.myftpupload.com/wp-content/uploads/2021/09/ISMCR2021-October-1st-PROGRAM-.pdf">Program</a></ul></p>
 </li>
 <li><p><strong>Sosuke Ichihashi</strong>, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami.
 High-Speed Non-Contact Thermal Display Using Infrared Rays and Shutter Mechanism.
 In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium on Wearable Computers (UbiComp-ISWC ’21 Adjunct). 2021.
 <b style="color:blue;">Best Paper Award</b>.
-<ul><a style="color:rgba(50, 50, 50, 1.0)"; href="https://doi.org/10.1145/3460418.3480160">doi</a></ul>
+<a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3460418.3480160">doi</a>
 </p>
 </li>
-</ul>
+</ol>
 <br><br>
 
 ### Domestic Conference
