@@ -1,6 +1,7 @@
 ---
 layout: home
 title: About
+google_analytics: UA-NNNNNNNN-N
 ---
 
 ![profile pic](assets/images/ichihashi_headshot.jpg){: width="250" }  
