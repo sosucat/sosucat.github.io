@@ -44,19 +44,19 @@ In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasi
 <li><strong>Sosuke Ichihashi</strong>, Arata Horie, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami.
 The effect of temperature presentation according to the gaze of others on remote communications.
 The 26th Annual Conference of Virtual Reality Society of Japan (VRSJ 2021). 2021. in Japanese.
-<a style="color: inherit; text-decoration: underline;" href="http://conference.vrsj.org/ac2021/program/doc/1G-9.pdf">PDF (JPN)</a></p>
+<a style="color: inherit; text-decoration: underline;" href="http://conference.vrsj.org/ac2021/program/doc/1G-9.pdf">PDF (JPN)</a>
 </li>
 
 <li><strong>Sosuke Ichihashi</strong>, Arata Horie, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami.
 High-Response Thermal Presentation by Controlling Infrared Radiant Intensity using a Shutter Mechanism.
 Information Processing Society of Japan Entertainment Computing 2021. 2021. in Japanese.
-<a style="color: inherit; text-decoration: underline;" href="https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_action_common_download&item_id=212594&item_no=1&attribute_id=1&file_no=1">PDF (JPN)</a></p>
+<a style="color: inherit; text-decoration: underline;" href="https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_action_common_download&item_id=212594&item_no=1&attribute_id=1&file_no=1">PDF (JPN)</a>
 </li>
 
 <li><strong>Sosuke Ichihashi</strong>, Arata Horie, Hiroto Saito, Zendai Kashino, and Masahiko Inami.
 Preliminary Study on Orientation Perception with Far Infrared Stimulus.
 The Society of Instrument and Control Engineering System Integration Division Conference. 2020. in Japanese.
-<a style="color: inherit; text-decoration: underline;" href="https://www.sice-si.org/conf/si2020/SI2020%E6%9A%AB%E5%AE%9A%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A01204r2.pdf">Program (JPN)</a></p>
+<a style="color: inherit; text-decoration: underline;" href="https://www.sice-si.org/conf/si2020/SI2020%E6%9A%AB%E5%AE%9A%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A01204r2.pdf">Program (JPN)</a>
 </li>
 </ol>
 <br>
