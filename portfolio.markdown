@@ -2,6 +2,7 @@
 layout: page
 title:  "Portfolio"
 permalink: /portfolio/
+google_analytics: UA-NNNNNNNN-N
 ---
 
 <link href="{{site.baseurl}}/assets/css/main.css" rel="stylesheet">
