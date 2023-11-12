@@ -28,13 +28,13 @@ header_pages:
   - portfolio.markdown
 author:
   name: Sosuke Ichihashi
-  email: "<firstname>.<lastname>@gmail.com"
+  email: "{firstname}.{lastname}@gmail.com"
 minima:
   skin: auto
   social_links:
+    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=JwB4tYUAAAAJ" }
     - { platform: github, user_url: "https://github.com/sosucat" }
     - { platform: twitter, user_url: "https://twitter.com/RefreshSource" }
-    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=JwB4tYUAAAAJ" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/sosuke-ichihashi-891816259/" }
     - { platform: youtube, user_url: "https://www.youtube.com/channel/UC5aYO7m1LJU8A_a3dsHbALA" }
 google_analytics: UA-NNNNNNNN-N
