@@ -3,6 +3,6 @@
 ---
 
 @import
-  "minima/skins/{{ site.minima.skin | default: 'solarized' }}",
+  "minima/skins/{{ site.minima.skin | default: 'light' }}",
   "minima/initialize",
   "minima/custom-styles";
