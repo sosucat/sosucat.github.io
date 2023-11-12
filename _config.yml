@@ -29,6 +29,9 @@ github_username:  sosucat
 header_pages:
   - index.markdown
   - portfolio.markdown
+author:
+  - name: Sosuke Ichihashi
+  - email: "sosuke.ichihashi@gmail.com"
 
 # Build settings
 theme: minima
