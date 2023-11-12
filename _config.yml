@@ -19,19 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Sosuke Ichihashi
-email: firstname.familyname[at]gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is Sosuke Ichihashi's website including his portfolio, publications, and introduction.
+  &copy 2023 Sosuke Ichihashi.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sosucat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:  RefreshSource
-github_username:  sosucat
 header_pages:
   - index.markdown
   - portfolio.markdown
 author:
   name: Sosuke Ichihashi
-  email: "sosuke.ichihashi@gmail.com"
+  email: "<firstname>.<lastname>@gmail.com"
 minima:
   skin: auto
   social_links:
