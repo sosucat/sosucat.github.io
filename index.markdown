@@ -5,13 +5,13 @@ google_analytics: UA-NNNNNNNN-N
 ---
 
 
-<p style="font-weight:450;">Sosuke Ichihashi is a Ph.D. student in Digital Media, Georgia Tech (advisor: <ul><a style="color:rgba(50, 50, 50, 1.0)"; href="https://nourahowell.com/">Noura Howell</a></ul>).<br>
+<p style="font-weight:450;">Sosuke Ichihashi is a Ph.D. student in Digital Media, Georgia Tech (advisor: <a color=inherit; text-decoration=underline; href="https://nourahowell.com/">Noura Howell</a>).<br>
 He creates new media to gain insights into how people perceive and engage with the world.
 He approaches this in a variety of ways, going back to debates in philosophy, the arts, media theory and computational science in its early days, as well as augmenting human perception by considering human perceptual and bodily mechanisms.
 </p>
 
 ![profile pic](assets/images/ichihashi_headshot.jpg){: width="250" }  
-<ul><a style="font-size:17px;color:rgba(50, 50, 50, 1.0);" href="/assets/pdfs/soi_cv_20221221.pdf">Download CV</a></ul> | Follow me:
+<a style="font-size:17px; color:rgba(50, 50, 50, 1.0)" text-decoration=underline; href="/assets/pdfs/soi_cv_20221221.pdf">Download CV</a> | Follow me:
 <a href="https://twitter.com/RefreshSource">
   <img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:26px;height:24px;">
 <br><br><br><br>
@@ -24,7 +24,7 @@ He approaches this in a variety of ways, going back to debates in philosophy, th
 <li><p><strong>Sosuke Ichihashi</strong>, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, Sohei Wakisaka, and Masahiko Inami.
 ThermoBlinds: Non-Contact, Highly Responsive Thermal Feedback for Thermal Interaction.
 In Special Interest Group on Computer Graphics and Interactive Techniques Conference Emerging Technologies (SIGGRAPH ’22 Emerging Technologies ). 2022.
-<ul><a style="color:rgba(50, 50, 50, 1.0)"; href="https://doi.org/10.1145/3532721.3535569">doi</a></ul></p>
+<ul><a color=inherit; href="https://doi.org/10.1145/3532721.3535569">doi</a></ul></p>
 </li>
 <li><p><strong>Sosuke Ichihashi</strong>, Arata Horie, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami.
 The effect of temperature presentation according to the gaze of others on remote communications.
