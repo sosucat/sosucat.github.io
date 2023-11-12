@@ -18,7 +18,7 @@ He approaches this in a variety of ways, going back to debates in philosophy, th
 
  
 # Publications
-## International Conference
+### International Conference
 
 - **Sosuke Ichihashi**, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, Sohei Wakisaka, and Masahiko Inami.
 ThermoBlinds: Non-Contact, Highly Responsive Thermal Feedback for Thermal Interaction.
@@ -36,9 +36,9 @@ In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasi
 ![award-icon](assets/images/award.png){: height="24"}
 <b>Best Paper Award</b>.
 [doi](https://doi.org/10.1145/3460418.3480160)
+<br>
 
-
-## Domestic Conference
+### Domestic Conference
 
 - **Sosuke Ichihashi**, Arata Horie, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami.
 The effect of temperature presentation according to the gaze of others on remote communications.
@@ -54,9 +54,9 @@ Information Processing Society of Japan Entertainment Computing 2021. 2021. in J
 Preliminary Study on Orientation Perception with Far Infrared Stimulus.
 The Society of Instrument and Control Engineering System Integration Division Conference. 2020. in Japanese.
 [Program (JPN)](https://www.sice-si.org/conf/si2020/SI2020%E6%9A%AB%E5%AE%9A%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A01204r2.pdf)
+<br>
 
-
-## Other works
+### Other works
 
 - UT Austin GEO 327G GIS & GPS Applications in Earth Sciences: Maps of the Week.
 [PDF](http://courses.geo.utexas.edu/courses/371c/MOW/2018F/lab1/MOW_Lab_1__Ichihashi_large.htm)
