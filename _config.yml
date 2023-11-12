@@ -30,7 +30,7 @@ author:
   name: Sosuke Ichihashi
   email: "{firstname}.{lastname}@gmail.com"
 minima:
-  skin: light
+  skin: classic
   social_links:
     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=JwB4tYUAAAAJ"}
     - { platform: twitter, user_url: "https://twitter.com/RefreshSource" }
