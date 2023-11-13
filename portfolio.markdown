@@ -11,6 +11,10 @@ google_analytics: UA-NNNNNNNN-N
 <p>RattlEye<br></p>
 <br><br>
 
+<a href="https://sosuke-ichihashi.com/vtd/"><img src="/assets/images/vtd/vtd_overview.jpg" alt="Visuo-Thermal Display" style="width:100%" class="center"></a>
+<p>Visuo-Thermal Display<br></p>
+<br><br>
+
 <a href="https://sosuke-ichihashi.com/momentochroma/"><img src="/assets/images/momentochroma/momentochroma_original.jpg" alt="MomentoChroma" style="width:60%" class="center"></a>
 <p>MomentoChroma<br></p>
 <br><br>
