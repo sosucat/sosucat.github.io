@@ -5,7 +5,7 @@ permalink: /momentochroma/
 google_analytics: UA-NNNNNNNN-N
 ---
 
-<p style="font-size: 13px;font-weight:450;line-height:2.5">
+<p style="font-size: 13px;font-weight:450;letter-spacing:0.0px;line-height:2.3">
   Photography is a medium that cuts out and fixes a moment in flowing time, and its realism presents its image in a compelling way.
   The fixation of the moment removes from the photographic medium the ephemeral reality that we, who live in the flow of time, usually perceive.
   The persuasiveness of the photograph also strongly presents the inaccurate colors of AI colorization.
@@ -28,6 +28,7 @@ google_analytics: UA-NNNNNNNN-N
 </p>
 <br>
 
+<h2>BACKGROUND</h2>
 <p style="font-size: 14px;font-weight:400">
   The development of GAN (Generative Adversarial Network) has made it possible to achieve AI colorization of old black-and-white photographs with some accuracy.
   This is a fantastic technology that adds a sense of realism to memories that until now could only be seen in black and white, as if they were being experienced now.
@@ -59,6 +60,7 @@ google_analytics: UA-NNNNNNNN-N
 </p>
 <br>
 
+<h2>PROCESS</h2>
 <p style="font-size: 12px;font-weight:300">
   <img src="/assets/images/momentochroma/momentochroma_process.jpg" alt="momentochroma_process" style="width: 100%;" class="center">
   <br>
@@ -69,6 +71,7 @@ google_analytics: UA-NNNNNNNN-N
 
 <br><br>
 
+<h2>GALLERY</h2>
 <p style="font-size: 12px;font-weight:300">
   <img src="/assets/images/momentochroma/momentochroma_kyoto.gif" alt="momentochroma_demo_kyoto" style="width: 100%;" class="center">
   <br>
