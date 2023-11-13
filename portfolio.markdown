@@ -7,7 +7,7 @@ google_analytics: UA-NNNNNNNN-N
 
 <!--<link href="{{site.baseurl}}/assets/css/main.css" rel="stylesheet">-->
 
-<a href="https://sosuke-ichihashi.com/momentochroma/"><img src="/assets/images/momentochroma/momentochroma_original.jpg" alt="MomentoChroma" style=""></a>
+<a href="https://sosuke-ichihashi.com/momentochroma/"><img src="/assets/images/momentochroma/momentochroma_original.jpg" alt="MomentoChroma" style="width:60%" class="center"></a>
 
 <p><br></p>
 
