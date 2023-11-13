@@ -9,6 +9,7 @@ google_analytics: UA-NNNNNNNN-N
   Photography is a medium that cuts out and fixes a moment in flowing time, and its realism presents its image in a compelling way.
   The fixation of the moment removes from the photographic medium the ephemeral reality that we, who live in the flow of time, usually perceive.
   The persuasiveness of the photograph also strongly presents the inaccurate colors of AI colorization.
+  <br>
   MomentoChroma makes us, whose gaze scans space in time, perceive colorful images only while we do not move our gaze in order to vividly realize the reality of the past.
   It is a perceptual experience clothed in aura, and the momentary color becomes a catalyst for evoking the colors of people's memories.
   As our peripheral vision is limited in spatial resolution, the AI-generated colors convey the overall atmosphere instead of convincing the viewers.
@@ -40,6 +41,7 @@ google_analytics: UA-NNNNNNNN-N
   Technical factors include the low resolution and high noise content of older photographs, as well as the fact that photographs often contain objects that are not present in modern training data.
   Perceptual factors include the difference between the visual environment at the time the photograph was taken and that of the person viewing the photograph, and the fact that the colors in the memory do not always match the "physically accurate" colors.
   As photograph presents its image in a persuasive manner, the inaccurate colorization could overwrite people's memories.
+
   
   Regarding this inaccuracy of AI colorization, <a href="https://doi.org/10.1145/3354918.3361904" style="color:inherit; text-decoration:underline">Niwata & Watanave</a> offer an interesting solution.
   They showed AI-colorized photos to the people involved in the shoot and manually corrected the colors as they conversed about their memories of the time.
