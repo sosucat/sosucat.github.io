@@ -5,7 +5,7 @@ permalink: /momentochroma/
 google_analytics: UA-NNNNNNNN-N
 ---
 
-<p style="font-size: 14px;font-weight:400;line-height:2.0">
+<p style="font-size: 14px;font-weight:400;line-height:2.5">
   Photography is a medium that cuts out and fixes a moment in flowing time, and its realism presents its image in a compelling way.
   The fixation of the moment removes from the photographic medium the ephemeral reality that we, who live in the flow of time, usually perceive.
   The persuasiveness of the photograph also strongly presents the inaccurate colors of AI colorization.
