@@ -5,6 +5,12 @@ permalink: /momentochroma/
 google_analytics: UA-NNNNNNNN-N
 ---
 
+Photography is a medium that cuts out and fixes a moment in flowing time, and its realism presents its image in a compelling way.
+The fixation of the moment removes from the photographic medium the ephemeral reality that we, who live in the flow of time, usually perceive.
+The persuasiveness of the photograph also strongly presents the inaccurate colors of AI colorization.
+MomentoChroma makes us, whose gaze scans space in time, perceive colorful images only while we do not move our gaze in order to vividly realize the reality of the past.
+It is a perceptual experience clothed in aura, and the momentary color becomes a catalyst for evoking the colors of people's memories.
+
 Keep staring at the dot at the center of the inverted color image. And you can experience a momental colorization of the black-and-white image.
 
 <p>
@@ -13,6 +19,7 @@ Keep staring at the dot at the center of the inverted color image. And you can e
   
   Original photograph: Kyoyo Kagayama. 1928. Young moga (modern girls) walk down a Ginza street in 1928 dressed in 'Beach Pyjama Style.'
 </p>
+<br><br>
 
 The development of GAN (Generative Adversarial Network) has made it possible to achieve AI colorization of old black-and-white photographs with some accuracy.
 This is a fantastic technology that adds a sense of realism to memories that until now could only be seen in black and white, as if they were being experienced now.
@@ -23,15 +30,19 @@ While the photograph makes it possible to observe the moment it cuts out, it los
 For example, the facial expression of the person in front of us, which changes from moment to moment and which we can no longer experience in the next moment, causes us to cherish what is in front of us and what has passed as a memory.
 However, in a photograph, the same facial expression is fixed for a long time, so there is no such "affection for the moment".
 <br>
-Second, the colors produced by AI colourisation are not always accurate.
+Second, the colors produced by AI colorization are not always accurate.
 This is due to both technical and perceptual factors.
 Technical factors include the low resolution and high noise content of older photographs, as well as the fact that photographs often contain objects that are not present in modern training data.
 Perceptual factors include the difference between the visual environment at the time the photograph was taken and that of the person viewing the photograph, and the fact that the colors in the memory do not always match the "physically accurate" colors.
 
 Regarding this inaccuracy of AI colorization, <a href="https://doi.org/10.1145/3354918.3361904" style="color:inherit; text-decoration:underline">Niwata & Watanave</a> offer an interesting solution.
 They showed AI-colorized photos to the people involved in the shoot and manually corrected the colors as they conversed about their memories of the time.
-This is a good example of AI-human collaboration in which the person has agency, i.e., the AI generates the colored photos as a trigger and aid to the people's interaction and memory, rather than presenting them to the people as the truth.
+This is a good example of human-AI collaboration in which the person has agency, i.e., the AI generates the colored photos as a trigger and aid to the people's interaction and memory, rather than presenting them to the people as the truth.
 
+I created MomentoChroma as a medium to perform such human correction of AI colorization on a cognitive level, and to overcome the characteristics of photography that do not have the sense of reality caused by ephemerality.
+In MomentoChroma, people feel colors through a visual illusion called <a href="https://doi.org/10.1038/1961143a0" style="color:inherit; text-decoration:underline">afterimage illusion</a>.
+When the human eyes view colored surface for some time and a blank surface is presented afterwards, they perceive the afterimage in the complementary colors for a while as long as the eyes do not move.
+MomentoChroma lets people feel
 
 <p>
   <img src="/assets/images/momentochroma/momentochroma_process.jpg" alt="momentochroma_process" style="width: 100%;">
