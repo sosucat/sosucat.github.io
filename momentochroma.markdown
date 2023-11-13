@@ -42,7 +42,7 @@ This is a good example of human-AI collaboration in which the person has agency,
 I created MomentoChroma as a medium to perform such human correction of AI colorization on a cognitive level, and to overcome the characteristics of photography that do not have the sense of reality caused by ephemerality.
 In MomentoChroma, people feel colors through a visual illusion called <a href="https://doi.org/10.1038/1961143a0" style="color:inherit; text-decoration:underline">afterimage illusion</a>.
 When the human eyes view colored surface for some time and a blank surface is presented afterwards, they perceive the afterimage in the complementary colors for a while as long as the eyes do not move.
-MomentoChroma lets people feel
+MomentoChroma makes us, whose gaze scans space in time, perceive colorful images only while we do not move our gaze in order to vividly realize the reality of the past. It is a perceptual experience clothed in aura, and the momentary color becomes a catalyst for evoking the colors of people's memories.
 
 <p>
   <img src="/assets/images/momentochroma/momentochroma_process.jpg" alt="momentochroma_process" style="width: 100%;">
