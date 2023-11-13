@@ -7,7 +7,9 @@ google_analytics: UA-NNNNNNNN-N
 
 <!--<link href="{{site.baseurl}}/assets/css/main.css" rel="stylesheet">-->
 
-<a href="https://sosuke-ichihashi.com/momentochroma/">Momentochroma</a>
+<a href="https://sosuke-ichihashi.com/momentochroma/"><img src="/assets/img/momentochroma/momentochroma_original.jpg" alt="MomentoChroma" style=""></a>
+
+<p><br></p>
 
 ![thermoBlinds](/assets/images/thermoBlinds.gif){: .img-left}
   <div class="clearfix">
@@ -118,17 +120,6 @@ google_analytics: UA-NNNNNNNN-N
   </div>
 
 <p><br></p> 
-
-![colorization](/assets/images/colorization.gif){: .img-left}
-  <div class="clearfix">
-   <hr style="width:40%;text-align:left;margin-left:0">
-   <p><b style="font-size:28px">AfterMemory</b> <br>Instant Colorization of Black-and-White Images Using DNN and After Image Illusions<br>
-   <b><i>[UTokyo GII-WS6135L3 Project]</i></b>
-   Keep looking at the white dot at the center of the inverted color image, and you can see colors in the black-and-while photo.
-   </p>
-  </div>
-
-<p><br></p>
 
 ![ds](/assets/images/ds.png){: .img-left}
   <div class="clearfix">
