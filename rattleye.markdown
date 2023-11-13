@@ -42,7 +42,7 @@ google_analytics: UA-NNNNNNNN-N
 <br><br>
 
 <p style="font-size: 12px;font-weight:300">
-  <img src="/assets/images/momentochroma/momentochroma_paris.gif" alt="momentochroma_demo_paris" style="width: 100%;" class="center">
+  <img src="/assets/images/rattleye/rattleye_group.jpg" alt="rattleye_group" style="width: 100%;" class="center">
   <br>
   Caption.
 </p>
