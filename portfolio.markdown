@@ -9,7 +9,7 @@ google_analytics: UA-NNNNNNNN-N
 
 <a href="https://sosuke-ichihashi.com/momentochroma/"><img src="/assets/images/momentochroma/momentochroma_original.jpg" alt="MomentoChroma" style="width:60%" class="center"></a>
 
-<p><br></p>
+<p>MomentoChroma<br></p>
 
 ![thermoBlinds](/assets/images/thermoBlinds.gif){: .img-left}
   <div class="clearfix">
