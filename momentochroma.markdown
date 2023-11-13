@@ -5,11 +5,14 @@ permalink: /momentochroma/
 google_analytics: UA-NNNNNNNN-N
 ---
 
-Photography is a medium that cuts out and fixes a moment in flowing time, and its realism presents its image in a compelling way.
-The fixation of the moment removes from the photographic medium the ephemeral reality that we, who live in the flow of time, usually perceive.
-The persuasiveness of the photograph also strongly presents the inaccurate colors of AI colorization.
-MomentoChroma makes us, whose gaze scans space in time, perceive colorful images only while we do not move our gaze in order to vividly realize the reality of the past.
-It is a perceptual experience clothed in aura, and the momentary color becomes a catalyst for evoking the colors of people's memories.
+<p style="font-weight:350;line-height:1.5">
+  Photography is a medium that cuts out and fixes a moment in flowing time, and its realism presents its image in a compelling way.
+  The fixation of the moment removes from the photographic medium the ephemeral reality that we, who live in the flow of time, usually perceive.
+  The persuasiveness of the photograph also strongly presents the inaccurate colors of AI colorization.
+  MomentoChroma makes us, whose gaze scans space in time, perceive colorful images only while we do not move our gaze in order to vividly realize the reality of the past.
+  It is a perceptual experience clothed in aura, and the momentary color becomes a catalyst for evoking the colors of people's memories.
+</p>
+
 
 Keep staring at the dot at the center of the inverted color image. And you can experience a momental colorization of the black-and-white image.
 
@@ -19,7 +22,7 @@ Keep staring at the dot at the center of the inverted color image. And you can e
   
   Original photograph: Kyoyo Kagayama. 1928. Young moga (modern girls) walk down a Ginza street in 1928 dressed in 'Beach Pyjama Style.'
 </p>
-<br><br>
+<br>
 
 The development of GAN (Generative Adversarial Network) has made it possible to achieve AI colorization of old black-and-white photographs with some accuracy.
 This is a fantastic technology that adds a sense of realism to memories that until now could only be seen in black and white, as if they were being experienced now.
@@ -43,6 +46,7 @@ I created MomentoChroma as a medium to perform such human correction of AI color
 In MomentoChroma, people feel colors through a visual illusion called <a href="https://doi.org/10.1038/1961143a0" style="color:inherit; text-decoration:underline">afterimage illusion</a>.
 When the human eyes view colored surface for some time and a blank surface is presented afterwards, they perceive the afterimage in the complementary colors for a while as long as the eyes do not move.
 MomentoChroma makes us, whose gaze scans space in time, perceive colorful images only while we do not move our gaze in order to vividly realize the reality of the past. It is a perceptual experience clothed in aura, and the momentary color becomes a catalyst for evoking the colors of people's memories.
+<br>
 
 <p>
   <img src="/assets/images/momentochroma/momentochroma_process.jpg" alt="momentochroma_process" style="width: 100%;">
