@@ -23,14 +23,14 @@ While the photograph makes it possible to observe the moment it cuts out, it los
 For example, the facial expression of the person in front of us, which changes from moment to moment and which we can no longer experience in the next moment, causes us to cherish what is in front of us and what has passed as a memory.
 However, in a photograph, the same facial expression is fixed for a long time, so there is no such "affection for the moment".
 <br>
-Second, the colours produced by AI colourisation are not always accurate.
+Second, the colors produced by AI colourisation are not always accurate.
 This is due to both technical and perceptual factors.
 Technical factors include the low resolution and high noise content of older photographs, as well as the fact that photographs often contain objects that are not present in modern training data.
 Perceptual factors include the difference between the visual environment at the time the photograph was taken and that of the person viewing the photograph, and the fact that the colors in the memory do not always match the "physically accurate" colors.
 
 Regarding this inaccuracy of AI colorization, <a href="https://doi.org/10.1145/3354918.3361904" style="color:inherit; text-decoration:underline">Niwata & Watanave</a> offer an interesting solution.
 They showed AI-colorized photos to the people involved in the shoot and manually corrected the colors as they conversed about their memories of the time.
-This is a fantastic example of AI-human collaboration in which the person has agency, i.e., the AI generates the colored photos as a trigger and aid to the people's interaction and memory, rather than presenting them to the people as the truth.
+This is a good example of AI-human collaboration in which the person has agency, i.e., the AI generates the colored photos as a trigger and aid to the people's interaction and memory, rather than presenting them to the people as the truth.
 
 
 <p>
