@@ -44,5 +44,5 @@ As <a href="https://doi.org/10.1145/3354918.3361904">Niwata and Watanave</a> rep
 <p>
   <img src="/assets/images/momentochroma/momentochroma_paris.gif" alt="momentochroma_demo_paris" style="width:500px;">
   <br>
-  Original photograph: G. Agi&eacute;. 1910. Les Créateurs de la Mode. Charles Eggimann Editeur, Paris.
+  Original photograph: G. Agié. 1910. Les Créateurs de la Mode. Charles Eggimann Editeur, Paris.
 </p>
