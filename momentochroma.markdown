@@ -7,7 +7,7 @@ google_analytics: UA-NNNNNNNN-N
 
 <br>
 <p style="font-size: 16px;font-weight:450;letter-spacing:0.0px;line-height:2.5">
-  Photography is a medium that cuts out and fixes a moment in flowing time, and its realism presents its image in a compelling way.
+  Photography is a medium that cuts out and fixes a moment in flowing time.
   The fixation of the moment removes from the photographic medium the ephemeral reality that we, who live in the flow of time, usually perceive.
   The persuasiveness of the photograph also strongly presents the inaccurate colors of AI colorization.
   <br>
@@ -18,7 +18,7 @@ google_analytics: UA-NNNNNNNN-N
 <br>
 
 <p style="font-size: 16px;font-weight:500;">
-  <strong>Keep staring at the dot at the center of the inverted color image</strong>.
+  <strong>Keep staring at the dot at the center of the inverted color image</strong>. And you will see colors in the black-and-white image.
 </p>
 
 <p style="font-size: 12px;font-weight:300">
