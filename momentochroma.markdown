@@ -5,7 +5,8 @@ permalink: /momentochroma/
 google_analytics: UA-NNNNNNNN-N
 ---
 
-<p style="font-size: 13px;font-weight:450;letter-spacing:0.0px;line-height:2.3">
+<br>
+<p style="font-size: 16px;font-weight:450;letter-spacing:0.0px;line-height:2.5">
   Photography is a medium that cuts out and fixes a moment in flowing time, and its realism presents its image in a compelling way.
   The fixation of the moment removes from the photographic medium the ephemeral reality that we, who live in the flow of time, usually perceive.
   The persuasiveness of the photograph also strongly presents the inaccurate colors of AI colorization.
@@ -14,7 +15,7 @@ google_analytics: UA-NNNNNNNN-N
   It is a perceptual experience clothed in aura, and the momentary color becomes a catalyst for evoking the colors of people's memories.
   As our peripheral vision is limited in spatial resolution, the AI-generated colors convey the overall atmosphere instead of convincing the viewers.
 </p>
-
+<br>
 
 <p style="font-size: 16px;font-weight:500;">
   <strong>Keep staring at the dot at the center of the inverted color image</strong>.
