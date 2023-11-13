@@ -20,6 +20,7 @@ However, there are two areas for improvement here.
 The first is that the photographic medium cuts and fixes reality in time.
 While the photograph makes it possible to observe the moment it cuts out, it loses the ephemerality, earnestness and aura that derives from the implicit understanding that the scene can only exist at that moment.
 For example, the change in the facial expression of the person in front of us, which changes from moment to moment and which we can no longer experience in the next moment, causes us to cherish what is in front of us and cherish what has passed as a memory.
+However, in photography, the same facial expression is fixed for a long time, so there is no such "affection for the moment".
 Second, the colours produced by AI colourisation are not always accurate.
 This is because the resolution of older photographs is low and noisy and the photographs often contain objects that are not present in the modern training data.
 
