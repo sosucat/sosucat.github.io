@@ -11,6 +11,7 @@ google_analytics: UA-NNNNNNNN-N
   The persuasiveness of the photograph also strongly presents the inaccurate colors of AI colorization.
   MomentoChroma makes us, whose gaze scans space in time, perceive colorful images only while we do not move our gaze in order to vividly realize the reality of the past.
   It is a perceptual experience clothed in aura, and the momentary color becomes a catalyst for evoking the colors of people's memories.
+  As our peripheral vision is limited in spatial resolution, the AI-generated colors convey the overall atmosphere instead of convincing the viewers.
 </p>
 
 
@@ -26,17 +27,18 @@ Keep staring at the dot at the center of the inverted color image. And you can e
 
 The development of GAN (Generative Adversarial Network) has made it possible to achieve AI colorization of old black-and-white photographs with some accuracy.
 This is a fantastic technology that adds a sense of realism to memories that until now could only be seen in black and white, as if they were being experienced now.
-However, there are two areas for improvement here.
+However, there are two areas for improvement.
 <br>
-The first is that photograph cuts and fixes reality in time.
+The first is the loss of the reality of ephemerality as the photograph cuts out time and presents it forever.
 While the photograph makes it possible to observe the moment it cuts out, it loses the ephemerality, earnestness and aura that derives from the implicit understanding that the scene can only exist at that moment.
 For example, the facial expression of the person in front of us, which changes from moment to moment and which we can no longer experience in the next moment, causes us to cherish what is in front of us and what has passed as a memory.
 However, in a photograph, the same facial expression is fixed for a long time, so there is no such "affection for the moment".
 <br>
-Second, the colors produced by AI colorization are not always accurate.
+The second is the inaccuracy of AI colorization.
 This is due to both technical and perceptual factors.
 Technical factors include the low resolution and high noise content of older photographs, as well as the fact that photographs often contain objects that are not present in modern training data.
 Perceptual factors include the difference between the visual environment at the time the photograph was taken and that of the person viewing the photograph, and the fact that the colors in the memory do not always match the "physically accurate" colors.
+As photograph presents its image in a persuasive manner, the inaccurate colorization could overwrite people's memories.
 
 Regarding this inaccuracy of AI colorization, <a href="https://doi.org/10.1145/3354918.3361904" style="color:inherit; text-decoration:underline">Niwata & Watanave</a> offer an interesting solution.
 They showed AI-colorized photos to the people involved in the shoot and manually corrected the colors as they conversed about their memories of the time.
@@ -44,8 +46,10 @@ This is a good example of human-AI collaboration in which the person has agency,
 
 I created MomentoChroma as a medium to perform such human correction of AI colorization on a cognitive level, and to overcome the characteristics of photography that do not have the sense of reality caused by ephemerality.
 In MomentoChroma, people feel colors through a visual illusion called <a href="https://doi.org/10.1038/1961143a0" style="color:inherit; text-decoration:underline">afterimage illusion</a>.
-When the human eyes view colored surface for some time and a blank surface is presented afterwards, they perceive the afterimage in the complementary colors for a while as long as the eyes do not move.
-MomentoChroma makes us, whose gaze scans space in time, perceive colorful images only while we do not move our gaze in order to vividly realize the reality of the past. It is a perceptual experience clothed in aura, and the momentary color becomes a catalyst for evoking the colors of people's memories.
+When the human eyes view a colored surface for some time and a blank surface is presented afterwards, they perceive the afterimage in the complementary colors for a while as long as the eyes do not move.
+MomentoChroma makes us, whose gaze scans space in time, perceive colorful images only while we do not move our gaze in order to vividly realize the reality of the past.
+It is a perceptual experience with aura, and the momentary color becomes a catalyst for evoking the colors of people's memories.
+As our peripheral vision is limited in spatial resolution, the AI-generated colors convey the overall atmosphere instead of convincing the viewers.
 <br>
 
 <p>
