@@ -16,3 +16,10 @@ h1, h2, h3, h4 {
   color: rgba(10, 10, 10, 1.0);
   font-family: 'Cairo Play', sans-serif;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
