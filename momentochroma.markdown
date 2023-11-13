@@ -17,19 +17,32 @@ Keep staring at the dot at the center of the inverted color image. And you can e
 The development of GAN (Generative Adversarial Network) has made it possible to achieve AI colorization of old black-and-white photographs with some accuracy.
 This is a fantastic technology that adds a sense of realism to memories that until now could only be seen in black and white, as if they were being experienced now.
 However, there are two areas for improvement here.
-The first is that the photographic medium cuts and fixes reality in time.
+<br>
+The first is that photograph cuts and fixes reality in time.
 While the photograph makes it possible to observe the moment it cuts out, it loses the ephemerality, earnestness and aura that derives from the implicit understanding that the scene can only exist at that moment.
-For example, the change in the facial expression of the person in front of us, which changes from moment to moment and which we can no longer experience in the next moment, causes us to cherish what is in front of us and cherish what has passed as a memory.
-However, in photography, the same facial expression is fixed for a long time, so there is no such "affection for the moment".
+For example, the facial expression of the person in front of us, which changes from moment to moment and which we can no longer experience in the next moment, causes us to cherish what is in front of us and what has passed as a memory.
+However, in a photograph, the same facial expression is fixed for a long time, so there is no such "affection for the moment".
+<br>
 Second, the colours produced by AI colourisation are not always accurate.
 This is due to both technical and perceptual factors.
 Technical factors include the low resolution and high noise content of older photographs, as well as the fact that photographs often contain objects that are not present in modern training data.
-Perceptual factors include the difference between the environment at the time the photograph was taken and the environment of the person viewing the photograph, and the fact that the colours in the memory do not always match the physically accurate colours.
+Perceptual factors include the difference between the visual environment at the time the photograph was taken and that of the person viewing the photograph, and the fact that the colors in the memory do not always match the "physically accurate" colors.
+
+As <a href="https://doi.org/10.1145/3354918.3361904">Niwata and Watanave</a> reported, 
 
 
+<br><br>
 
 <p>
   <img src="/assets/images/momentochroma/momentochroma_kyoto.gif" alt="momentochroma_demo_kyoto" style="width:500px;">
   <br>
   Original photograph: A group of Maiko girls on a balcony overlooking the Kamo River in Kyoto, around late 1910s.
+</p>
+
+<br><br>
+
+<p>
+  <img src="/assets/images/momentochroma/momentochroma_paris.gif" alt="momentochroma_demo_paris" style="width:500px;">
+  <br>
+  Original photograph: G. Agi&eacute;. 1910. Les Créateurs de la Mode. Charles Eggimann Editeur, Paris.
 </p>
