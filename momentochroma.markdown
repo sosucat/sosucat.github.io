@@ -12,7 +12,7 @@ google_analytics: UA-NNNNNNNN-N
   The persuasiveness of the photograph also strongly presents the inaccurate colors of AI colorization.
   <br>
   MomentoChroma makes us, whose gaze scans space in time, perceive colorful images only while we do not move our gaze in order to vividly realize the reality of the past.
-  It is a perceptual experience clothed in aura, and the momentary color becomes a catalyst for evoking the colors of people's memories.
+  It is a perceptual experience with aura, and the momentary color becomes a catalyst for evoking the colors of people's memories.
   As our peripheral vision is limited in spatial resolution, the AI-generated colors convey the overall atmosphere instead of convincing the viewers.
 </p>
 <br>
