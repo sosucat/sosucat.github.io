@@ -22,7 +22,10 @@ While the photograph makes it possible to observe the moment it cuts out, it los
 For example, the change in the facial expression of the person in front of us, which changes from moment to moment and which we can no longer experience in the next moment, causes us to cherish what is in front of us and cherish what has passed as a memory.
 However, in photography, the same facial expression is fixed for a long time, so there is no such "affection for the moment".
 Second, the colours produced by AI colourisation are not always accurate.
-This is because the resolution of older photographs is low and noisy and the photographs often contain objects that are not present in the modern training data.
+This is due to both technical and perceptual factors.
+Technical factors include the low resolution and high noise content of older photographs, as well as the fact that photographs often contain objects that are not present in modern training data.
+Perceptual factors include the difference between the environment at the time the photograph was taken and the environment of the person viewing the photograph, and the fact that the colours in the memory do not always match the physically accurate colours.
+
 
 
 <p>
