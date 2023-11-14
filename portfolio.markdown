@@ -34,17 +34,7 @@ google_analytics: UA-NNNNNNNN-N
    </p>
   </div>
 
-<p><br></p> 
 
-<p><br></p>
-
-![map](/assets/images/geo.png){: .img-left}
-  <div class="clearfix">
-   <hr style="width:40%;text-align:left;margin-left:0">
-   <p><b style="font-size:28px">Estimation of Population Affected by the Tsunami of the Tohoku Earthquake</b><br>
-   <b><i>[UT Austin GEO327G Semester Project]</i></b><br>
-   <a href="https://www.geo.utexas.edu/courses/371c/project/2018F/Ichihashi_GIS_project.pdf">PDF</a>
-   </p>
-  </div>
-
-<p><br></p>
+<a href="https://www.geo.utexas.edu/courses/371c/project/2018F/Ichihashi_GIS_project.pdf"><img src="/assets/images/geo.png" alt="geo" style="width:100%" class="center"></a>
+<p>Estimation of Population Affected by the Tsunami of the Tohoku Earthquake<br></p>
+<br><br>
