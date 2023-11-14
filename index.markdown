@@ -23,7 +23,8 @@ google_analytics: UA-NNNNNNNN-N
 <br>
 
 <div>
-  <img src="assets/images/ichihashi_headshot.jpg" alt="profile pic" style="height:50%">
+  <img src="assets/images/ichihashi_headshot.jpg" alt="profile pic" style="height:20%">
+  <br>
   <a style="font-size: 17px; color: rgba(50, 50, 50, 1.0); text-decoration: underline;" href="/assets/pdfs/soi_cv_20221221.pdf">Download CV</a>
   | Follow me:<a href="https://twitter.com/RefreshSource"><img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:26px;height:24px;"></a>
 </div>
