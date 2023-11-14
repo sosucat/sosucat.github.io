@@ -33,7 +33,7 @@ google_analytics: UA-NNNNNNNN-N
 </p>
 
 <h2>VIDEO</h2>
-<p style="font-size: 12px;font-weight:300">
+<p style="font-size: 12px;font-weight:300" class="videoWrapper">
   <iframe width=100% src="https://www.youtube.com/embed/r-ATCyN7rWQ?si=ZAmPahyV6qD273pG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <br>
   Caption.
