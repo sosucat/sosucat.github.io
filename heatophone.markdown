@@ -20,7 +20,6 @@ google_analytics: UA-NNNNNNNN-N
   Heat-O-Phone is a spatial multimodal experience where the audience perceives spatial audio and heat.
   Like a stereo audio, heat-o-phone has a pair of thermal displays working cooperatively and providing heat from any horizontal direction in front of the audience.
   This work was inspired by <a style="color: inherit; text-decoration: underline;" href="https://en.wikipedia.org/wiki/Th%C3%A9%C3%A2trophone">Théâtrophone</a>, the first spatial audio experience demonstrated by Clément Ader at the 1881 International Exposition of Electricity in Paris.
-  
 </p>
 <br>
 
@@ -53,3 +52,13 @@ google_analytics: UA-NNNNNNNN-N
   <br>
   Caption.
 </p>
+
+<br><br>
+
+
+<h2>AWARDS</h2>
+CDAIT Student IoT Innovation Capacity Building Challenge 2023 Honorable Mention. 2023. <a style="color: inherit; text-decoration: underline;" href="https://cdait.gatech.edu/projects/Student_IoT_Innovation_Challenge_2023_Results">Result page</a>.
+
+<h2>CREDITS</h2>
+
+
