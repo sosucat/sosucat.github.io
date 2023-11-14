@@ -32,12 +32,26 @@ google_analytics: UA-NNNNNNNN-N
   Caption.
 </p>
 
-<h2>VIDEOS</h2>
+<h2>VIDEO</h2>
 <p style="font-size: 12px;font-weight:300">
   <iframe src="https://www.youtube.com/embed/r-ATCyN7rWQ?si=ZAmPahyV6qD273pG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <br>
   Caption.
 </p>
+<br>
 
-<br><br>
-
+<h2>PUBLICATIONS</h2>
+<ol style="font-size:14px; font-weight:320">
+<li><p><strong>Sosuke Ichihashi</strong>, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, Sohei Wakisaka, and Masahiko Inami.
+ThermoBlinds: Non-Contact, Highly Responsive Thermal Feedback for Thermal Interaction.
+In Special Interest Group on Computer Graphics and Interactive Techniques Conference Emerging Technologies (SIGGRAPH ’22 Emerging Technologies ). 2022.
+<a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3532721.3535569">doi</a></p>
+</li>
+<li><strong>Sosuke Ichihashi</strong>, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami.
+High-Speed Non-Contact Thermal Display Using Infrared Rays and Shutter Mechanism.
+In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium on Wearable Computers (UbiComp-ISWC ’21 Adjunct). 2021.
+<b style="color:blue;">Best Paper Award</b>.
+<a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3460418.3480160">doi</a>
+</li>
+</ol>
+<br>
