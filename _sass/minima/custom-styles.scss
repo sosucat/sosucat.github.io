@@ -46,10 +46,10 @@ h1, h2, h3, h4 {
   padding: 0 4px;
 }
 
-/* Create four equal columns that sits next to each other */
+/* Create three equal columns that sits next to each other */
 .column {
-  flex: 25%;
-  max-width: 25%;
+  flex: 33%;
+  max-width: 33%;
   padding: 0 4px;
 }
 
@@ -59,7 +59,7 @@ h1, h2, h3, h4 {
   width: 100%;
 }
 
-/* Responsive layout - makes a two column-layout instead of four columns */
+/* Responsive layout - makes a two column-layout instead of three columns */
 @media screen and (max-width: 800px) {
   .column {
     flex: 50%;
