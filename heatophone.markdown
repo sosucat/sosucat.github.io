@@ -38,7 +38,7 @@ google_analytics: UA-NNNNNNNN-N
 <br><br>
     
 <p style="font-size: 12px;font-weight:300">
-  <img src="/assets/images/heatophone/heatophone_demo3.jpg" alt="vtd_demo1" style="width: 60%;" class="center">
+  <img src="/assets/images/heatophone/heatophone_demo3.jpg" alt="heatophone_demo3" style="width: 60%;" class="center">
   <br>
   Caption.
 </p>
@@ -46,7 +46,7 @@ google_analytics: UA-NNNNNNNN-N
 <br><br>
 
 <p style="font-size: 12px;font-weight:300">
-  <img src="/assets/images/heatophone/heatophone_demo2.jpg" alt="vtd_group" style="width: 100%;" class="center">
+  <img src="/assets/images/heatophone/heatophone-demo2.jpg" alt="heatophone_demo2" style="width: 100%;" class="center">
   <br>
   Caption.
 </p>
