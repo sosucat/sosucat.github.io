@@ -24,7 +24,7 @@ google_analytics: UA-NNNNNNNN-N
 
 <div class="container">
   <div>
-    <img src="assets/images/ichihashi_headshot.jpg" alt="profile pic" style="width:50%">
+    <img src="assets/images/ichihashi_headshot.jpg" alt="profile pic" style="width:100%">
   </div>
   <div>
     <a style="font-size: 17px; color: rgba(50, 50, 50, 1.0); text-decoration: underline;" href="/assets/pdfs/soi_cv_20221221.pdf">Download CV</a>
