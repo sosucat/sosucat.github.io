@@ -36,44 +36,6 @@ google_analytics: UA-NNNNNNNN-N
 
 <p><br></p>
 
-![mesh1](/assets/images/mesh1.png){: .img-left}
-  <div class="clearfix">
-   <hr style="width:40%;text-align:left;margin-left:0">
-   <p><b style="font-size:28px">Visuo-Thermal Display</b> <br>Superimposing Visual and Thermal Feedback Using a Mesh Screen<br>
-   <b><i>[MIMSVAI'21 (UbiComp'21), Ichihashi et al.]</i></b><br>
-   <img src="/assets/images/award.png" alt="award-icon" height="40">
-   <b>Best Paper Award</b><br>
-   <a href="https://doi.org/10.1145/3460418.3480160">PDF</a> | <a href="https://mimsvai.github.io/#/">Program</a>
-   </p>
-  </div>
-
-<p><br></p>
-
-![rattlEye](/assets/images/rattlEye.gif){: .img-left}
-  <div class="clearfix">
-   <hr style="width:40%;text-align:left;margin-left:0">
-   <p><b style="font-size:28px">RattlEye</b> <br>Augmenting Vision with Gaze-based Thermal Feedback<br>
-   <b><i>[MIMSVAI'21 (UbiComp'21), Ichihashi et al.]</i></b><br>
-   <img src="/assets/images/award.png" alt="award-icon" height="40">
-   <b>Best Paper Award</b><br>
-   <a href="https://doi.org/10.1145/3460418.3480160">PDF</a> | <a href="https://mimsvai.github.io/#/">Program</a>
-   </p>
-  </div>
-
-<p><br></p>
-
-<p></p>
-
-<p align="left" class="img-left">
-   <iframe width="448" height="252" src="https://www.youtube.com/embed/D27hc_rb2Y4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- </p>
- <div class="clearfix">
-  <hr style="width:40%;text-align:left;margin-left:0">
-  <p><b style="font-size:28px">Thermal Landscape</b> <br>Combination of Rattleye and Visuo-Thermal Display.<br><br><br><br><br></p>
- </div>
-
-<p><br></p>
-
 <p></p>
 
 ![thermalGaze](/assets/images/thermalGaze.png){: .img-left}
@@ -110,35 +72,6 @@ google_analytics: UA-NNNNNNNN-N
   </div>
 
 <p><br></p> 
-
-![thermoPinArray](/assets/images/thermoPinArray.png){: .img-left}
-  <div class="clearfix">
-   <hr style="width:40%;text-align:left;margin-left:0">
-   <p><b style="font-size:28px">ThermoPinArray</b> <br>How do we perceive thermal tactile feedback with higher resolution than the spatial resolution of human temperature sense?
-   </p>
-  </div>
-
-<p><br></p> 
-
-
-![therMouse](/assets/images/therMouse.png){: .img-left}
-  <div class="clearfix">
-   <hr style="width:40%;text-align:left;margin-left:0">
-   <p><b style="font-size:28px">TherMouse</b> <br>Mouse with Thermal Feedback based on Cursor Positions<br>
-   <b><i>[UTokyo GII-CS6415L1 Semester Project]</i></b>
-   </p>
-  </div>
-
-<p><br></p> 
-
-![ds](/assets/images/ds.png){: .img-left}
-  <div class="clearfix">
-   <hr style="width:40%;text-align:left;margin-left:0">
-   <p><b style="font-size:28px">ViewSplitter</b> <br> A device for remote communication to show what you are doing at your desk and your facial expressions at the same time<br>
-   <b><i>[UTokyo GII-WS6135L3 Project]</i></b><br>
-   <a href="https://docs.google.com/presentation/d/1fDDWufgdbZk1DB2PpHOGyjapFjPou3qkyc6yPcuW8AM/edit?usp=sharing">Slides</a>
-   </p>
-  </div>
 
 <p><br></p>
 
