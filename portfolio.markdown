@@ -23,17 +23,9 @@ google_analytics: UA-NNNNNNNN-N
 <p>MomentoChroma<br></p>
 <br><br>
 
-
-
-![redirection](/assets/images/redirection.png){: .img-left}
-  <div class="clearfix">
-   <hr style="width:40%;text-align:left;margin-left:0">
-   <p><b style="font-size:28px">Orientation Perception Using Far-Infrared Rays</b><br>
-   <b><i>[SICE SI'21, Ichihashi et al. (JPN)]</i></b><br>
-   <a href="https://sice-si.org/conf/si2020/SI2020%E6%9A%AB%E5%AE%9A%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A01204r2.pdf#page=5">Program (1F1-13)</a>
-   </p>
-  </div>
-
+<a href="https://sosuke-ichihashi.com/redirection/"><img src="/assets/images/redirection/redirection_overview.jpg" alt="Redirection" style="width:60%" class="center"></a>
+<p>Redirection Using Infrared Rays<br></p>
+<br><br>
 
 <a href="https://www.geo.utexas.edu/courses/371c/project/2018F/Ichihashi_GIS_project.pdf"><img src="/assets/images/geo.png" alt="geo" style="width:100%" class="center"></a>
 <p>Estimation of Population Affected by the Tsunami of the Tohoku Earthquake<br></p>
