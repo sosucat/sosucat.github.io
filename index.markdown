@@ -8,14 +8,14 @@ google_analytics: UA-NNNNNNNN-N
 <div class="row">
   <div class="column">
     <a href="https://sosuke-ichihashi.com/rattleye/"><img src="/assets/images/rattleye/rattleye_overview.jpg" alt="RattlEye"></a>
-    <a href="https://sosuke-ichihashi.com/redirection/"><img src="/assets/images/redirection/redirection_grid.jpg" alt="Redirection"></a>
-  </div>
-  <div class="column">
     <a href="https://sosuke-ichihashi.com/vtd/"><img src="/assets/images/vtd/vtd_overview.jpg" alt="Visuo-Thermal Display"></a>
-    <a href="https://sosuke-ichihashi.com/momentochroma/"><img src="/assets/images/momentochroma/momentochroma_grid.jpg" alt="MomentoChroma"></a>
   </div>
   <div class="column">
     <a href="https://sosuke-ichihashi.com/thermoblinds/"><img src="/assets/images/thermoblinds/thermoblinds_stand.jpg" alt="RattlEye"></a>
+    <a href="https://sosuke-ichihashi.com/redirection/"><img src="/assets/images/redirection/redirection_grid.jpg" alt="Redirection"></a>
+  </div>
+  <div class="column">
+    <a href="https://sosuke-ichihashi.com/momentochroma/"><img src="/assets/images/momentochroma/momentochroma_grid.jpg" alt="MomentoChroma"></a>
     <a href="https://www.geo.utexas.edu/courses/371c/project/2018F/Ichihashi_GIS_project.pdf"><img src="/assets/images/geo_grid.png" alt="geo"></a>
   </div>
 </div>
