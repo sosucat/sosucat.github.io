@@ -34,11 +34,11 @@ google_analytics: UA-NNNNNNNN-N
 <br>
 
 <h2>EXPERIMENT</h2>
-# <p style="font-size: 12px;font-weight:300">
+<!-- # <p style="font-size: 12px;font-weight:300">
 #   <img src="/assets/images/vtd/vtd_front.jpg" alt="vtd_front" style="width: 100%;" class="center">
 #   <br>
 #   Caption.
-# </p>
+# </p> -->
 
 
 <h2>RESULTS</h2>
