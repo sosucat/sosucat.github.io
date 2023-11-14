@@ -19,12 +19,12 @@ google_analytics: UA-NNNNNNNN-N
 <p>ThermoBlinds<br></p>
 <br><br>
 
-<a href="https://sosuke-ichihashi.com/momentochroma/"><img src="/assets/images/momentochroma/momentochroma_original.jpg" alt="MomentoChroma" style="width:60%" class="center"></a>
-<p>MomentoChroma<br></p>
-<br><br>
-
 <a href="https://sosuke-ichihashi.com/redirection/"><img src="/assets/images/redirection/redirection_overview.jpg" alt="Redirection" style="width:60%" class="center"></a>
 <p>Redirection Using Infrared Rays<br></p>
+<br><br>
+
+<a href="https://sosuke-ichihashi.com/momentochroma/"><img src="/assets/images/momentochroma/momentochroma_original.jpg" alt="MomentoChroma" style="width:60%" class="center"></a>
+<p>MomentoChroma<br></p>
 <br><br>
 
 <a href="https://www.geo.utexas.edu/courses/371c/project/2018F/Ichihashi_GIS_project.pdf"><img src="/assets/images/geo.png" alt="geo" style="width:100%" class="center"></a>
