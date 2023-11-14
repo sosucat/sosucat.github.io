@@ -15,52 +15,15 @@ google_analytics: UA-NNNNNNNN-N
 <p>Visuo-Thermal Display<br></p>
 <br><br>
 
+<a href="https://sosuke-ichihashi.com/thermoblinds/"><img src="/assets/images/thermoblinds/thermoblinds_stand.jpg" alt="RattlEye" style="width:100%" class="center"></a>
+<p>ThermoBlinds<br></p>
+<br><br>
+
 <a href="https://sosuke-ichihashi.com/momentochroma/"><img src="/assets/images/momentochroma/momentochroma_original.jpg" alt="MomentoChroma" style="width:60%" class="center"></a>
 <p>MomentoChroma<br></p>
 <br><br>
 
 
-
-![thermoBlinds](/assets/images/thermoBlinds.gif){: .img-left}
-  <div class="clearfix">
-   <hr style="width:40%;text-align:left;margin-left:0">
-   <p><b style="font-size:28px">ThermoBlinds</b> <br>Non-Contact Rapid Thermal Feedback<br>
-   <b><i>[MIMSVAI'21 (UbiComp'21), Ichihashi et al.]</i></b><br>
-   <img src="/assets/images/award.png" alt="award-icon" height="40">
-   <b>Best Paper Award</b><br>
-   <a href="https://doi.org/10.1145/3460418.3480160">PDF</a> | <a href="https://mimsvai.github.io/#/">Program</a><br>
-   <b><i>[SIGGRAPH '22 Emerging Technologies, Ichihashi et al.]</i></b><br>
-   <a href="https://youtu.be/r-ATCyN7rWQ">Video</a> | <a href="https://doi.org/10.1145/3532721.3535569">PDF</a> | <a href="https://s2022.siggraph.org/">Program</a>
-   </p>
-  </div>
-
-<p><br></p>
-
-<p></p>
-
-![thermalGaze](/assets/images/thermalGaze.png){: .img-left}
-  <div class="clearfix">
-   <hr style="width:40%;text-align:left;margin-left:0">
-   <p><b style="font-size:28px">ThermoGaze</b> <br>Representation of Other's Gaze with Thermal Feedback<br>
-   <b><i>[ISMCR'21, Ichihashi et al.]</i></b><br>
-   <a href="http://ismcr.org/">Web</a> | <a href="https://secureservercdn.net/198.71.233.33/l95.2a1.myftpupload.com/wp-content/uploads/2021/09/ISMCR2021-October-1st-PROGRAM-.pdf">Program</a>
-   </p>
-  </div>
-
-<p></p>
-
-![fireball](/assets/images/fireball.gif){: .img-left}
-  <div class="clearfix">
-   <hr style="width:40%;text-align:left;margin-left:0">
-   <p><b style="font-size:28px">Reproduction of Sudden Temperature Changes</b><br>
-   <b><i>[MIMSVAI'21 (UbiComp'21), Ichihashi et al.]</i></b><br>
-   <img src="/assets/images/award.png" alt="award-icon" height="40">
-   <b>Best Paper Award</b><br>
-   <a href="https://doi.org/10.1145/3460418.3480160">PDF</a> | <a href="https://mimsvai.github.io/#/">Program</a>
-   </p>
-  </div>
-
-<p><br></p>
 
 ![redirection](/assets/images/redirection.png){: .img-left}
   <div class="clearfix">
