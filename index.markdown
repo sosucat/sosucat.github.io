@@ -20,20 +20,21 @@ google_analytics: UA-NNNNNNNN-N
   </div>
 </div>
 
-
-<br>
-<p style="font-weight:450;line-height:2.5">Sosuke Ichihashi is a Ph.D. student in Digital Media, Georgia Tech (advisor: <a style="color: inherit; text-decoration: underline;" href="https://nourahowell.com/">Noura Howell</a>).<br>
-He creates new media to gain insights into how people perceive and engage with the world.
-He approaches this in a variety of ways, going back to debates in philosophy, the arts, media theory and computer science in its early days, as well as augmenting human perception by considering human perceptual and bodily mechanisms.
-</p>
 <br>
 
-![profile pic](assets/images/ichihashi_headshot.jpg){: width="250" }  
-<a style="font-size: 17px; color: rgba(50, 50, 50, 1.0); text-decoration: underline;" href="/assets/pdfs/soi_cv_20221221.pdf">Download CV</a> | Follow me:
-<a href="https://twitter.com/RefreshSource">
-  <img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:26px;height:24px;">
-<br><br><br><br>
+<div>
+  <div>
+    ![profile pic](assets/images/ichihashi_headshot.jpg){: width="250" }  
+    <a style="font-size: 17px; color: rgba(50, 50, 50, 1.0); text-decoration: underline;" href="/assets/pdfs/soi_cv_20221221.pdf">Download CV</a> | Follow me:<a href="https://twitter.com/RefreshSource"><img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:26px;height:24px;">
+  </div>
+  <span style="font-weight:450;line-height:2.5">
+    Sosuke Ichihashi is a Ph.D. student in Digital Media, Georgia Tech (advisor: <a style="color: inherit; text-decoration: underline;" href="https://nourahowell.com/">Noura Howell</a>).<br>
+    He creates new media to gain insights into how people perceive and engage with the world.
+    He approaches this in a variety of ways, going back to debates in philosophy, the arts, media theory and computer science in its early days, as well as augmenting human perception by considering human perceptual and bodily mechanisms.
+  </span>
+</div>
 
+<br><br><br>
  
 # Publications
 ### International Conferences
