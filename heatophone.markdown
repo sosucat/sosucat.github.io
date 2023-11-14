@@ -60,8 +60,8 @@ google_analytics: UA-NNNNNNNN-N
 CDAIT Student IoT Innovation Capacity Building Challenge 2023 Honorable Mention. 2023. <a style="color: inherit; text-decoration: underline;" href="https://cdait.gatech.edu/projects/Student_IoT_Innovation_Challenge_2023_Results">Result page</a>.
 
 <h2>CREDITS</h2>
-Sosuke Ichihashi, PhD Student, Georgia Tech.
-Luke Wang, BS Student, Georgia Tech.
-Chang Ye Huang, BS Student, Georgia Tech.
+Sosuke Ichihashi, PhD Student, Georgia Tech.<br>
+Luke Wang, BS Student, Georgia Tech.<br>
+Chang Ye Huang, BS Student, Georgia Tech.<br>
 Dr. Noura Howell, Assistant Professor, Georgia Tech.
 
