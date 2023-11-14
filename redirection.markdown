@@ -12,7 +12,7 @@ google_analytics: UA-NNNNNNNN-N
 <br>
 
 <p style="font-size: 12px;font-weight:300">
-  <img src="/assets/images/redirection/redirection_overview.jpg" alt="vtd_overview" style="width: 100%;" class="center">
+  <img src="/assets/images/redirection/redirection_overview_outline.jpg" alt="vtd_overview" style="width: 100%;" class="center">
   <br>
   
   Caption.
