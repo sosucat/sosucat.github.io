@@ -55,3 +55,11 @@ google_analytics: UA-NNNNNNNN-N
   Further study with more powerful thermal feedback and a different experiment design (waling task) is expected.
 </p>
 <br>
+
+<h2>CREDITS</h2>
+Sosuke Ichihashi<br>
+Arata Horie<br>
+Zendai Kashino<br>
+Hiroto Saito<br>
+Sohei Wakisaka<br>
+Masahiko Inami<br>
