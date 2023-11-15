@@ -23,29 +23,22 @@ google_analytics: UA-NNNNNNNN-N
 </p>
 <br>
 
-<h2>IMPLEMENTATION</h2>
-<p style="font-size: 14px;font-weight:400">
-  
-</p>
-<br>
-
 
 <h2>DEMOS</h2>
+<a style="color: inherit; text-decoration: underline;" href="https://guthman.gatech.edu/Guthman-Fair-2023">Guthman Music, Art, and Technology Fair
 <p style="font-size: 12px;font-weight:300">
   <img src="/assets/images/heatophone/heatophone_leaflet.jpg" alt="vtd_front" style="width: 60%;" class="center">
   <br>
-  Caption.
 </p>
 
-<br><br>
+<br>
     
 <p style="font-size: 12px;font-weight:300">
   <img src="/assets/images/heatophone/heatophone_demo3.jpg" alt="heatophone_demo3" style="width: 60%;" class="center">
   <br>
-  Caption.
 </p>
 
-<br><br>
+<br>
 
 <p style="font-size: 12px;font-weight:300">
   <img src="/assets/images/heatophone/heatophone-demo2.jpg" alt="heatophone_demo2" style="width: 100%;" class="center">
