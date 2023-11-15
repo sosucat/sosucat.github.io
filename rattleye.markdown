@@ -18,7 +18,7 @@ google_analytics: UA-NNNNNNNN-N
   RattlEye is a new media experience where people feel thermal sensation according to their gaze.
   Just like you perceive visible lights according to your gaze in vision, you can perceive infrared rays (thermal sensation) according to your gaze in RattlEye.
   You can "see" the world through your skin.
-  People often reacts like, "Wow! It works!"
+  People often react like, "Wow! It works!"
 </p>
 <br>
 
