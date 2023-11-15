@@ -25,7 +25,8 @@ google_analytics: UA-NNNNNNNN-N
 
 
 <h2>DEMOS</h2>
-<a style="color: inherit; text-decoration: underline;" href="https://guthman.gatech.edu/Guthman-Fair-2023">Guthman Music, Art, and Technology Fair
+<a style="color: inherit; text-decoration: underline;" href="https://guthman.gatech.edu/Guthman-Fair-2023">Guthman Music, Art, and Technology Fair</a>
+<br>
 <p style="font-size: 12px;font-weight:300">
   <img src="/assets/images/heatophone/heatophone_leaflet.jpg" alt="vtd_front" style="width: 60%;" class="center">
   <br>
