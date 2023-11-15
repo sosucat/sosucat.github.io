@@ -6,16 +6,19 @@ google_analytics: UA-NNNNNNNN-N
 ---
 
 <br>
-<p style="font-size: 16px;font-weight:450;letter-spacing:0.0px;line-height:2.5">
-  ThermoBlinds is.
-</p>
-<br>
 
 <p style="font-size: 12px;font-weight:300">
   <img src="/assets/images/thermoblinds/thermoblinds_overview.jpg" alt="rattleye_overview" style="width: 100%;" class="center">
   <br>
-  
-  Caption.
+  ThermoBlinds provide various thermal sensation at a high refresh rate by adjusting the blinds angle in front of the infrared source.
+</p>
+<br>
+
+<p style="font-size: 16px;font-weight:450;letter-spacing:0.0px;line-height:2.5">
+  ThermoBlinds is a non-contact, highly responsive thermal feedback device for interactive applications.
+  It provides responsive feedback by rapidly adjusting infrared irradiance with a shutter mechanism.
+  The feedback can be applied according to real-time visual media contents, such as videos and virtual reality, to reproduce thermal experiences.
+  ThermoBlinds gives the user an immersive temperature sensation at a high refresh rate without the need to wear the device.
 </p>
 <br>
 
