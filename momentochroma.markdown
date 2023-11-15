@@ -6,16 +6,6 @@ google_analytics: UA-NNNNNNNN-N
 ---
 
 <br>
-<p style="font-size: 16px;font-weight:450;letter-spacing:0.0px;line-height:2.5">
-  Photography is a medium that cuts out and fixes a moment in flowing time.
-  The fixation of the moment removes from the photographic medium the ephemeral reality that we, who live in the flow of time, usually perceive.
-  The persuasiveness of the photograph also strongly presents the inaccurate colors of AI colorization.
-  <br>
-  MomentoChroma makes us, whose gaze scans space in time, perceive colorful images only while we do not move our gaze in order to vividly realize the reality of the past.
-  It is a perceptual experience with aura, and the momentary color becomes a catalyst for evoking the colors of people's memories.
-  As our peripheral vision is limited in spatial resolution, the AI-generated colors convey the overall atmosphere instead of convincing the viewers.
-</p>
-<br>
 
 <p style="font-size: 16px;font-weight:500;">
   <strong>Keep staring at the dot at the center of the inverted color image</strong>. And you will see colors in the black-and-white image.
@@ -28,6 +18,18 @@ google_analytics: UA-NNNNNNNN-N
   Original photograph: Kyoyo Kagayama. 1928. Young moga (modern girls) walk down a Ginza street in 1928 dressed in 'Beach Pyjama Style.'
 </p>
 <br>
+
+<p style="font-size: 16px;font-weight:450;letter-spacing:0.0px;line-height:2.5">
+  Photography is a medium that cuts out and fixes a moment in flowing time.
+  The fixation of the moment removes from the photographic medium the ephemeral reality that we, who live in the flow of time, usually perceive.
+  The persuasiveness of the photograph also strongly presents the inaccurate colors of AI colorization.
+  <br>
+  MomentoChroma makes us, whose gaze scans space in time, perceive colorful images only while we do not move our gaze in order to vividly realize the reality of the past.
+  It is a perceptual experience with aura, and the momentary color becomes a catalyst for evoking the colors of people's memories.
+  As our peripheral vision is limited in spatial resolution, the AI-generated colors convey the overall atmosphere instead of convincing the viewers.
+</p>
+<br>
+
 
 <h2>BACKGROUND</h2>
 <p style="font-size: 14px;font-weight:400">
