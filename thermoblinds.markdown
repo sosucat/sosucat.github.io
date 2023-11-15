@@ -24,7 +24,12 @@ google_analytics: UA-NNNNNNNN-N
 
 <h2>CONCEPT</h2>
 <p style="font-size: 14px;font-weight:400">
-  backgound.
+  Infrared rays have often been used to provide warmth in interactive applications because it works on multiple people without any wearable devices.
+  However, it has been difficult to increase the refresh rate of the thermal feedback through infrared by controlling infared sources.
+  Since infrared light travels straight and reflects like light, we thought that the mechanism of visual media could be applied, and focused on the mechanism of liquid crystal displays (LCD).
+  LCDs emit a constant amount of light from the backlight and achieve a high refresh rate by rapidly changing the transmittance of the light through a layer of LCs on top of the backlight.
+  We have achieved a high refresh rate even with temperature media by emitting a constant amount of infrared rays from an infrared source and controlling its transmittance at high speed, instead of using the conventional approach of controlling the infrared source itself.
+  Since the degree of infrared transmittance cannot be controlled with ordinary LC, we introduced a shutter mechanism to mechanically change the degree of transmittance.
 </p>
 <br>
 
@@ -32,14 +37,14 @@ google_analytics: UA-NNNNNNNN-N
 <p style="font-size: 12px;font-weight:300">
   <img src="/assets/images/thermoblinds/thermoblinds_system.jpg" alt="thermoblinds_system" style="width: 100%;" class="center">
   <br>
-  Caption.
+  The shutter is made of polycarbonate because of its light weight and high thermal tolerance. The backside of the shutter is covered with aluminum tapes to prevent the overheating of the shutter.
+  The shutter is actuated with a servo motor RS204MD which is controlled by a microcontroller.
 </p>
 
 <h2>VIDEO</h2>
 <p style="font-size: 12px;font-weight:300" class="videoWrapper">
   <iframe src="https://www.youtube.com/embed/r-ATCyN7rWQ?si=ZAmPahyV6qD273pG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <br>
-  Caption.
 </p>
 <br>
 
@@ -58,3 +63,16 @@ In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasi
 </li>
 </ol>
 <br>
+
+<h2>AWARDS</h2>
+MIMSVAI Best Paper Award. 2021. UbiComp-ISWS 2021 Adjunct.
+
+<h2>CREDITS</h2>
+Sosuke Ichihashi<br>
+Arata Horie<br>
+Masaharu Hirose<br>
+Zendai Kashino<br>
+Shigeo Yoshida<br>
+Sohei Wakisaka<br>
+Masahiko Inami<br>
+Tomoya Sasaki<br>
