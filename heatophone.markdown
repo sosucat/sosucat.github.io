@@ -10,8 +10,7 @@ google_analytics: UA-NNNNNNNN-N
 <p style="font-size: 12px;font-weight:300">
   <img src="/assets/images/heatophone/heatophone_demo1.png" alt="heatophone_demo1" style="width: 100%;" class="center">
   <br>
-  
-  Caption.
+  Demonstration of Heat-O-Phone at the Guthman Music, Art, and Technology Fair.
 </p>
 
 <br>
@@ -25,11 +24,12 @@ google_analytics: UA-NNNNNNNN-N
 
 
 <h2>DEMOS</h2>
-<a style="color: inherit; text-decoration: underline;" href="https://guthman.gatech.edu/Guthman-Fair-2023">Guthman Music, Art, and Technology Fair</a>
+<a style="color: inherit; text-decoration: underline;" href="https://guthman.gatech.edu/Guthman-Fair-2023">Guthman Music, Art, and Technology Fair</a>. 2022.
 <br>
 <p style="font-size: 12px;font-weight:300">
   <img src="/assets/images/heatophone/heatophone_leaflet.jpg" alt="vtd_front" style="width: 60%;" class="center">
   <br>
+  Leaflet at the Guthman Fair. The design is inspired by the leaflet of the Théâtrophone.
 </p>
 
 <br>
@@ -37,6 +37,7 @@ google_analytics: UA-NNNNNNNN-N
 <p style="font-size: 12px;font-weight:300">
   <img src="/assets/images/heatophone/heatophone_demo3.jpg" alt="heatophone_demo3" style="width: 60%;" class="center">
   <br>
+  Demo at the Guthman Fair.
 </p>
 
 <br>
@@ -44,7 +45,7 @@ google_analytics: UA-NNNNNNNN-N
 <p style="font-size: 12px;font-weight:300">
   <img src="/assets/images/heatophone/heatophone-demo2.jpg" alt="heatophone_demo2" style="width: 100%;" class="center">
   <br>
-  Caption.
+  Demo at the Guthman Fair.
 </p>
 
 <br><br>
