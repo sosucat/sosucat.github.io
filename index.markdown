@@ -26,7 +26,7 @@ google_analytics: UA-NNNNNNNN-N
 <div>
   <img src="assets/images/ichihashi_headshot.jpg" alt="profile pic" style="width:50%">
   <br>
-  <a style="font-size: 17px; color: rgba(50, 50, 50, 1.0); text-decoration: underline;" href="/assets/pdfs/soi_cv_20221221.pdf">Download CV</a>
+  <a style="font-size: 17px; color: rgba(50, 50, 50, 1.0); text-decoration: underline;" href="/assets/pdfs/Sosuke_Ichihashi_s_CV_Fall_2023">Download CV</a>
   | Follow me:<a href="https://twitter.com/RefreshSource"><img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:26px;height:24px;"></a>
 </div>
 <br>
