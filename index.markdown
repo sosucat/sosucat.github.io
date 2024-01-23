@@ -32,7 +32,7 @@ google_analytics: UA-NNNNNNNN-N
 <br>
 
 <p style="font-weight:450;line-height:2.5">
-  Sosuke Ichihashi is a Ph.D. student in [Future Feelings Lab](https://sites.gatech.edu/futurefeelings/team/), Georgia Tech (advisor: <a style="color: inherit; text-decoration: underline;" href="https://nourahowell.com/">Noura Howell</a>).<br>
+  Sosuke Ichihashi is a Ph.D. student in <a style="color:inherit; text-decoration: underline;" href="https://sites.gatech.edu/futurefeelings/team/">Future Feelings Lab</a>, Georgia Tech (advisor: <a style="color: inherit; text-decoration: underline;" href="https://nourahowell.com/">Noura Howell</a>).<br>
   He creates new media to gain insights into how people perceive and engage with the world.
   He approaches this in a variety of ways, going back to debates in philosophy, the arts, media theory and computer science in its early days, as well as augmenting human perception by considering human perceptual and bodily mechanisms.
 </p>
