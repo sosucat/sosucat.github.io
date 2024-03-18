@@ -7,6 +7,10 @@ google_analytics: UA-NNNNNNNN-N
 
 <!--<link href="{{site.baseurl}}/assets/css/main.css" rel="stylesheet">-->
 
+<a href="https://arxiv.org/abs/2402.15830"><img src="/assets/images/swarmbody/swarm_body_telepresence.jpg" alt="Swarm Body" style="width:100%" class="center"></a>
+<p>Swarm Body<br></p>
+<br>
+
 <a href="https://sosuke-ichihashi.com/heatophone/"><img src="/assets/images/heatophone/heatophone_grid.jpg" alt="Heat-O-Phone" style="width:100%" class="center"></a>
 <p>Heat-O-Phone<br></p>
 <br>
