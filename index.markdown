@@ -7,7 +7,7 @@ google_analytics: UA-NNNNNNNN-N
 
 <div class="row">
   <div class="column">
-    <a href="https://arxiv.org/abs/2402.15830"><img src="/assets/images/swarmbody/swarm_body_telepresence.jpg" alt="Swarm Body"></a>
+    <a href="https://shigeodayo.me/works/swarm_body/"><img src="/assets/images/swarmbody/swarm_body_telepresence.jpg" alt="Swarm Body"></a>
     <a href="https://sosuke-ichihashi.com/heatophone/"><img src="/assets/images/heatophone/heatophone_grid.jpg" alt="Heat-O-Phone"></a>
     <a href="https://sosuke-ichihashi.com/rattleye/"><img src="/assets/images/rattleye/rattleye_overview.jpg" alt="RattlEye"></a>
   </div>
@@ -46,6 +46,7 @@ google_analytics: UA-NNNNNNNN-N
   <li><p><strong>Sosuke Ichihashi</strong>, So Kuroki, Mai Nishimura, Kazumi Kasaura, Takefumi Hiraki, Kazutoshi Tanaka, and Shigeo Yoshida.
     Swarm Body: Embodied Swarm Robots.
     In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’24). 2024.
+    <b style="color:blue;">Popular Choice Honorable Mention Award</b>.
 <a style="color: inherit; text-decoration: underline;" href="https://arxiv.org/abs/2402.15830">doi</a></p>
 </li>
   <li><p><strong>Sosuke Ichihashi</strong>, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, Sohei Wakisaka, and Masahiko Inami.
