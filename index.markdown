@@ -5,7 +5,7 @@ google_analytics: UA-NNNNNNNN-N
 ---
 
 
-<p style="font-size:17px">Temperature as Digital Media</p>
+<p style="font-size:18px; font-weight:450">Temperature as Digital Media</p>
 <div class="row" style="font-size:15px; font-weight:400">
   <div class="column">
     <a href="https://sosuke-ichihashi.com/hydroptical/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
@@ -24,9 +24,8 @@ google_analytics: UA-NNNNNNNN-N
     Heat-O-Phone
   </div>
 </div>
-<br>
 
-<p style="font-size:17px"><br>Human Augmentation</p>
+<p style="font-size:18px; font-weight:450"><br>Human Augmentation</p>
 <div class="row" style="font-size:15px; font-weight:400">
   <div class="column">
     <a href="https://shigeodayo.me/works/swarm_body/"><img src="/assets/images/swarmbody/swarm_body_teaser.jpg" alt="Swarm Body"></a>
@@ -49,7 +48,7 @@ google_analytics: UA-NNNNNNNN-N
     Tsunami Estimation
   </div>
 </div> -->
-<br><br>
+<br>
 
 
 <div class="row">
@@ -67,7 +66,7 @@ google_analytics: UA-NNNNNNNN-N
   He approaches this in a variety of ways, going back to debates in philosophy, the arts, media theory and computer science in its early days, as well as augmenting human perception by considering human perceptual and bodily mechanisms.
 </p>
 
-<br><br><br>
+<br><br>
  
 # Publications
 <ol style="font-size:15px; font-weight:350">
