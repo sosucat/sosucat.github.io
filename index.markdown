@@ -5,8 +5,8 @@ google_analytics: UA-NNNNNNNN-N
 ---
 
 
-<p style="font-size:16px"><b>Temperature as Digital Media</b></p>
-<div class="row" style="font-size:16px; font-weight:400">
+<p style="font-size:17px">Temperature as Digital Media</p>
+<div class="row" style="font-size:15px; font-weight:400">
   <div class="column">
     <a href="https://sosuke-ichihashi.com/hydroptical/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
     Hydroptical<br> <br>
@@ -26,8 +26,8 @@ google_analytics: UA-NNNNNNNN-N
 </div>
 <br>
 
-<p style="font-size:16px"><br><b>Human Augmentation</b></p>
-<div class="row" style="font-size:16px; font-weight:400">
+<p style="font-size:17px"><br>Human Augmentation</p>
+<div class="row" style="font-size:15px; font-weight:400">
   <div class="column">
     <a href="https://shigeodayo.me/works/swarm_body/"><img src="/assets/images/swarmbody/swarm_body_teaser.jpg" alt="Swarm Body"></a>
     Swarm Body
@@ -58,7 +58,7 @@ google_analytics: UA-NNNNNNNN-N
   </div>
 </div>
   <a style="font-size: 17px; color: rgba(50, 50, 50, 1.0); text-decoration: underline;" href="/assets/pdfs/Sosuke_Ichihashi_s_CV_Fall_2023.pdf">Download CV</a>
-  | Follow me:<a href="https://twitter.com/RefreshSource"><img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:26px;height:24px;"></a>
+  | Follow me <a href="https://twitter.com/RefreshSource"><img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:26px;height:24px;"></a>
 <br>
 
 <p style="font-weight:450;line-height:2.5">
