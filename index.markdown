@@ -55,10 +55,10 @@ Temperature as Digital Media
   <div class="column">
     <img src="assets/images/ichihashi_headshot.jpg" alt="profile pic">
   </div>
-  <br>
+</div>
+<br>
   <a style="font-size: 17px; color: rgba(50, 50, 50, 1.0); text-decoration: underline;" href="/assets/pdfs/Sosuke_Ichihashi_s_CV_Fall_2023.pdf">Download CV</a>
   | Follow me:<a href="https://twitter.com/RefreshSource"><img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:26px;height:24px;"></a>
-</div>
 <br>
 
 <p style="font-weight:450;line-height:2.5">
@@ -71,7 +71,7 @@ Temperature as Digital Media
  
 # Publications
 ### International Conferences
-<ol style="font-size:14px; font-weight:320">
+<ol style="font-size:15px; font-weight:350">
   <li><p><strong>Sosuke Ichihashi</strong>, Masahiko Inami, Hsin-Ni Ho, and Noura Howell.
     Hydroptical Thermal Feedback: Spatial Thermal Feedback Using Visible Lights and Water.
     In Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology (UIST '24). 2024.
