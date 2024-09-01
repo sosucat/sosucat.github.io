@@ -5,18 +5,17 @@ google_analytics: UA-NNNNNNNN-N
 ---
 
 
-<p>Temperature as Digital Media</p>
+Temperature as Digital Media
 <div class="row">
   <div class="column">
     <a href="https://sosuke-ichihashi.com/hydroptical/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
-    Hydroptical
-    <br>
+    Hydroptical<br>
     <a href="https://sosuke-ichihashi.com/vtd/"><img src="/assets/images/vtd/vtd_overview.jpg" alt="Visuo-Thermal Display"></a>
     Visuo-Thermal Display
   </div>
   <div class="column">
     <a href="https://sosuke-ichihashi.com/thermoblinds/"><img src="/assets/images/thermoblinds/thermoblinds_stand.jpg" alt="ThermoBlinds"></a>
-    ThermoBlinds
+    ThermoBlinds<br>
     <a href="https://sosuke-ichihashi.com/redirection/"><img src="/assets/images/redirection/redirection_grid.jpg" alt="Redirection"></a>
     Redirection thru Heat
   </div>
@@ -38,17 +37,17 @@ google_analytics: UA-NNNNNNNN-N
   </div>
 </div>
 
-<p><br>Other Works</p>
-<div class="row">
+<!-- <p><br>Other Works</p> -->
+<!-- <div class="row">
   <div class="column">
-    <a href="https://sosuke-ichihashi.com/momentochroma/"><img src="/assets/images/momentochroma/momentochroma_grid.jpg" alt="MomentoChroma"></a>
+   <a href="https://sosuke-ichihashi.com/momentochroma/"><img src="/assets/images/momentochroma/momentochroma_grid.jpg" alt="MomentoChroma"></a>
     MomentoChroma
   </div>
   <div class="column">
     <a href="https://www.geo.utexas.edu/courses/371c/project/2018F/Ichihashi_GIS_project.pdf"><img src="/assets/images/geo_grid.png" alt="geo"></a>
     Tsunami Estimation
   </div>
-</div>
+</div> -->
 <br>
 
 
