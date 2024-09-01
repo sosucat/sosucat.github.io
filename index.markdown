@@ -6,7 +6,7 @@ google_analytics: UA-NNNNNNNN-N
 
 
 <p>Temperature as Digital Media</p>
-<font size="-2">
+<font size="-1">
 <div class="row">
   <div class="column">
     <a href="https://sosuke-ichihashi.com/hydroptical/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
@@ -27,10 +27,9 @@ google_analytics: UA-NNNNNNNN-N
   </div>
 </div>
 </font>
-<br>
 
 <p>Human Augmentation</p>
-<font size="-2">
+<font size="-1">
 <div class="row">
   <div class="column">
     <a href="https://shigeodayo.me/works/swarm_body/"><img src="/assets/images/swarmbody/swarm_body_telepresence.jpg" alt="Swarm Body"></a>
@@ -42,10 +41,9 @@ google_analytics: UA-NNNNNNNN-N
   </div>
 </div>
 </font>
-<br>
 
 <p>Other Works</p>
-<font size="-2">
+<font size="-1">
 <div class="row">
   <div class="column">
     <a href="https://sosuke-ichihashi.com/momentochroma/"><img src="/assets/images/momentochroma/momentochroma_grid.jpg" alt="MomentoChroma"></a>
@@ -58,10 +56,8 @@ google_analytics: UA-NNNNNNNN-N
 </div>
 </font>
 
-<br>
-
 <div>
-  <img src="assets/images/ichihashi_headshot.jpg" alt="profile pic" style="width:50%">
+  <img src="assets/images/ichihashi_headshot.jpg" alt="profile pic" style="width:40%">
   <br>
   <a style="font-size: 17px; color: rgba(50, 50, 50, 1.0); text-decoration: underline;" href="/assets/pdfs/Sosuke_Ichihashi_s_CV_Fall_2023.pdf">Download CV</a>
   | Follow me:<a href="https://twitter.com/RefreshSource"><img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:26px;height:24px;"></a>
