@@ -5,7 +5,7 @@ google_analytics: UA-NNNNNNNN-N
 ---
 
 
-<p style="font-size:16px; font-weight:500">Temperature as Digital Media</p>
+<p style="font-size:16px"><b>Temperature as Digital Media</b></p>
 <div class="row" style="font-size:16px; font-weight:400">
   <div class="column">
     <a href="https://sosuke-ichihashi.com/hydroptical/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
@@ -26,7 +26,7 @@ google_analytics: UA-NNNNNNNN-N
 </div>
 <br>
 
-<p style="font-size:16px; font-weight:500"><br>Human Augmentation</p>
+<p style="font-size:16px"><br><b>Human Augmentation</b></p>
 <div class="row" style="font-size:16px; font-weight:400">
   <div class="column">
     <a href="https://shigeodayo.me/works/swarm_body/"><img src="/assets/images/swarmbody/swarm_body_teaser.jpg" alt="Swarm Body"></a>
@@ -49,7 +49,7 @@ google_analytics: UA-NNNNNNNN-N
     Tsunami Estimation
   </div>
 </div> -->
-<br>
+<br><br>
 
 
 <div class="row">
