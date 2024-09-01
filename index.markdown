@@ -140,10 +140,15 @@ In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasi
 # Articles
 <ol style="font-size:15px; font-weight:350">
   <li>
-    
+    <a style="color: inherit; text-decoration: underline;" href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/09593/">Nikkei article about Swarm Body</a>. 2024.
   </li>
-  <li>Article about my exchange at UT Austin.
-    <a style="color: inherit; text-decoration: underline;" href="https://www.s-ge.t.kyoto-u.ac.jp/int/en/campuslife/students/blog/ichihashisan">Report</a>
+
+  <li>
+    <a style="color: inherit; text-decoration: underline;" href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/09593/">Company's article about Swarm Body</a>. 2023.
+  </li>
+  
+  <li>
+    <a style="color: inherit; text-decoration: underline;" href="https://www.s-ge.t.kyoto-u.ac.jp/int/en/campuslife/students/blog/ichihashisan">University's article about my exchange at UT Austin</a>. 2019.
   </li>
 </ol>
 
