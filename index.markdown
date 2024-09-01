@@ -6,11 +6,10 @@ google_analytics: UA-NNNNNNNN-N
 
 
 <p>Temperature as Digital Media</p>
-<font size="-1"><b>
 <div class="row">
   <div class="column">
     <a href="https://sosuke-ichihashi.com/hydroptical/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
-    Hydroptical Thermal Feedback
+    Hydroptical
     <br>
     <a href="https://sosuke-ichihashi.com/vtd/"><img src="/assets/images/vtd/vtd_overview.jpg" alt="Visuo-Thermal Display"></a>
     Visuo-Thermal Display
@@ -26,10 +25,8 @@ google_analytics: UA-NNNNNNNN-N
     Heat-O-Phone
   </div>
 </div>
-</b></font>
 
 <p><br>Human Augmentation</p>
-<font size="-1">
 <div class="row">
   <div class="column">
     <a href="https://shigeodayo.me/works/swarm_body/"><img src="/assets/images/swarmbody/swarm_body_telepresence.jpg" alt="Swarm Body"></a>
@@ -40,10 +37,8 @@ google_analytics: UA-NNNNNNNN-N
     RattlEye
   </div>
 </div>
-</font>
 
 <p><br>Other Works</p>
-<font size="-1">
 <div class="row">
   <div class="column">
     <a href="https://sosuke-ichihashi.com/momentochroma/"><img src="/assets/images/momentochroma/momentochroma_grid.jpg" alt="MomentoChroma"></a>
@@ -54,7 +49,6 @@ google_analytics: UA-NNNNNNNN-N
     Tsunami Estimation
   </div>
 </div>
-</font>
 <br>
 
 
@@ -79,11 +73,16 @@ google_analytics: UA-NNNNNNNN-N
 # Publications
 ### International Conferences
 <ol style="font-size:14px; font-weight:320">
+  <li><p><strong>Sosuke Ichihashi</strong>, Masahiko Inami, Hsin-Ni Ho, and Noura Howell.
+    Hydroptical Thermal Feedback: Spatial Thermal Feedback Using Visible Lights and Water.
+    In Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology (UIST '24). 2024.
+<a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3654777.3676453">doi</a></p>
+</li>
   <li><p><strong>Sosuke Ichihashi</strong>, So Kuroki, Mai Nishimura, Kazumi Kasaura, Takefumi Hiraki, Kazutoshi Tanaka, and Shigeo Yoshida.
     Swarm Body: Embodied Swarm Robots.
     In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’24). 2024.
     <b style="color:blue;">Popular Choice Honorable Mention Award</b>.
-<a style="color: inherit; text-decoration: underline;" href="https://arxiv.org/abs/2402.15830">doi</a></p>
+<a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3613904.3642870">doi</a></p>
 </li>
   <li><p><strong>Sosuke Ichihashi</strong>, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, Sohei Wakisaka, and Masahiko Inami.
 ThermoBlinds: Non-Contact, Highly Responsive Thermal Feedback for Thermal Interaction.
