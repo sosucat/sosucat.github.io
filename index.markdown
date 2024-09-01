@@ -5,17 +5,17 @@ google_analytics: UA-NNNNNNNN-N
 ---
 
 
-<p>Temperature as Digital Media</p>
-<div class="row" style="font-size:15px; font-weight:350">
+<p style="font-size:16px; font-weight:400">Temperature as Digital Media</p>
+<div class="row" style="font-size:16px; font-weight:400">
   <div class="column">
     <a href="https://sosuke-ichihashi.com/hydroptical/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
-    Hydroptical<br>
+    Hydroptical<br> <br>
     <a href="https://sosuke-ichihashi.com/vtd/"><img src="/assets/images/vtd/vtd_overview.jpg" alt="Visuo-Thermal Display"></a>
     Visuo-Thermal Display
-  </div><br>
+  </div>
   <div class="column">
     <a href="https://sosuke-ichihashi.com/thermoblinds/"><img src="/assets/images/thermoblinds/thermoblinds_stand.jpg" alt="ThermoBlinds"></a>
-    ThermoBlinds<br>
+    ThermoBlinds<br> <br>
     <a href="https://sosuke-ichihashi.com/redirection/"><img src="/assets/images/redirection/redirection_grid.jpg" alt="Redirection"></a>
     Redirection thru Heat
   </div>
@@ -25,8 +25,8 @@ google_analytics: UA-NNNNNNNN-N
   </div>
 </div>
 
-<p><br>Human Augmentation</p>
-<div class="row">
+<p style="font-size:16px; font-weight:400"><br>Human Augmentation</p>
+<div class="row" style="font-size:16px; font-weight:400">
   <div class="column">
     <a href="https://shigeodayo.me/works/swarm_body/"><img src="/assets/images/swarmbody/swarm_body_telepresence.jpg" alt="Swarm Body"></a>
     Swarm Body
@@ -56,7 +56,6 @@ google_analytics: UA-NNNNNNNN-N
     <img src="assets/images/ichihashi_headshot.jpg" alt="profile pic">
   </div>
 </div>
-<br>
   <a style="font-size: 17px; color: rgba(50, 50, 50, 1.0); text-decoration: underline;" href="/assets/pdfs/Sosuke_Ichihashi_s_CV_Fall_2023.pdf">Download CV</a>
   | Follow me:<a href="https://twitter.com/RefreshSource"><img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:26px;height:24px;"></a>
 <br>
