@@ -6,38 +6,38 @@ google_analytics: UA-NNNNNNNN-N
 
 
 <p>Temperature as Digital Media</p>
-<font size="-1">
+<font size="-1"><b>
 <div class="row">
   <div class="column">
     <a href="https://sosuke-ichihashi.com/hydroptical/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
-    **Hydroptical Thermal Feedback**
+    Hydroptical Thermal Feedback
     <br>
     <a href="https://sosuke-ichihashi.com/vtd/"><img src="/assets/images/vtd/vtd_overview.jpg" alt="Visuo-Thermal Display"></a>
-    **Visuo-Thermal Display**
+    Visuo-Thermal Display
   </div>
   <div class="column">
     <a href="https://sosuke-ichihashi.com/thermoblinds/"><img src="/assets/images/thermoblinds/thermoblinds_stand.jpg" alt="ThermoBlinds"></a>
-    **ThermoBlinds**
+    ThermoBlinds
     <a href="https://sosuke-ichihashi.com/redirection/"><img src="/assets/images/redirection/redirection_grid.jpg" alt="Redirection"></a>
-    **Redirection thru Heat**
+    Redirection thru Heat
   </div>
   <div class="column">
     <a href="https://sosuke-ichihashi.com/heatophone/"><img src="/assets/images/heatophone/heatophone_grid.jpg" alt="Heat-O-Phone"></a>
-    **Heat-O-Phone**
+    Heat-O-Phone
   </div>
 </div>
-</font>
+</b></font>
 
 <p><br>Human Augmentation</p>
 <font size="-1">
 <div class="row">
   <div class="column">
     <a href="https://shigeodayo.me/works/swarm_body/"><img src="/assets/images/swarmbody/swarm_body_telepresence.jpg" alt="Swarm Body"></a>
-    **Swarm Body**
+    Swarm Body
   </div>
   <div class="column">
     <a href="https://sosuke-ichihashi.com/rattleye/"><img src="/assets/images/rattleye/rattleye_overview.jpg" alt="RattlEye"></a>
-    **RattlEye**
+    RattlEye
   </div>
 </div>
 </font>
@@ -47,18 +47,21 @@ google_analytics: UA-NNNNNNNN-N
 <div class="row">
   <div class="column">
     <a href="https://sosuke-ichihashi.com/momentochroma/"><img src="/assets/images/momentochroma/momentochroma_grid.jpg" alt="MomentoChroma"></a>
-    **MomentoChroma**
+    MomentoChroma
   </div>
   <div class="column">
     <a href="https://www.geo.utexas.edu/courses/371c/project/2018F/Ichihashi_GIS_project.pdf"><img src="/assets/images/geo_grid.png" alt="geo"></a>
-    **Tsunami Estimation**
+    Tsunami Estimation
   </div>
 </div>
 </font>
 <br>
 
-<div>
-  <img src="assets/images/ichihashi_headshot.jpg" alt="profile pic" style="width:40%">
+
+<div class="row">
+  <div class="column">
+    <img src="assets/images/ichihashi_headshot.jpg" alt="profile pic">
+  </div>
   <br>
   <a style="font-size: 17px; color: rgba(50, 50, 50, 1.0); text-decoration: underline;" href="/assets/pdfs/Sosuke_Ichihashi_s_CV_Fall_2023.pdf">Download CV</a>
   | Follow me:<a href="https://twitter.com/RefreshSource"><img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:26px;height:24px;"></a>
