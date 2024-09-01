@@ -7,16 +7,22 @@ google_analytics: UA-NNNNNNNN-N
 
 <p>Temperature as Digital Media</p>
 <div class="row">
+  Temperature as Digital Media
   <div class="column">
     <a href="https://sosuke-ichihashi.com/hydroptical/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
+    Hydroptical Thermal Feedback
+    <br>
     <a href="https://sosuke-ichihashi.com/vtd/"><img src="/assets/images/vtd/vtd_overview.jpg" alt="Visuo-Thermal Display"></a>
+    Visuo-Thermal Display
   </div>
   <div class="column">
     <a href="https://sosuke-ichihashi.com/thermoblinds/"><img src="/assets/images/thermoblinds/thermoblinds_stand.jpg" alt="ThermoBlinds"></a>
+    ThermoBlinds
     <a href="https://sosuke-ichihashi.com/redirection/"><img src="/assets/images/redirection/redirection_grid.jpg" alt="Redirection"></a>
   </div>
   <div class="column">
     <a href="https://sosuke-ichihashi.com/heatophone/"><img src="/assets/images/heatophone/heatophone_grid.jpg" alt="Heat-O-Phone"></a>
+    Heat-O-Phone
   </div>
 </div>
 
