@@ -6,7 +6,7 @@ google_analytics: UA-NNNNNNNN-N
 
 
 Temperature as Digital Media
-<div class="row">
+<div class="row" style="font-size:18px; font-weight:350">
   <div class="column">
     <a href="https://sosuke-ichihashi.com/hydroptical/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
     Hydroptical<br>
@@ -70,7 +70,6 @@ Temperature as Digital Media
 <br><br><br>
  
 # Publications
-### International Conferences
 <ol style="font-size:15px; font-weight:350">
   <li><p><strong>Sosuke Ichihashi</strong>, Masahiko Inami, Hsin-Ni Ho, and Noura Howell.
     Hydroptical Thermal Feedback: Spatial Thermal Feedback Using Visible Lights and Water.
@@ -102,44 +101,91 @@ In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasi
 </ol>
 <br>
 
-### Domestic Conferences
-<ol style="font-size:14px; font-weight:320">
-<li><strong>Sosuke Ichihashi</strong>, Arata Horie, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami.
-The effect of temperature presentation according to the gaze of others on remote communications.
-The 26th Annual Conference of Virtual Reality Society of Japan (VRSJ 2021). 2021. in Japanese.
-<a style="color: inherit; text-decoration: underline;" href="http://conference.vrsj.org/ac2021/program/doc/1G-9.pdf">PDF (JPN)</a>
-</li>
+# Experiences
+### Research
 
-<li><strong>Sosuke Ichihashi</strong>, Arata Horie, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami.
-High-Response Thermal Presentation by Controlling Infrared Radiant Intensity using a Shutter Mechanism.
-Information Processing Society of Japan Entertainment Computing 2021. 2021. in Japanese.
-<a style="color: inherit; text-decoration: underline;" href="https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_action_common_download&item_id=212594&item_no=1&attribute_id=1&file_no=1">PDF (JPN)</a>
-</li>
-
-<li><strong>Sosuke Ichihashi</strong>, Arata Horie, Hiroto Saito, Zendai Kashino, and Masahiko Inami.
-Preliminary Study on Orientation Perception with Far Infrared Stimulus.
-The Society of Instrument and Control Engineering System Integration Division Conference. 2020. in Japanese.
-<a style="color: inherit; text-decoration: underline;" href="https://www.sice-si.org/conf/si2020/SI2020%E6%9A%AB%E5%AE%9A%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A01204r2.pdf">Program (JPN)</a>
-</li>
+### Teaching
+<ol style="font-size:15px; font-weight:350">
+  <li>
+    LMC 2700 Intro to Computational Media
+    TA @ Georgia Tech, USA. 2024.
+  </li>
+  <li>
+    LMC 2400 Intro to Media Studies
+    Instructor @ Georgia Tech, USA. 2024.
+  </li>
+  <li>
+    LMC 6130 Computer as Expressive Medium
+    TA @ Georgia Tech, USA. 2023.
+  </li>
+  <li>
+    JSPS Science Dialogue Program
+    Lecturer @ Akashi Kita Science High School, Japan. 2018.
+    <a style="color: inherit; text-decoration: underline;" href="https://www.jsps.go.jp/j-sdialogue/data/03_past_lectures/201911/f1114_3457.pdf">Report</a>
+  </li>
+  <li>
+    Japanese History.
+    Instructor @ Johan Heinrich Pestalozzi Elementary School, Nothern Macedonia. 2018.
+  </li>
+  <li>
+    Kyoto University Disaster Prevention School.
+    Instructor @ Five elementary schools in Makassar, Indonesia. 2017.
+  </li>
+  <li>
+    Engineering Science Global Communication Programme.
+    TA @ Ngee Ann Polytechnic, Singapore. 2017.
+  </li>
 </ol>
+
+# Articles
+<ol style="font-size:15px; font-weight:350">
+  <li>
+    
+  </li>
+  <li>Article about my exchange at UT Austin.
+    <a style="color: inherit; text-decoration: underline;" href="https://www.s-ge.t.kyoto-u.ac.jp/int/en/campuslife/students/blog/ichihashisan">Report</a>
+  </li>
+</ol>
+
+# Other Works
+<div class="row">
+  <div class="column">
+   <a href="https://sosuke-ichihashi.com/momentochroma/"><img src="/assets/images/momentochroma/momentochroma_grid.jpg" alt="MomentoChroma"></a>
+    MomentoChroma
+  </div>
+  <div class="column">
+    <a href="https://www.geo.utexas.edu/courses/371c/project/2018F/Ichihashi_GIS_project.pdf"><img src="/assets/images/geo_grid.png" alt="geo"></a>
+    Tsunami Estimation
+  </div>
+</div>
+
 <br>
+<ol style="font-size:15px; font-weight:350">
+  <li><strong>Sosuke Ichihashi</strong>, Arata Horie, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami.
+    The effect of temperature presentation according to the gaze of others on remote communications.
+    The 26th Annual Conference of Virtual Reality Society of Japan (VRSJ 2021). 2021. in Japanese.
+    <a style="color: inherit; text-decoration: underline;" href="http://conference.vrsj.org/ac2021/program/doc/1G-9.pdf">PDF (JPN)</a>
+  </li>
 
-### Other Works
-<ol style="font-size:14px; font-weight:320">
-<li>UT Austin GEO 327G GIS & GPS Applications in Earth Sciences: Maps of the Week.
-<a style="color: inherit; text-decoration: underline;" href="http://courses.geo.utexas.edu/courses/371c/MOW/2018F/lab1/MOW_Lab_1__Ichihashi_large.htm">PDF</a>
-</li>
+  <li><strong>Sosuke Ichihashi</strong>, Arata Horie, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami.
+    High-Response Thermal Presentation by Controlling Infrared Radiant Intensity using a Shutter Mechanism.
+    Information Processing Society of Japan Entertainment Computing 2021. 2021. in Japanese.
+    <a style="color: inherit; text-decoration: underline;" href="https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_action_common_download&item_id=212594&item_no=1&attribute_id=1&file_no=1">PDF (JPN)</a>
+  </li>
 
-<li>UT Austin GEO 327G GIS & GPS Applications in Earth Sciences: Class Project.
-<a style="color: inherit; text-decoration: underline;" href="https://www.geo.utexas.edu/courses/371c/project/2018F/Ichihashi_GIS_project.pdf">PDF</a>
-</li>
+  <li><strong>Sosuke Ichihashi</strong>, Arata Horie, Hiroto Saito, Zendai Kashino, and Masahiko Inami.
+    Preliminary Study on Orientation Perception with Far Infrared Stimulus.
+    The Society of Instrument and Control Engineering System Integration Division Conference. 2020. in Japanese.
+    <a style="color: inherit; text-decoration: underline;" href="https://www.sice-si.org/conf/si2020/SI2020%E6%9A%AB%E5%AE%9A%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A01204r2.pdf">Program (JPN)</a>
+  </li>
 
-<li>Graduation Thesis at Kyoto University: Combinatorial Optimization for Parameter Identification of a Rainfall-Runoff Model Applied to 120 Dam River Basins in Japan.</li>
+  <li>UT Austin GEO 327G GIS & GPS Applications in Earth Sciences: Maps of the Week.
+    <a style="color: inherit; text-decoration: underline;" href="http://courses.geo.utexas.edu/courses/371c/MOW/2018F/lab1/MOW_Lab_1__Ichihashi_large.htm">PDF</a>
+  </li>
 
-<li>JSPS Science Dialogue Program: Lecture at Akashi Kita Science High School.
-<a style="color: inherit; text-decoration: underline;" href="https://www.jsps.go.jp/j-sdialogue/data/03_past_lectures/201911/f1114_3457.pdf">Report</a>
-</li>
+  <li>UT Austin GEO 327G GIS & GPS Applications in Earth Sciences: Class Project.
+    <a style="color: inherit; text-decoration: underline;" href="https://www.geo.utexas.edu/courses/371c/project/2018F/Ichihashi_GIS_project.pdf">PDF</a>
+  </li>
 
-<li>Article about my exchange at UT Austin.
-<a style="color: inherit; text-decoration: underline;" href="https://www.s-ge.t.kyoto-u.ac.jp/int/en/campuslife/students/blog/ichihashisan">Report</a>
-</li>
+  <li>Graduation Thesis at Kyoto University: Combinatorial Optimization for Parameter Identification of a Rainfall-Runoff Model Applied to 120 Dam River Basins in Japan.</li>
+</ol>
