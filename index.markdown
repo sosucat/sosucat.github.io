@@ -5,14 +5,14 @@ google_analytics: UA-NNNNNNNN-N
 ---
 
 
-Temperature as Digital Media
-<div class="row" style="font-size:18px; font-weight:350">
+<p>Temperature as Digital Media</p>
+<div class="row" style="font-size:15px; font-weight:350">
   <div class="column">
     <a href="https://sosuke-ichihashi.com/hydroptical/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
     Hydroptical<br>
     <a href="https://sosuke-ichihashi.com/vtd/"><img src="/assets/images/vtd/vtd_overview.jpg" alt="Visuo-Thermal Display"></a>
     Visuo-Thermal Display
-  </div>
+  </div><br>
   <div class="column">
     <a href="https://sosuke-ichihashi.com/thermoblinds/"><img src="/assets/images/thermoblinds/thermoblinds_stand.jpg" alt="ThermoBlinds"></a>
     ThermoBlinds<br>
@@ -88,17 +88,19 @@ In Special Interest Group on Computer Graphics and Interactive Techniques Confer
 <a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3532721.3535569">doi</a></p>
 </li>
   <li><strong>Sosuke Ichihashi</strong>, Arata Horie, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami.
-The effect of temperature presentation according to the gaze of others on remote communications.
-International Symposium on Measurement and Control in Robotics 2021 (ISMCR 2021). 2021.
-<a style="color: inherit; text-decoration: underline;" href="https://secureservercdn.net/198.71.233.33/l95.2a1.myftpupload.com/wp-content/uploads/2021/09/ISMCR2021-October-1st-PROGRAM-.pdf">Program</a>
-</li>
+    The effect of temperature presentation according to the gaze of others on remote communications.
+    International Symposium on Measurement and Control in Robotics 2021 (ISMCR 2021). 2021.
+    <a style="color: inherit; text-decoration: underline;" href="https://secureservercdn.net/198.71.233.33/l95.2a1.myftpupload.com/wp-content/uploads/2021/09/ISMCR2021-October-1st-PROGRAM-.pdf">Program</a>
+  </li>
+  <br>
   <li><strong>Sosuke Ichihashi</strong>, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami.
-High-Speed Non-Contact Thermal Display Using Infrared Rays and Shutter Mechanism.
-In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium on Wearable Computers (UbiComp-ISWC ’21 Adjunct). 2021.
-<b style="color:blue;">Best Paper Award</b>.
-<a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3460418.3480160">doi</a>
-</li>
+    High-Speed Non-Contact Thermal Display Using Infrared Rays and Shutter Mechanism.
+    In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium on Wearable Computers (UbiComp-ISWC ’21 Adjunct). 2021.
+    <b style="color:blue;">Best Paper Award</b>.
+    <a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3460418.3480160">doi</a>
+  </li>
 </ol>
+
 <br>
 
 # Experiences
@@ -107,35 +109,36 @@ In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasi
 ### Teaching
 <ol style="font-size:15px; font-weight:350">
   <li>
-    LMC 2700 Intro to Computational Media
-    TA @ Georgia Tech, USA. 2024.
+    TA. LMC 2700 Intro to Computational Media 
+    @Georgia Tech, USA. 2024.
   </li>
   <li>
-    LMC 2400 Intro to Media Studies
-    Instructor @ Georgia Tech, USA. 2024.
+    Instructor. LMC 2400 Intro to Media Studies 
+    @Georgia Tech, USA. 2024.
   </li>
   <li>
-    LMC 6130 Computer as Expressive Medium
-    TA @ Georgia Tech, USA. 2023.
+    TA. LMC 6130 Computer as Expressive Medium 
+    @Georgia Tech, USA. 2023.
   </li>
   <li>
-    JSPS Science Dialogue Program
-    Lecturer @ Akashi Kita Science High School, Japan. 2018.
-    <a style="color: inherit; text-decoration: underline;" href="https://www.jsps.go.jp/j-sdialogue/data/03_past_lectures/201911/f1114_3457.pdf">Report</a>
+    Translator. JSPS Science Dialogue Program 
+    @Akashi Kita Science High School, Japan. <a style="color: inherit; text-decoration: underline;" href="https://www.jsps.go.jp/j-sdialogue/data/03_past_lectures/201911/f1114_3457.pdf">Report</a>. 2018.
   </li>
   <li>
-    Japanese History.
-    Instructor @ Johan Heinrich Pestalozzi Elementary School, Nothern Macedonia. 2018.
+    Instructor. Japanese History 
+    @Johan Heinrich Pestalozzi Elementary School, Nothern Macedonia. 2018.
   </li>
   <li>
-    Kyoto University Disaster Prevention School.
-    Instructor @ Five elementary schools in Makassar, Indonesia. 2017.
+    Instructor. Kyoto University Disaster Prevention School 
+    @Five elementary schools in Makassar, Indonesia. 2017.
   </li>
   <li>
-    Engineering Science Global Communication Programme.
-    TA @ Ngee Ann Polytechnic, Singapore. 2017.
+    TA. Engineering Science Global Communication Programme 
+    @Ngee Ann Polytechnic, Singapore. 2017.
   </li>
 </ol>
+
+<br>
 
 # Articles
 <ol style="font-size:15px; font-weight:350">
@@ -144,13 +147,15 @@ In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasi
   </li>
 
   <li>
-    <a style="color: inherit; text-decoration: underline;" href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/09593/">Company's article about Swarm Body</a>. 2023.
+    <a style="color: inherit; text-decoration: underline;" href="https://medium.com/sinicx/our-paper-which-explores-whether-people-can-perceive-as-if-swarm-robots-were-part-of-their-body-69bc10abfd64">Company's article about Swarm Body</a>. 2023.
   </li>
   
   <li>
     <a style="color: inherit; text-decoration: underline;" href="https://www.s-ge.t.kyoto-u.ac.jp/int/en/campuslife/students/blog/ichihashisan">University's article about my exchange at UT Austin</a>. 2019.
   </li>
 </ol>
+
+<br>
 
 # Other Works
 <div class="row">
