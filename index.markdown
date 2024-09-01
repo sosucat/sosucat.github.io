@@ -6,8 +6,8 @@ google_analytics: UA-NNNNNNNN-N
 
 
 <p>Temperature as Digital Media</p>
+<font size="-2">
 <div class="row">
-  Temperature as Digital Media
   <div class="column">
     <a href="https://sosuke-ichihashi.com/hydroptical/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
     Hydroptical Thermal Feedback
@@ -19,32 +19,44 @@ google_analytics: UA-NNNNNNNN-N
     <a href="https://sosuke-ichihashi.com/thermoblinds/"><img src="/assets/images/thermoblinds/thermoblinds_stand.jpg" alt="ThermoBlinds"></a>
     ThermoBlinds
     <a href="https://sosuke-ichihashi.com/redirection/"><img src="/assets/images/redirection/redirection_grid.jpg" alt="Redirection"></a>
+    Redirection thru Heat
   </div>
   <div class="column">
     <a href="https://sosuke-ichihashi.com/heatophone/"><img src="/assets/images/heatophone/heatophone_grid.jpg" alt="Heat-O-Phone"></a>
     Heat-O-Phone
   </div>
 </div>
+</font>
+<br>
 
 <p>Human Augmentation</p>
+<font size="-2">
 <div class="row">
   <div class="column">
     <a href="https://shigeodayo.me/works/swarm_body/"><img src="/assets/images/swarmbody/swarm_body_telepresence.jpg" alt="Swarm Body"></a>
+    Swarm Body
   </div>
   <div class="column">
     <a href="https://sosuke-ichihashi.com/rattleye/"><img src="/assets/images/rattleye/rattleye_overview.jpg" alt="RattlEye"></a>
+    RattlEye
   </div>
 </div>
+</font>
+<br>
 
 <p>Other Works</p>
+<font size="-2">
 <div class="row">
   <div class="column">
     <a href="https://sosuke-ichihashi.com/momentochroma/"><img src="/assets/images/momentochroma/momentochroma_grid.jpg" alt="MomentoChroma"></a>
+    MomentoChroma
   </div>
   <div class="column">
     <a href="https://www.geo.utexas.edu/courses/371c/project/2018F/Ichihashi_GIS_project.pdf"><img src="/assets/images/geo_grid.png" alt="geo"></a>
+    Tsunami Estimation
   </div>
 </div>
+</font>
 
 <br>
 
