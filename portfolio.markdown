@@ -7,7 +7,11 @@ google_analytics: UA-NNNNNNNN-N
 
 <!--<link href="{{site.baseurl}}/assets/css/main.css" rel="stylesheet">-->
 
-<a href="https://shigeodayo.me/works/swarm_body/"><img src="/assets/images/swarmbody/swarm_body_telepresence.jpg" alt="Swarm Body" style="width:100%" class="center"></a>
+<a href="https://sosuke-ichihashi.com/hydroptical/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback" style="width:100%" class="center"></a>
+<p>Hydroptical Thermal Feedback<br></p>
+<br>
+
+<a href="https://shigeodayo.me/works/swarm_body/"><img src="/assets/images/swarmbody/swarm_body_teaser.jpg" alt="Swarm Body" style="width:100%" class="center"></a>
 <p>Swarm Body<br></p>
 <br>
 
