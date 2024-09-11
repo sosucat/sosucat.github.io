@@ -68,7 +68,7 @@ google_analytics: UA-NNNNNNNN-N
 <br><br>
  
 # Publications
-<ol style="font-size:15px; font-weight:350">
+<ol style="font-size:15px; font-weight:400">
   <li><p>Hydroptical Thermal Feedback: Spatial Thermal Feedback Using Visible Lights and Water<br>
     <strong>Sosuke Ichihashi</strong>, Masahiko Inami, Hsin-Ni Ho, Noura Howell<br>
     In Proc. UIST '24 <a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3654777.3676453">doi</a></p>
@@ -87,8 +87,8 @@ google_analytics: UA-NNNNNNNN-N
   <strong>Sosuke Ichihashi</strong>, Arata Horie, Zendai Kashino, Shigeo Yoshida, Masahiko Inami<br>
   Presentation at ISMCR '21 <a style="color: inherit; text-decoration: underline;" href="https://secureservercdn.net/198.71.233.33/l95.2a1.myftpupload.com/wp-content/uploads/2021/09/ISMCR2021-October-1st-PROGRAM-.pdf">Program</a></p>
 </li>
-<li><p><strong>Sosuke Ichihashi</strong>, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, Masahiko Inami<br>
-  High-Speed Non-Contact Thermal Display Using Infrared Rays and Shutter Mechanism<br>
+<li><p>High-Speed Non-Contact Thermal Display Using Infrared Rays and Shutter Mechanism<br>
+  <strong>Sosuke Ichihashi</strong>, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, Masahiko Inami<br>
   In Proc. UbiComp-ISWC ’21 workshop MIMSVAI <a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3460418.3480160">doi</a><br>
   <b style="color:blue;">Best Paper Award</b></p>
 </li>
@@ -100,7 +100,7 @@ google_analytics: UA-NNNNNNNN-N
 ### Research
 
 ### Teaching
-<ol style="font-size:15px; font-weight:350">
+<ol style="font-size:15px; font-weight:400">
   <li>
     TA. LMC 2700 Intro to Computational Media 
     @Georgia Tech, USA. 2024.
@@ -134,7 +134,7 @@ google_analytics: UA-NNNNNNNN-N
 <br>
 
 # Articles
-<ol style="font-size:15px; font-weight:350">
+<ol style="font-size:15px; font-weight:400">
   <li>
     <a style="color: inherit; text-decoration: underline;" href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/09593/">Nikkei article about Swarm Body</a>. 2024.
   </li>
