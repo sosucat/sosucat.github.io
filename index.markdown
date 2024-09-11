@@ -9,7 +9,7 @@ google_analytics: UA-NNNNNNNN-N
 <div class="row" style="font-size:15px; font-weight:400">
   <div class="column">
     <a href="https://sosuke-ichihashi.com/hydroptical/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
-    Hydroptical<br> <br>
+    Hydroptical (to appear) <br> <br>
     <a href="https://sosuke-ichihashi.com/vtd/"><img src="/assets/images/vtd/vtd_overview.jpg" alt="Visuo-Thermal Display"></a>
     Visuo-Thermal Display
   </div>
@@ -71,7 +71,7 @@ google_analytics: UA-NNNNNNNN-N
 <ol style="font-size:15px; font-weight:400">
   <li><p>Hydroptical Thermal Feedback: Spatial Thermal Feedback Using Visible Lights and Water<br>
     <strong>Sosuke Ichihashi</strong>, Masahiko Inami, Hsin-Ni Ho, Noura Howell<br>
-    In Proc. UIST '24 <a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3654777.3676453">doi</a></p>
+    In Proc. UIST '24 <a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3654777.3676453">doi</a> (to appear)</p>
 </li>
   <li><p>Swarm Body: Embodied Swarm Robots<br>
     <strong>Sosuke Ichihashi</strong>, So Kuroki, Mai Nishimura, Kazumi Kasaura, Takefumi Hiraki, Kazutoshi Tanaka, Shigeo Yoshida<br>
