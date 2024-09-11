@@ -69,8 +69,8 @@ google_analytics: UA-NNNNNNNN-N
  
 # Publications
 <ol style="font-size:15px; font-weight:350">
-  <li><p><strong>Sosuke Ichihashi</strong>, Masahiko Inami, Hsin-Ni Ho, and Noura Howell.
-    Hydroptical Thermal Feedback: Spatial Thermal Feedback Using Visible Lights and Water.
+  <li><p><strong>Sosuke Ichihashi</strong>, Masahiko Inami, Hsin-Ni Ho, and Noura Howell.<br>
+    Hydroptical Thermal Feedback: Spatial Thermal Feedback Using Visible Lights and Water. <br>
     In Proc. UIST '24.
 <a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3654777.3676453">doi</a></p>
 </li>
