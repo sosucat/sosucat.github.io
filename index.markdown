@@ -69,34 +69,29 @@ google_analytics: UA-NNNNNNNN-N
  
 # Publications
 <ol style="font-size:15px; font-weight:350">
-  <li><p><strong>Sosuke Ichihashi</strong>, Masahiko Inami, Hsin-Ni Ho, and Noura Howell.<br>
-    Hydroptical Thermal Feedback: Spatial Thermal Feedback Using Visible Lights and Water. <br>
-    In Proc. UIST '24.
-<a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3654777.3676453">doi</a></p>
+  <li><p>Hydroptical Thermal Feedback: Spatial Thermal Feedback Using Visible Lights and Water<br>
+    <strong>Sosuke Ichihashi</strong>, Masahiko Inami, Hsin-Ni Ho, Noura Howell<br>
+    In Proc. UIST '24 <a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3654777.3676453">doi</a></p>
 </li>
-  <li><p><strong>Sosuke Ichihashi</strong>, So Kuroki, Mai Nishimura, Kazumi Kasaura, Takefumi Hiraki, Kazutoshi Tanaka, and Shigeo Yoshida.<br>
-    Swarm Body: Embodied Swarm Robots.<br>
-    In Proc. CHI ’24.
-    <b style="color:blue;">Popular Choice Honorable Mention Award</b>.
-<a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3613904.3642870">doi</a></p>
+  <li><p>Swarm Body: Embodied Swarm Robots<br>
+    <strong>Sosuke Ichihashi</strong>, So Kuroki, Mai Nishimura, Kazumi Kasaura, Takefumi Hiraki, Kazutoshi Tanaka, Shigeo Yoshida<br>
+    In Proc. CHI ’24 <a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3613904.3642870">doi</a><br>
+    <b style="color:blue;">Popular Choice Honorable Mention Award</b>
+  </p>
 </li>
-  <li><p><strong>Sosuke Ichihashi</strong>, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, Sohei Wakisaka, and Masahiko Inami.<br>
-ThermoBlinds: Non-Contact, Highly Responsive Thermal Feedback for Thermal Interaction.<br>
-In Proc. SIGGRAPH ’22 Emerging Technologies.
-<a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3532721.3535569">doi</a></p>
+<li><p>ThermoBlinds: Non-Contact, Highly Responsive Thermal Feedback for Thermal Interaction<br>
+  <strong>Sosuke Ichihashi</strong>, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, Sohei Wakisaka, Masahiko Inami<br>
+  In Proc. SIGGRAPH ’22 Emerging Technologies <a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3532721.3535569">doi</a></p>
 </li>
-  <li><strong>Sosuke Ichihashi</strong>, Arata Horie, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami.<br>
-    The effect of temperature presentation according to the gaze of others on remote communications.<br>
-    Presentation at ISMCR '21.
-    <a style="color: inherit; text-decoration: underline;" href="https://secureservercdn.net/198.71.233.33/l95.2a1.myftpupload.com/wp-content/uploads/2021/09/ISMCR2021-October-1st-PROGRAM-.pdf">Program</a>
-  </li>
-  <br>
-  <li><strong>Sosuke Ichihashi</strong>, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami.<br>
-    High-Speed Non-Contact Thermal Display Using Infrared Rays and Shutter Mechanism.<br>
-    In Proc. UbiComp-ISWC ’21 workshop MIMSVAI.
-    <b style="color:blue;">Best Paper Award</b>.
-    <a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3460418.3480160">doi</a>
-  </li>
+<li><p>The Effect of Temperature Presentation According to The Gaze of Others on Remote Communications<br>
+  <strong>Sosuke Ichihashi</strong>, Arata Horie, Zendai Kashino, Shigeo Yoshida, Masahiko Inami<br>
+  Presentation at ISMCR '21 <a style="color: inherit; text-decoration: underline;" href="https://secureservercdn.net/198.71.233.33/l95.2a1.myftpupload.com/wp-content/uploads/2021/09/ISMCR2021-October-1st-PROGRAM-.pdf">Program</a></p>
+</li>
+<li><p><strong>Sosuke Ichihashi</strong>, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, Masahiko Inami<br>
+  High-Speed Non-Contact Thermal Display Using Infrared Rays and Shutter Mechanism<br>
+  In Proc. UbiComp-ISWC ’21 workshop MIMSVAI <a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3460418.3480160">doi</a><br>
+  <b style="color:blue;">Best Paper Award</b></p>
+</li>
 </ol>
 
 <br>
