@@ -97,7 +97,29 @@ google_analytics: UA-NNNNNNNN-N
 <br>
 
 # Experiences
-### Research
+### Research Intern
+<ol style="font-size:15px; font-weight:400">
+  <li>
+    2024.07-2024.08&#9;
+    Ho Haptics Lab @ Kyushu University, Japan<br>
+    Research Intern advised by Prof. Hsin-Ni Ho<br>
+    Topic: Development of Hydroptical Thermal Display
+  </li>
+  <li>
+    2023.08-2024.02&#9;
+    Code Craft Lab @ Georgia Tech, USA<br>
+    Independent Study advised by Prof. HyunJoo Oh<br>
+    Topic: 2.5D Fabrication (paper under review)
+  </li>
+  <li>
+    2023.05-2023.08&#9;
+    Interaction Group @ Omron Sinic X, Japan<br>
+    Research Intern advised by Dr. Shigeo Yoshida<br>
+    Topic: Swarm Body (full paper at CHI '24)
+  </li>
+</ol>
+
+<br>
 
 ### Teaching
 <ol style="font-size:15px; font-weight:400">
