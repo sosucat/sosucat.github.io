@@ -11,11 +11,11 @@ google_analytics: UA-NNNNNNNN-N
     <a href="https://sosuke-ichihashi.com/hydroptical/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
     Hydroptical (UIST' 24 to appear) <br> <br>
     <a href="https://sosuke-ichihashi.com/vtd/"><img src="/assets/images/vtd/vtd_overview.jpg" alt="Visuo-Thermal Display"></a>
-    Visuo-Thermal Display (SIGGRAPH '22)
+    Visuo-Thermal (SIGGRAPH '22)
   </div>
   <div class="column">
     <a href="https://sosuke-ichihashi.com/thermoblinds/"><img src="/assets/images/thermoblinds/thermoblinds_stand.jpg" alt="ThermoBlinds"></a>
-    ThermoBlinds (MIMSVAI '22; SIGGRAPH '22)<br> <br>
+    ThermoBlinds (UbiComp '22)<br> <br>
     <a href="https://sosuke-ichihashi.com/redirection/"><img src="/assets/images/redirection/redirection_grid.jpg" alt="Redirection"></a>
     Redirection thru Heat
   </div>
