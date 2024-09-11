@@ -9,19 +9,19 @@ google_analytics: UA-NNNNNNNN-N
 <div class="row" style="font-size:15px; font-weight:400">
   <div class="column">
     <a href="https://sosuke-ichihashi.com/hydroptical/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
-    Hydroptical (to appear) <br> <br>
+    Hydroptical (UIST' 24 to appear) <br> <br>
     <a href="https://sosuke-ichihashi.com/vtd/"><img src="/assets/images/vtd/vtd_overview.jpg" alt="Visuo-Thermal Display"></a>
-    Visuo-Thermal Display
+    Visuo-Thermal Display (SIGGRAPH '22)
   </div>
   <div class="column">
     <a href="https://sosuke-ichihashi.com/thermoblinds/"><img src="/assets/images/thermoblinds/thermoblinds_stand.jpg" alt="ThermoBlinds"></a>
-    ThermoBlinds<br> <br>
+    ThermoBlinds (MIMSVAI '22; SIGGRAPH '22)<br> <br>
     <a href="https://sosuke-ichihashi.com/redirection/"><img src="/assets/images/redirection/redirection_grid.jpg" alt="Redirection"></a>
     Redirection thru Heat
   </div>
   <div class="column">
     <a href="https://sosuke-ichihashi.com/heatophone/"><img src="/assets/images/heatophone/heatophone_grid.jpg" alt="Heat-O-Phone"></a>
-    Heat-O-Phone
+    Heat-O-Phone (Guthman Fair)
   </div>
 </div>
 
@@ -29,11 +29,11 @@ google_analytics: UA-NNNNNNNN-N
 <div class="row" style="font-size:15px; font-weight:400">
   <div class="column">
     <a href="https://shigeodayo.me/works/swarm_body/"><img src="/assets/images/swarmbody/swarm_body_teaser.jpg" alt="Swarm Body"></a>
-    Swarm Body
+    Swarm Body (CHI '24)
   </div>
   <div class="column">
     <a href="https://sosuke-ichihashi.com/rattleye/"><img src="/assets/images/rattleye/rattleye_overview.jpg" alt="RattlEye"></a>
-    RattlEye
+    RattlEye (SIGGRAPH '22)
   </div>
 </div>
 
@@ -65,7 +65,7 @@ google_analytics: UA-NNNNNNNN-N
   I create systems that <strong>augment human perceptions</strong>. I believe augmented perceptions will bring a new paradigm of interactions in both physical and digital worlds, and I <strong>explore the interactions between augmented people and the physical / digital world</strong>. Although HCI researchers have enabled various interactions, they were designed for innate perceptions. Augmented perceptions eliminate the constraints coming from limited modes and capabilities of innate perceptions.
 </p>
 
-<br><br>
+<br>
  
 # Publications
 <ol style="font-size:15px; font-weight:400">
@@ -94,28 +94,26 @@ google_analytics: UA-NNNNNNNN-N
 </li>
 </ol>
 
-<br>
-
 # Experiences
 ### Research Intern
 <ol style="font-size:15px; font-weight:400">
   <li>
-    2024.07-2024.08&#9;
+    2024.07-2024.08&#9;&#9;
     Ho Haptics Lab @ Kyushu University, Japan<br>
     Research Intern advised by Prof. Hsin-Ni Ho<br>
     Topic: Development of Hydroptical Thermal Display
   </li>
   <li>
-    2023.08-2024.02&#9;
+    2023.08-2024.02&#9;&#9;
     Code Craft Lab @ Georgia Tech, USA<br>
     Independent Study advised by Prof. HyunJoo Oh<br>
     Topic: 2.5D Fabrication (paper under review)
   </li>
   <li>
-    2023.05-2023.08&#9;
+    2023.05-2023.08&#9;&#9;
     Interaction Group @ Omron Sinic X, Japan<br>
     Research Intern advised by Dr. Shigeo Yoshida<br>
-    Topic: Swarm Body (full paper at CHI '24)
+    Topic: Swarm Body (CHI '24)
   </li>
 </ol>
 
