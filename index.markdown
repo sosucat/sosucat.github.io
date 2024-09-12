@@ -5,7 +5,7 @@ google_analytics: UA-NNNNNNNN-N
 ---
 
 
-<p style="font-size:16px; font-weight:450; color:black">&nbsp;Temperature as Digital Media</p>
+<p style="font-size:16px; font-weight:450; color:black">&nbsp; &nbsp;Temperature as Digital Media</p>
 <div class="row" style="font-size:14px; font-weight:450">
   <div class="column">
     <a href="https://sosuke-ichihashi.com/hydroptical/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
@@ -26,7 +26,7 @@ google_analytics: UA-NNNNNNNN-N
 </div>
 <br>
 
-<p style="font-size:16px; font-weight:450; color:black">&nbsp;Human Augmentation</p>
+<p style="font-size:16px; font-weight:450; color:black">&nbsp; &nbsp;Human Augmentation</p>
 <div class="row" style="font-size:14px; font-weight:450">
   <div class="column">
     <a href="https://shigeodayo.me/works/swarm_body/"><img src="/assets/images/swarmbody/swarm_body_teaser.jpg" alt="Swarm Body"></a>
@@ -37,26 +37,16 @@ google_analytics: UA-NNNNNNNN-N
     RattlEye (SIGGRAPH '22)
   </div>
 </div>
+<br><br>
 
-<!-- <p><br>Other Works</p> -->
-<!-- <div class="row">
-  <div class="column">
-   <a href="https://sosuke-ichihashi.com/momentochroma/"><img src="/assets/images/momentochroma/momentochroma_grid.jpg" alt="MomentoChroma"></a>
-    MomentoChroma
-  </div>
-  <div class="column">
-    <a href="https://www.geo.utexas.edu/courses/371c/project/2018F/Ichihashi_GIS_project.pdf"><img src="/assets/images/geo_grid.png" alt="geo"></a>
-    Tsunami Estimation
-  </div>
-</div> -->
-<br>
 
 <div class="profile">
   <div class="profImage">
     <img src="assets/images/ichihashi_headshot.jpg" alt="profile pic">
-    <p style="line-height:1.7">
-      <a style="font-size: 16px; color: blue; text-decoration: underline;" href="/assets/pdfs/Sosuke_Ichihashi_CV_Fall_2024.pdf">Download CV</a>
-      | Follow me <a href="https://twitter.com/RefreshSource"><img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:26px;height:24px;"></a>
+    <p style="line-height:0.5">
+      <br>
+      &nbsp; &nbsp;<a style="font-size: 16px; color: blue; text-decoration: underline;" href="/assets/pdfs/Sosuke_Ichihashi_CV_Fall_2024.pdf"><strong>Download CV</strong></a>
+      | Follow me <a href="https://twitter.com/RefreshSource"><img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:22px;height:22px;"></a>
     </p>
   </div>
   <div class="profText">
@@ -67,7 +57,8 @@ google_analytics: UA-NNNNNNNN-N
   </div>
 </div>
 <br>
- 
+
+
 ## Publications
 <ol reversed style="font-size:14px; font-weight:450">
   <li><p>Hydroptical Thermal Feedback: Spatial Thermal Feedback Using Visible Lights and Water<br>
@@ -97,6 +88,48 @@ google_analytics: UA-NNNNNNNN-N
 <br>
 
 ## Experiences
+### Education
+<ul style="list-style-type:none; font-size:14px; font-weight:450">
+  <li>
+    <p>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2022-2026&nbsp; &nbsp; &nbsp;
+      <strong>PhD in Digital Media</strong> @ <strong>Georgia Tech</strong><br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      Advised by Prof. <a style="color: inherit; text-decoration: underline;" href="https://nourahowell.com"><strong>Noura Howell</strong></a> <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      Topic: Augmented Perception & Non-Contact Interaction
+    </p>
+  </li>
+  <li>
+    <p>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2022&nbsp; &nbsp; &nbsp;
+      <strong>MAS in Interdisciplinary Information Studies</strong> @ <strong>University of Tokyo</strong><br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      Advised by Prof. <a style="color: inherit; text-decoration: underline;" href="https://star.rcast.u-tokyo.ac.jp/en"><strong>Masahiko Inami</strong></a><br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      Thesis: Gaze Interaction Using Non-Contact Thermal Feedback
+    </p>
+  </li>
+  <li>
+    <p>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2020&nbsp; &nbsp; &nbsp;
+      BE in Global Engineering @ Kyoto University
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      Advised by Prof. <a style="color: inherit; text-decoration: underline;" href="http://flood.dpri.kyoto-u.ac.jp/en/">Takahiro Sayama</a><br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      Thesis: Combinatorial Optimization for Parameter Identification of a Rainfall-Runoff Model Applied to 120 Dam River Basins in Japan
+    </p>
+  </li>
+  <li>
+    <p>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2018&nbsp; &nbsp; &nbsp;
+      Exchange in ECE @ University of Texas at Austin
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      University Honor (Fall 2018)
+    </p>
+  </li>
+</ul>
+
 ### Research Intern
 <ul style="list-style-type:none; font-size:14px; font-weight:450">
   <li>
@@ -136,56 +169,56 @@ google_analytics: UA-NNNNNNNN-N
 <ul style="list-style-type:none; font-size:14px; font-weight:450">
   <li>
     <p>
-      2024&nbsp; &nbsp; &nbsp; 
+      2024&nbsp; &nbsp; &nbsp;
       TA in LMC 2700 Intro to Computational Media<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;@ Georgia Tech, USA
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;@ Georgia Tech, USA
     </p>
   </li>
   <li>
     <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       Instructor in LMC 2400 Intro to Media Studies<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;@ Georgia Tech, USA
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;@ Georgia Tech, USA
     </p>
   </li>
   
   <li>
     <p>
-      2023&nbsp; &nbsp; &nbsp; 
+      2023&nbsp; &nbsp; &nbsp;
       TA in LMC 6130 Computer as Expressive Medium<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;@ Georgia Tech, USA
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;@ Georgia Tech, USA
     </p>
   </li>
   
   <li>
     <p>
-      2019&nbsp; &nbsp; &nbsp; 
+      2019&nbsp; &nbsp; &nbsp;
       Translator in JSPS Science Dialogue Program<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;@ Akashi Kita Science High School, Japan &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;@ Akashi Kita Science High School, Japan &nbsp;
       <a style="color: inherit; text-decoration: underline;" href="https://www.jsps.go.jp/j-sdialogue/data/03_past_lectures/201911/f1114_3457.pdf">Report</a>
     </p>
   </li>
   
   <li>
     <p>
-      2018&nbsp; &nbsp; &nbsp; 
+      2018&nbsp; &nbsp; &nbsp;
       Instructor in Japanese History<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;@ Johan Heinrich Pestalozzi Elementary School, Nothern Macedonia
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;@ Johan Heinrich Pestalozzi Elementary School, Nothern Macedonia
     </p>
   </li>
   
   <li>
     <p>
-      2017&nbsp; &nbsp; &nbsp; 
+      2017&nbsp; &nbsp; &nbsp;
       Instructor in Kyoto University Disaster Prevention School<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;@ Five elementary schools in Makassar, Indonesia
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;@ Five elementary schools in Makassar, Indonesia
     </p>
   </li>
   <li>
     <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       TA in Engineering Science Global Communication Programme<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;@ Ngee Ann Polytechnic, Singapore
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;@ Ngee Ann Polytechnic, Singapore
     </p>
   </li>
 </ul>
