@@ -37,7 +37,8 @@ google_analytics: UA-NNNNNNNN-N
     RattlEye | SIGGRAPH '22
   </div>
 </div>
-<br><br>
+<br>
+<br>
 
 
 <div class="profile">
@@ -56,7 +57,7 @@ google_analytics: UA-NNNNNNNN-N
     </p>
   </div>
 </div>
-<br><br>
+<br>
 
 
 ## Publications
