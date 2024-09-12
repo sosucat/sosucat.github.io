@@ -5,11 +5,15 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   width: auto;
   color: rgba(50, 50, 50, 1.0);
-  letter-spacing: 0.5px;
+  letter-spacing: 0.4px;
 }
 
 h1, h2, h3, h4 {
-  font-weight: 300;
+  font-weight: 450;
+}
+
+ul li {
+    padding: 5px 0px;
 }
 
 .site-title {
