@@ -66,7 +66,7 @@ google_analytics: UA-NNNNNNNN-N
 <br>
  
 ## Publications
-<ol style="font-size:14px; font-weight:450">
+<ol reversed style="font-size:14px; font-weight:450">
   <li><p>Hydroptical Thermal Feedback: Spatial Thermal Feedback Using Visible Lights and Water<br>
     <strong>Sosuke Ichihashi</strong>, Masahiko Inami, Hsin-Ni Ho, Noura Howell<br>
     In Proc. UIST '24 <a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3654777.3676453">doi</a> (to appear)</p>
@@ -98,9 +98,10 @@ google_analytics: UA-NNNNNNNN-N
   <li>
     <p>
       2024.07-2024.08&nbsp; &nbsp; &nbsp;
-      **Ho Haptics Lab** @ **Kyushu University**, Japan<br>
+      <strong>Ho Haptics Lab</strong> @ <strong>Kyushu University</strong>, Japan<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      Research Intern advised by **Prof. Hsin-Ni Ho**<br>
+      Research Intern advised by 
+      Prof. <a style="color: inherit; text-decoration: underline;" href="https://sites.google.com/view/hohapticslab">Hsin-Ni Ho</a> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       Topic: Development of Hydroptical Thermal Display
     </p>
@@ -108,9 +109,9 @@ google_analytics: UA-NNNNNNNN-N
   <li>
     <p>
       2023.08-2024.02&nbsp; &nbsp; &nbsp;
-      **Code Craft Lab** @** Georgia Tech**, USA<br>
+      <strong>Code Craft Lab</strong> @ <strong>Georgia Tech</strong>, USA<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      Independent Study advised by Prof. **HyunJoo Oh**<br>
+      Independent Study advised by Prof. <a style="color: inherit; text-decoration: underline;" href="https://www.codecraft.group/hyunjoo-oh">HyunJoo Oh</a><br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       Topic: 2.5D Fabrication (paper under review)
     </p>
@@ -118,9 +119,9 @@ google_analytics: UA-NNNNNNNN-N
   <li>
     <p>
       2023.05-2023.08&nbsp; &nbsp; &nbsp;
-      Interaction Group @ **Omron Sinic X**, Japan<br>
+      Interaction Group @ <strong>Omron Sinic X</strong>, Japan<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      Research Intern advised by Dr. [**Shigeo Yoshida**](shigeodayo.me)<br>
+      Research Intern advised by Dr. <a style="color: inherit; text-decoration: underline;" href="https://shigeodayo.me">Shigeo Yoshida</a><br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       Topic: Swarm Body (CHI '24)
     </p>
@@ -130,51 +131,71 @@ google_analytics: UA-NNNNNNNN-N
 <br>
 
 ### Teaching
-<ol style="font-size:14px; font-weight:450">
+<ol reversed style="font-size:14px; font-weight:450">
   <li>
-    TA. LMC 2700 Intro to Computational Media 
-    @Georgia Tech, USA. 2024.
+    <p>
+      TA&nbsp; &nbsp; &nbsp;LMC 2700 Intro to Computational Media 
+      @Georgia Tech, USA&nbsp; &nbsp; &nbsp;2024
+    </p>
   </li>
   <li>
-    Instructor. LMC 2400 Intro to Media Studies 
-    @Georgia Tech, USA. 2024.
+    <p>
+      Instructor&nbsp; &nbsp; &nbsp;LMC 2400 Intro to Media Studies 
+      @Georgia Tech, USA&nbsp; &nbsp; &nbsp;2024
+    </p>
   </li>
   <li>
-    TA. LMC 6130 Computer as Expressive Medium 
-    @Georgia Tech, USA. 2023.
+    <p>
+      TA&nbsp; &nbsp; &nbsp;LMC 6130 Computer as Expressive Medium 
+      @Georgia Tech, USA&nbsp; &nbsp; &nbsp;2023
+    </p>
   </li>
   <li>
-    Translator. JSPS Science Dialogue Program 
-    @Akashi Kita Science High School, Japan. <a style="color: inherit; text-decoration: underline;" href="https://www.jsps.go.jp/j-sdialogue/data/03_past_lectures/201911/f1114_3457.pdf">Report</a>. 2018.
+    <p>
+      Translator&nbsp; &nbsp; &nbsp;JSPS Science Dialogue Program 
+      @Akashi Kita Science High School, Japan&nbsp; &nbsp; &nbsp;<a style="color: inherit; text-decoration: underline;" href="https://www.jsps.go.jp/j-sdialogue/data/03_past_lectures/201911/f1114_3457.pdf">Report</a>. 2018
+    </p>
   </li>
   <li>
-    Instructor. Japanese History 
-    @Johan Heinrich Pestalozzi Elementary School, Nothern Macedonia. 2018.
+    <p>
+      Instructor&nbsp; &nbsp; &nbsp;Japanese History 
+      @Johan Heinrich Pestalozzi Elementary School, Nothern Macedonia&nbsp; &nbsp; &nbsp;2018
+    </p>
   </li>
   <li>
-    Instructor. Kyoto University Disaster Prevention School 
-    @Five elementary schools in Makassar, Indonesia. 2017.
+    <p>
+      Instructor&nbsp; &nbsp; &nbsp;Kyoto University Disaster Prevention School 
+      @Five elementary schools in Makassar, Indonesia&nbsp; &nbsp; &nbsp;2017
+    </p>
   </li>
   <li>
-    TA. Engineering Science Global Communication Programme 
-    @Ngee Ann Polytechnic, Singapore. 2017.
+    <p>
+      TA&nbsp; &nbsp; &nbsp;Engineering Science Global Communication Programme 
+      @Ngee Ann Polytechnic, Singapore&nbsp; &nbsp; &nbsp;2017
+    </p>
   </li>
 </ol>
 
 <br>
 
 ## Articles
-<ol style="font-size:14px; font-weight:450">
+<ol reversed style="font-size:14px; font-weight:450">
   <li>
-    <a style="color: inherit; text-decoration: underline;" href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/09593/">Nikkei article about Swarm Body</a>. 2024.
+    <p>
+      <a style="color: inherit; text-decoration: underline;" href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/09593/">Nikkei article about Swarm Body</a>&nbsp; &nbsp; &nbsp;2024
+    </p>
   </li>
 
   <li>
-    <a style="color: inherit; text-decoration: underline;" href="https://medium.com/sinicx/our-paper-which-explores-whether-people-can-perceive-as-if-swarm-robots-were-part-of-their-body-69bc10abfd64">Company's article about Swarm Body</a>. 2023.
+    <p>
+      <a style="color: inherit; text-decoration: underline;" href="https://medium.com/sinicx/our-paper-which-explores-whether-people-can-perceive-as-if-swarm-robots-were-part-of-their-body-69bc10abfd64">Company's article about Swarm Body</a>&nbsp; &nbsp; &nbsp;2023
+    </p>
   </li>
   
   <li>
-    <a style="color: inherit; text-decoration: underline;" href="https://www.s-ge.t.kyoto-u.ac.jp/int/en/campuslife/students/blog/ichihashisan">University's article about my exchange at UT Austin</a>. 2019.
+    <p>
+      <a style="color: inherit; text-decoration: underline;" href="https://www.s-ge.t.kyoto-u.ac.jp/int/en/campuslife/students/blog/ichihashisan">University's article about my exchange at UT Austin</a>&nbsp; &nbsp; &nbsp;2019
+    </p>
   </li>
 </ol>
 
