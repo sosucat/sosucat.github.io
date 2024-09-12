@@ -94,26 +94,34 @@ google_analytics: UA-NNNNNNNN-N
 
 ## Experiences
 ### Research Intern
-<ol style="font-size:14px; font-weight:450">
+<ul style="list-style-type:none; font-size:14px; font-weight:450">
   <li>
-    2024.07-2024.08&&nbsp; &nbsp; &nbsp;
-    Ho Haptics Lab @ Kyushu University, Japan<br>
-    &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;Research Intern advised by Prof. Hsin-Ni Ho<br>
-    &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;Topic: Development of Hydroptical Thermal Display
+    <p>
+      2024.07-2024.08&nbsp; &nbsp; &nbsp;
+      Ho Haptics Lab @ Kyushu University, Japan<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      Research Intern advised by Prof. Hsin-Ni Ho<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      Topic: Development of Hydroptical Thermal Display
+    </p>
   </li>
   <li>
-    2023.08-2024.02&nbsp; &nbsp; &nbsp;
-    Code Craft Lab @ Georgia Tech, USA<br>
-    Independent Study advised by Prof. HyunJoo Oh<br>
-    Topic: 2.5D Fabrication (paper under review)
+    <p>
+      2023.08-2024.02&nbsp; &nbsp; &nbsp;
+      Code Craft Lab @ Georgia Tech, USA<br>
+      Independent Study advised by Prof. HyunJoo Oh<br>
+      Topic: 2.5D Fabrication (paper under review)
+    </p>
   </li>
   <li>
-    2023.05-2023.08&nbsp; &nbsp; &nbsp;
-    Interaction Group @ Omron Sinic X, Japan<br>
-    Research Intern advised by Dr. Shigeo Yoshida<br>
-    Topic: Swarm Body (CHI '24)
+    <p>
+      2023.05-2023.08&nbsp; &nbsp; &nbsp;
+      Interaction Group @ Omron Sinic X, Japan<br>
+      Research Intern advised by Dr. Shigeo Yoshida<br>
+      Topic: Swarm Body (CHI '24)
+    </p>
   </li>
-</ol>
+</ul>
 
 <br>
 
