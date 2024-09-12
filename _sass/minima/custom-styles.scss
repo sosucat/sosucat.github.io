@@ -59,6 +59,24 @@ h1, h2, h3, h4 {
   width: 100%;
 }
 
+/* Create three equal columns that sits next to each other */
+.profContainer {
+  display: flex;
+  align-items: flex-start;
+}
+
+.profImage {
+  margin-right: 8%;
+  flex: 32%;
+  max-width: 32%;
+}
+
+.profImage img {
+  width: 100%;
+  height: auto;
+  vertical-align: top;
+}
+
 /* Responsive layout - makes a two column-layout instead of three columns */
 @media screen and (max-width: 800px) {
   .column {
