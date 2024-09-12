@@ -6,7 +6,7 @@ google_analytics: UA-NNNNNNNN-N
 
 
 <p style="font-size:16px; font-weight:450; color:black">&nbsp; &nbsp;Temperature as Digital Media</p>
-<div class="row" style="font-size:14px; font-weight:480">
+<div class="row" style="font-size:13px; font-weight:480">
   <div class="column">
     <a href="https://sosuke-ichihashi.com/hydroptical/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
     Hydroptical | UIST' 24 to appear<br> <br>
@@ -27,7 +27,7 @@ google_analytics: UA-NNNNNNNN-N
 <br>
 
 <p style="font-size:16px; font-weight:450; color:black">&nbsp; &nbsp;Human Augmentation</p>
-<div class="row" style="font-size:14px; font-weight:480">
+<div class="row" style="font-size:13px; font-weight:480">
   <div class="column">
     <a href="https://shigeodayo.me/works/swarm_body/"><img src="/assets/images/swarmbody/swarm_body_teaser.jpg" alt="Swarm Body"></a>
     Swarm Body | CHI '24
@@ -51,7 +51,7 @@ google_analytics: UA-NNNNNNNN-N
     </p>
   </div>
   <div class="profText">
-    <p style="font-size: 14px; font-weight:450; text-align: justify; line-height:1.7">
+    <p style="font-size: 13px; font-weight:450; text-align: justify; line-height:1.7">
       I am a Ph.D. student in <a style="color:inherit; text-decoration: underline;" href="https://sites.gatech.edu/futurefeelings/team/">Future Feelings Lab</a>, Georgia Tech (advisor: <a style="color: inherit; text-decoration: underline;" href="https://nourahowell.com/">Noura Howell</a>).<br>
       I create systems that <strong>augment human perceptions</strong>. I believe augmented perceptions will bring a new paradigm of interactions in both physical and digital worlds, and I <strong>explore the interactions between augmented people and the physical / digital world</strong>. Although HCI researchers have enabled various interactions, they were designed for innate perceptions. Augmented perceptions eliminate the constraints coming from limited modes and capabilities of innate perceptions.
     </p>
@@ -133,7 +133,7 @@ google_analytics: UA-NNNNNNNN-N
 
 ## Experiences
 ### Education
-<ul style="list-style-type:none; font-size:14px; font-weight:450">
+<ul style="list-style-type:none; font-size:13px; font-weight:450">
   <li>
     <p>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2022-2026&nbsp; &nbsp; &nbsp;
@@ -177,7 +177,7 @@ google_analytics: UA-NNNNNNNN-N
 </ul>
 
 ### Research Intern
-<ul style="list-style-type:none; font-size:14px; font-weight:450">
+<ul style="list-style-type:none; font-size:13px; font-weight:450">
   <li>
     <p>
       2024.07-2024.08&nbsp; &nbsp; &nbsp;
@@ -212,7 +212,7 @@ google_analytics: UA-NNNNNNNN-N
 </ul>
 
 ### Teaching
-<ul style="list-style-type:none; font-size:14px; font-weight:450">
+<ul style="list-style-type:none; font-size:13px; font-weight:450">
   <li>
     <p>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2024&nbsp; &nbsp; &nbsp;
@@ -282,7 +282,7 @@ google_analytics: UA-NNNNNNNN-N
 <br>
 
 ## Articles
-<ol reversed style="font-size:14px; font-weight:450">
+<ol reversed style="font-size:13px; font-weight:450">
   <li>
     <p>
       <a class="hover-text" href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/09593/">Nikkei article about Swarm Body</a> &nbsp; 2024
@@ -305,7 +305,7 @@ google_analytics: UA-NNNNNNNN-N
 <br>
 
 ## Other Works
-<div class="row" style="font-size:14px; font-weight:480">
+<div class="row" style="font-size:13px; font-weight:450">
   <div class="column">
    <a href="https://sosuke-ichihashi.com/momentochroma/"><img src="/assets/images/momentochroma/momentochroma_grid.jpg" alt="MomentoChroma"></a>
     MomentoChroma
