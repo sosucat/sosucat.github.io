@@ -5,8 +5,8 @@ google_analytics: UA-NNNNNNNN-N
 ---
 
 
-<p style="font-size:18px; font-weight:450">Temperature as Digital Media</p>
-<div class="row" style="font-size:15px; font-weight:400">
+<p style="font-size:16px; font-weight:450">Temperature as Digital Media</p>
+<div class="row" style="font-size:12px; font-weight:420">
   <div class="column">
     <a href="https://sosuke-ichihashi.com/hydroptical/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
     Hydroptical (UIST' 24 to appear) <br> <br>
@@ -25,8 +25,8 @@ google_analytics: UA-NNNNNNNN-N
   </div>
 </div>
 
-<p style="font-size:18px; font-weight:450"><br>Human Augmentation</p>
-<div class="row" style="font-size:15px; font-weight:400">
+<p style="font-size:16px; font-weight:450"><br>Human Augmentation</p>
+<div class="row" style="font-size:12px; font-weight:420">
   <div class="column">
     <a href="https://shigeodayo.me/works/swarm_body/"><img src="/assets/images/swarmbody/swarm_body_teaser.jpg" alt="Swarm Body"></a>
     Swarm Body (CHI '24)
@@ -53,7 +53,7 @@ google_analytics: UA-NNNNNNNN-N
 <div class="profile">
   <div class="profImage">
     <img src="assets/images/ichihashi_headshot.jpg" alt="profile pic">
-    <a style="font-size: 17px; color: rgba(50, 50, 50, 1.0); text-decoration: underline;" href="/assets/pdfs/Sosuke_Ichihashi_CV_Fall_2024.pdf">Download CV</a>
+    <a style="font-size: 16px; color: rgba(50, 50, 50, 1.0); text-decoration: underline;" href="/assets/pdfs/Sosuke_Ichihashi_CV_Fall_2024.pdf">Download CV</a>
     | Follow me <a href="https://twitter.com/RefreshSource"><img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:26px;height:24px;"></a>
   </div>
   <div class="profText">
@@ -66,7 +66,7 @@ google_analytics: UA-NNNNNNNN-N
 <br>
  
 # Publications
-<ol style="font-size:15px; font-weight:400">
+<ol style="font-size:12px; font-weight:420">
   <li><p>Hydroptical Thermal Feedback: Spatial Thermal Feedback Using Visible Lights and Water<br>
     <strong>Sosuke Ichihashi</strong>, Masahiko Inami, Hsin-Ni Ho, Noura Howell<br>
     In Proc. UIST '24 <a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3654777.3676453">doi</a> (to appear)</p>
@@ -94,7 +94,7 @@ google_analytics: UA-NNNNNNNN-N
 
 # Experiences
 ### Research Intern
-<ol style="font-size:15px; font-weight:400">
+<ol style="font-size:12px; font-weight:420">
   <li>
     2024.07-2024.08&#9;&#9;
     Ho Haptics Lab @ Kyushu University, Japan<br>
@@ -118,7 +118,7 @@ google_analytics: UA-NNNNNNNN-N
 <br>
 
 ### Teaching
-<ol style="font-size:15px; font-weight:400">
+<ol style="font-size:12px; font-weight:420">
   <li>
     TA. LMC 2700 Intro to Computational Media 
     @Georgia Tech, USA. 2024.
@@ -152,7 +152,7 @@ google_analytics: UA-NNNNNNNN-N
 <br>
 
 # Articles
-<ol style="font-size:15px; font-weight:400">
+<ol style="font-size:12px; font-weight:420">
   <li>
     <a style="color: inherit; text-decoration: underline;" href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/09593/">Nikkei article about Swarm Body</a>. 2024.
   </li>
@@ -181,7 +181,7 @@ google_analytics: UA-NNNNNNNN-N
 </div>
 
 <br>
-<ol style="font-size:15px; font-weight:350">
+<ol style="font-size:12px; font-weight:420">
   <li><strong>Sosuke Ichihashi</strong>, Arata Horie, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami.
     The effect of temperature presentation according to the gaze of others on remote communications.
     The 26th Annual Conference of Virtual Reality Society of Japan (VRSJ 2021). 2021. in Japanese.
