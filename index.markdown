@@ -5,7 +5,7 @@ google_analytics: UA-NNNNNNNN-N
 ---
 
 
-<p style="font-size:16px; font-weight:450">Temperature as Digital Media</p>
+<p style="font-size:16px; font-weight:450; color:black">&nbsp;Temperature as Digital Media</p>
 <div class="row" style="font-size:14px; font-weight:450">
   <div class="column">
     <a href="https://sosuke-ichihashi.com/hydroptical/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
@@ -24,8 +24,9 @@ google_analytics: UA-NNNNNNNN-N
     Heat-O-Phone (Guthman Fair)
   </div>
 </div>
+<br>
 
-<p style="font-size:16px; font-weight:450"><br>Human Augmentation</p>
+<p style="font-size:16px; font-weight:450; color:black">&nbsp;Human Augmentation</p>
 <div class="row" style="font-size:14px; font-weight:450">
   <div class="column">
     <a href="https://shigeodayo.me/works/swarm_body/"><img src="/assets/images/swarmbody/swarm_body_teaser.jpg" alt="Swarm Body"></a>
@@ -53,8 +54,10 @@ google_analytics: UA-NNNNNNNN-N
 <div class="profile">
   <div class="profImage">
     <img src="assets/images/ichihashi_headshot.jpg" alt="profile pic">
-    <a style="font-size: 16px; color: rgba(50, 50, 50, 1.0); text-decoration: underline;" href="/assets/pdfs/Sosuke_Ichihashi_CV_Fall_2024.pdf">Download CV</a>
-    | Follow me <a href="https://twitter.com/RefreshSource"><img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:26px;height:24px;"></a>
+    <p style="line-height:1.7">
+      <a style="font-size: 16px; color: blue; text-decoration: underline;" href="/assets/pdfs/Sosuke_Ichihashi_CV_Fall_2024.pdf">Download CV</a>
+      | Follow me <a href="https://twitter.com/RefreshSource"><img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:26px;height:24px;"></a>
+    </p>
   </div>
   <div class="profText">
     <p style="font-size: 14px; font-weight:450; text-align: justify; line-height:1.7">
@@ -133,56 +136,56 @@ google_analytics: UA-NNNNNNNN-N
 <ul style="list-style-type:none; font-size:14px; font-weight:450">
   <li>
     <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2024&nbsp; &nbsp; &nbsp; 
+      2024&nbsp; &nbsp; &nbsp; 
       TA in LMC 2700 Intro to Computational Media<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      @ Georgia Tech, USA
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;@ Georgia Tech, USA
     </p>
   </li>
   <li>
     <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       Instructor in LMC 2400 Intro to Media Studies<br>
-      @ Georgia Tech, USA
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;@ Georgia Tech, USA
     </p>
   </li>
   
   <li>
     <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2023&nbsp; &nbsp; &nbsp; 
+      2023&nbsp; &nbsp; &nbsp; 
       TA in LMC 6130 Computer as Expressive Medium<br>
-      @ Georgia Tech, USA
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;@ Georgia Tech, USA
     </p>
   </li>
   
   <li>
     <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2019&nbsp; &nbsp; &nbsp; 
+      2019&nbsp; &nbsp; &nbsp; 
       Translator in JSPS Science Dialogue Program<br>
-      @ Akashi Kita Science High School, Japan &nbsp; <a style="color: inherit; text-decoration: underline;" href="https://www.jsps.go.jp/j-sdialogue/data/03_past_lectures/201911/f1114_3457.pdf">Report</a>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;@ Akashi Kita Science High School, Japan &nbsp;
+      <a style="color: inherit; text-decoration: underline;" href="https://www.jsps.go.jp/j-sdialogue/data/03_past_lectures/201911/f1114_3457.pdf">Report</a>
     </p>
   </li>
   
   <li>
     <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2018&nbsp; &nbsp; &nbsp; 
+      2018&nbsp; &nbsp; &nbsp; 
       Instructor in Japanese History<br>
-      @ Johan Heinrich Pestalozzi Elementary School, Nothern Macedonia
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;@ Johan Heinrich Pestalozzi Elementary School, Nothern Macedonia
     </p>
   </li>
   
   <li>
     <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2017&nbsp; &nbsp; &nbsp; 
+      2017&nbsp; &nbsp; &nbsp; 
       Instructor in Kyoto University Disaster Prevention School<br>
-      @ Five elementary schools in Makassar, Indonesia
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;@ Five elementary schools in Makassar, Indonesia
     </p>
   </li>
   <li>
     <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       TA in Engineering Science Global Communication Programme<br>
-      @ Ngee Ann Polytechnic, Singapore
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;@ Ngee Ann Polytechnic, Singapore
     </p>
   </li>
 </ul>
