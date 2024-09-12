@@ -92,7 +92,7 @@ google_analytics: UA-NNNNNNNN-N
 <ul style="list-style-type:none; font-size:14px; font-weight:450">
   <li>
     <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2022-2026&nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2022-2026&nbsp; &nbsp; &nbsp;
       <strong>PhD in Digital Media</strong> @ <strong>Georgia Tech</strong><br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       Advised by Prof. <a style="color: inherit; text-decoration: underline;" href="https://nourahowell.com"><strong>Noura Howell</strong></a> <br>
@@ -118,7 +118,7 @@ google_analytics: UA-NNNNNNNN-N
       Advised by Prof. <a style="color: inherit; text-decoration: underline;" href="http://flood.dpri.kyoto-u.ac.jp/en/">Takahiro Sayama</a><br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       Thesis: Combinatorial Optimization for Parameter Identification of a<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       Rainfall-Runoff Model Applied to 120 Dam River Basins in Japan
     </p>
   </li>
