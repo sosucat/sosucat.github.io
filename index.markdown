@@ -57,15 +57,15 @@ google_analytics: UA-NNNNNNNN-N
     | Follow me <a href="https://twitter.com/RefreshSource"><img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:26px;height:24px;"></a>
   </div>
   <div class="profText">
-    <p style="font-size: 14px; font-weight:450;line-height:1.4">
-      Sosuke Ichihashi is a Ph.D. student in <a style="color:inherit; text-decoration: underline;" href="https://sites.gatech.edu/futurefeelings/team/">Future Feelings Lab</a>, Georgia Tech (advisor: <a style="color: inherit; text-decoration: underline;" href="https://nourahowell.com/">Noura Howell</a>).<br>
+    <p style="font-size: 14px; font-weight:450;line-height:1.7">
+      I am a Ph.D. student in <a style="color:inherit; text-decoration: underline;" href="https://sites.gatech.edu/futurefeelings/team/">Future Feelings Lab</a>, Georgia Tech (advisor: <a style="color: inherit; text-decoration: underline;" href="https://nourahowell.com/">Noura Howell</a>).<br>
       I create systems that <strong>augment human perceptions</strong>. I believe augmented perceptions will bring a new paradigm of interactions in both physical and digital worlds, and I <strong>explore the interactions between augmented people and the physical / digital world</strong>. Although HCI researchers have enabled various interactions, they were designed for innate perceptions. Augmented perceptions eliminate the constraints coming from limited modes and capabilities of innate perceptions.
     </p>
   </div>
 </div>
 <br>
  
-# Publications
+## Publications
 <ol style="font-size:14px; font-weight:450">
   <li><p>Hydroptical Thermal Feedback: Spatial Thermal Feedback Using Visible Lights and Water<br>
     <strong>Sosuke Ichihashi</strong>, Masahiko Inami, Hsin-Ni Ho, Noura Howell<br>
@@ -92,23 +92,23 @@ google_analytics: UA-NNNNNNNN-N
 </li>
 </ol>
 
-# Experiences
+## Experiences
 ### Research Intern
 <ol style="font-size:14px; font-weight:450">
   <li>
-    2024.07-2024.08&#9;&#9;
+    2024.07-2024.08&#9; &nbsp; &nbsp; &nbsp;
     Ho Haptics Lab @ Kyushu University, Japan<br>
     Research Intern advised by Prof. Hsin-Ni Ho<br>
     Topic: Development of Hydroptical Thermal Display
   </li>
   <li>
-    2023.08-2024.02&#9;&#9;
+    2023.08-2024.02&#9; &#9; &#9;
     Code Craft Lab @ Georgia Tech, USA<br>
     Independent Study advised by Prof. HyunJoo Oh<br>
     Topic: 2.5D Fabrication (paper under review)
   </li>
   <li>
-    2023.05-2023.08&#9;&#9;
+    2023.05-2023.08&#9; &#9; &#9;
     Interaction Group @ Omron Sinic X, Japan<br>
     Research Intern advised by Dr. Shigeo Yoshida<br>
     Topic: Swarm Body (CHI '24)
@@ -151,7 +151,7 @@ google_analytics: UA-NNNNNNNN-N
 
 <br>
 
-# Articles
+## Articles
 <ol style="font-size:14px; font-weight:450">
   <li>
     <a style="color: inherit; text-decoration: underline;" href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/09593/">Nikkei article about Swarm Body</a>. 2024.
@@ -168,7 +168,7 @@ google_analytics: UA-NNNNNNNN-N
 
 <br>
 
-# Other Works
+## Other Works
 <div class="row">
   <div class="column">
    <a href="https://sosuke-ichihashi.com/momentochroma/"><img src="/assets/images/momentochroma/momentochroma_grid.jpg" alt="MomentoChroma"></a>
