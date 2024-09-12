@@ -61,7 +61,7 @@ google_analytics: UA-NNNNNNNN-N
 
 
 ## Publications
-<ol reversed style="font-size:18px; font-weight:450">
+<ol reversed style="font-size:17px; font-weight:450">
   <li>
     <p>Hydroptical Thermal Feedback: Spatial Thermal Feedback Using Visible Lights and Water<br>
       <span class="paperDetail">
@@ -318,7 +318,7 @@ google_analytics: UA-NNNNNNNN-N
 
 <br>
 
-<ol style="font-size:18px; font-weight:480">
+<ol style="font-size:17px; font-weight:450">
   <li>
     <p>The Effect of Temperature Presentation According to the Gaze of Others on Remote Communications<br>
       <span class="paperDetail">
