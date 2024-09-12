@@ -60,7 +60,7 @@ google_analytics: UA-NNNNNNNN-N
 
 
 ## Publications
-<ol reversed style="font-size:16px; font-weight:450">
+<ol reversed style="font-size:18px; font-weight:450">
   <li>
     <p>Hydroptical Thermal Feedback: Spatial Thermal Feedback Using Visible Lights and Water<br>
       <span class="paperDetail">
@@ -79,7 +79,12 @@ google_analytics: UA-NNNNNNNN-N
         <a class="hover-text" href="https://doi.org/10.1145/3613904.3642870">
           <svg style="vertical-align: middle" width="12" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M0 64C0 28.7 28.7 0 64 0L224 0l0 128c0 17.7 14.3 32 32 32l128 0 0 288c0 35.3-28.7 64-64 64L64 512c-35.3 0-64-28.7-64-64L0 64zm384 64l-128 0L256 0 384 128z"/></svg>
           CHI '24 paper
-        </a><br>
+        </a>&nbsp;
+        <a class="hover-text" href="https://youtu.be/OdKoSDsrrIU?si=XfccoL8JWR4UveT-">
+          <svg width="18" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M549.7 124.1c-6.3-23.7-24.8-42.3-48.3-48.6C458.8 64 288 64 288 64S117.2 64 74.6 75.5c-23.5 6.3-42 24.9-48.3 48.6-11.4 42.9-11.4 132.3-11.4 132.3s0 89.4 11.4 132.3c6.3 23.7 24.8 41.5 48.3 47.8C117.2 448 288 448 288 448s170.8 0 213.4-11.5c23.5-6.3 42-24.2 48.3-47.8 11.4-42.9 11.4-132.3 11.4-132.3s0-89.4-11.4-132.3zm-317.5 213.5V175.2l142.7 81.2-142.7 81.2z"/></svg>
+          video
+        </a>
+        <br>
         <b style="color:#2f7739;">Popular Choice Honorable Mention Award</b>
       </span>
     </p>
@@ -91,6 +96,10 @@ google_analytics: UA-NNNNNNNN-N
         <a class="hover-text" href="https://doi.org/10.1145/3532721.3535569">
           <svg style="vertical-align: middle" width="12" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M0 64C0 28.7 28.7 0 64 0L224 0l0 128c0 17.7 14.3 32 32 32l128 0 0 288c0 35.3-28.7 64-64 64L64 512c-35.3 0-64-28.7-64-64L0 64zm384 64l-128 0L256 0 384 128z"/></svg>
           SIGGRAPH ’22 E-Tech paper
+        </a>&nbsp;
+        <a class="hover-text" href="https://youtu.be/r-ATCyN7rWQ?si=ZTZGholI1K5lpOnn">
+          <svg width="18" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M549.7 124.1c-6.3-23.7-24.8-42.3-48.3-48.6C458.8 64 288 64 288 64S117.2 64 74.6 75.5c-23.5 6.3-42 24.9-48.3 48.6-11.4 42.9-11.4 132.3-11.4 132.3s0 89.4 11.4 132.3c6.3 23.7 24.8 41.5 48.3 47.8C117.2 448 288 448 288 448s170.8 0 213.4-11.5c23.5-6.3 42-24.2 48.3-47.8 11.4-42.9 11.4-132.3 11.4-132.3s0-89.4-11.4-132.3zm-317.5 213.5V175.2l142.7 81.2-142.7 81.2z"/></svg>
+          video
         </a>
       </span>
     </p>
@@ -275,19 +284,19 @@ google_analytics: UA-NNNNNNNN-N
 <ol reversed style="font-size:14px; font-weight:450">
   <li>
     <p>
-      <a class="hover-text" href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/09593/">Nikkei article about Swarm Body</a>&nbsp;2024
+      <a class="hover-text" href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/09593/">Nikkei article about Swarm Body</a> &nbsp; 2024
     </p>
   </li>
 
   <li>
     <p>
-      <a class="hover-text" href="https://medium.com/sinicx/our-paper-which-explores-whether-people-can-perceive-as-if-swarm-robots-were-part-of-their-body-69bc10abfd64">Company's article about Swarm Body</a>&nbsp;2023
+      <a class="hover-text" href="https://medium.com/sinicx/our-paper-which-explores-whether-people-can-perceive-as-if-swarm-robots-were-part-of-their-body-69bc10abfd64">Company's article about Swarm Body</a> &nbsp; 2023
     </p>
   </li>
   
   <li>
     <p>
-      <a class="hover-text" href="https://www.s-ge.t.kyoto-u.ac.jp/int/en/campuslife/students/blog/ichihashisan">University's article about my exchange at UT Austin</a>&nbsp;2019
+      <a class="hover-text" href="https://www.s-ge.t.kyoto-u.ac.jp/int/en/campuslife/students/blog/ichihashisan">University's article about my exchange at UT Austin</a> &nbsp; 2019
     </p>
   </li>
 </ol>
@@ -308,11 +317,11 @@ google_analytics: UA-NNNNNNNN-N
 
 <br>
 
-<ol style="font-size:16px; font-weight:450">
+<ol style="font-size:18px; font-weight:480">
   <li>
     <p>The Effect of Temperature Presentation According to the Gaze of Others on Remote Communications<br>
       <span class="paperDetail">
-        <strong>Sosuke Ichihashi</strong>, Arata Horie, Zendai Kashino, Shigeo Yoshida, Masahiko Inami
+        <strong>Sosuke Ichihashi</strong>, Arata Horie, Zendai Kashino, Shigeo Yoshida, Masahiko Inami<br>
         <a class="hover-text" href="http://conference.vrsj.org/ac2021/program/doc/1G-9.pdf">
           <svg style="vertical-align: middle" width="12" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M0 64C0 28.7 28.7 0 64 0L224 0l0 128c0 17.7 14.3 32 32 32l128 0 0 288c0 35.3-28.7 64-64 64L64 512c-35.3 0-64-28.7-64-64L0 64zm384 64l-128 0L256 0 384 128z"/></svg>
           VRSJ '21 paper (Japanese)
@@ -324,7 +333,7 @@ google_analytics: UA-NNNNNNNN-N
   <li>
     <p>High-Response Thermal Presentation by Controlling Infrared Radiant Intensity Using a Shutter Mechanism<br>
       <span class="paperDetail">
-        <strong>Sosuke Ichihashi</strong>, Arata Horie, Zendai Kashino, Shigeo Yoshida, Masahiko Inami
+        <strong>Sosuke Ichihashi</strong>, Arata Horie, Zendai Kashino, Shigeo Yoshida, Masahiko Inami<br>
         <a class="hover-text" href="https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_action_common_download&item_id=212594&item_no=1&attribute_id=1&file_no=1">
           <svg style="vertical-align: middle" width="12" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M0 64C0 28.7 28.7 0 64 0L224 0l0 128c0 17.7 14.3 32 32 32l128 0 0 288c0 35.3-28.7 64-64 64L64 512c-35.3 0-64-28.7-64-64L0 64zm384 64l-128 0L256 0 384 128z"/></svg>
           IPSJ EC '21 paper (Japanese)
@@ -336,7 +345,7 @@ google_analytics: UA-NNNNNNNN-N
   <li>
     <p>Preliminary Study on Orientation Perception with Far Infrared Stimulus<br>
       <span class="paperDetail">
-        <strong>Sosuke Ichihashi</strong>, Arata Horie, Hiroto Saito, Zendai Kashino, Masahiko Inami
+        <strong>Sosuke Ichihashi</strong>, Arata Horie, Hiroto Saito, Zendai Kashino, Masahiko Inami<br>
         <a class="hover-text" href="https://www.sice-si.org/conf/si2020/SI2020%E6%9A%AB%E5%AE%9A%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A01204r2.pdf">
           <svg style="vertical-align: middle" width="12" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M0 64C0 28.7 28.7 0 64 0L224 0l0 128c0 17.7 14.3 32 32 32l128 0 0 288c0 35.3-28.7 64-64 64L64 512c-35.3 0-64-28.7-64-64L0 64zm384 64l-128 0L256 0 384 128z"/></svg>
           SICE SI '20 program (Japanese)
@@ -347,7 +356,7 @@ google_analytics: UA-NNNNNNNN-N
 
   <li>
     <p>
-      UT Austin GEO 327G GIS & GPS Applications in Earth Sciences: Maps of the Week.
+      UT Austin GEO 327G GIS & GPS Applications in Earth Sciences: Maps of the Week<br>
       <span class="paperDetail">
         <a class="hover-text" href="http://courses.geo.utexas.edu/courses/371c/MOW/2018F/lab1/MOW_Lab_1__Ichihashi_large.htm">
           <svg style="vertical-align: middle" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M352 256c0 22.2-1.2 43.6-3.3 64l-185.3 0c-2.2-20.4-3.3-41.8-3.3-64s1.2-43.6 3.3-64l185.3 0c2.2 20.4 3.3 41.8 3.3 64zm28.8-64l123.1 0c5.3 20.5 8.1 41.9 8.1 64s-2.8 43.5-8.1 64l-123.1 0c2.1-20.6 3.2-42 3.2-64s-1.1-43.4-3.2-64zm112.6-32l-116.7 0c-10-63.9-29.8-117.4-55.3-151.6c78.3 20.7 142 77.5 171.9 151.6zm-149.1 0l-176.6 0c6.1-36.4 15.5-68.6 27-94.7c10.5-23.6 22.2-40.7 33.5-51.5C239.4 3.2 248.7 0 256 0s16.6 3.2 27.8 13.8c11.3 10.8 23 27.9 33.5 51.5c11.6 26 20.9 58.2 27 94.7zm-209 0L18.6 160C48.6 85.9 112.2 29.1 190.6 8.4C165.1 42.6 145.3 96.1 135.3 160zM8.1 192l123.1 0c-2.1 20.6-3.2 42-3.2 64s1.1 43.4 3.2 64L8.1 320C2.8 299.5 0 278.1 0 256s2.8-43.5 8.1-64zM194.7 446.6c-11.6-26-20.9-58.2-27-94.6l176.6 0c-6.1 36.4-15.5 68.6-27 94.6c-10.5 23.6-22.2 40.7-33.5 51.5C272.6 508.8 263.3 512 256 512s-16.6-3.2-27.8-13.8c-11.3-10.8-23-27.9-33.5-51.5zM135.3 352c10 63.9 29.8 117.4 55.3 151.6C112.2 482.9 48.6 426.1 18.6 352l116.7 0zm358.1 0c-30 74.1-93.6 130.9-171.9 151.6c25.5-34.2 45.2-87.7 55.3-151.6l116.7 0z"/></svg>
@@ -360,9 +369,9 @@ google_analytics: UA-NNNNNNNN-N
   <li>
     <p>
       UT Austin GEO 327G GIS & GPS Applications in Earth Sciences: Final Project<br>
-      Population Affected by the Tsunami of the Tohoku Earthquake; March 11, 2011
+      Population Affected by the Tsunami of the Tohoku Earthquake; March 11, 2011<br>
       <span class="paperDetail">
-        <a style="color: inherit; text-decoration: underline;" href="https://www.geo.utexas.edu/courses/371c/project/2018F/Ichihashi_GIS_project.pdf">
+        <a class="hover-text" href="https://www.geo.utexas.edu/courses/371c/project/2018F/Ichihashi_GIS_project.pdf">
           <svg style="vertical-align: middle" width="12" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M0 64C0 28.7 28.7 0 64 0L224 0l0 128c0 17.7 14.3 32 32 32l128 0 0 288c0 35.3-28.7 64-64 64L64 512c-35.3 0-64-28.7-64-64L0 64zm384 64l-128 0L256 0 384 128z"/></svg>
           paper
         </a>
