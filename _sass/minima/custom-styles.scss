@@ -16,6 +16,10 @@ ul li {
     padding: 5px 0px;
 }
 
+ol li {
+    padding: 6px 0px;
+}
+
 .site-title {
   color: rgba(10, 10, 10, 1.0);
   font-family: 'Cairo Play', sans-serif;
@@ -88,13 +92,13 @@ ul li {
 }
 
 .hover-text {
-  color:#772f6d; /* Initial color of the text */
+  color:#d99b77; /* Initial color of the text */
   font-weight: bold;
   transition: color 0.3s ease; /* Smooth transition for the color change */
 }
 
 .hover-text:hover {
-  color: #9c3d8e; /* Color of the text when hovered */
+  color: #e4b99f; /* Color of the text when hovered */
   font-weight: bold;
   text-decoration: underline;
 }
