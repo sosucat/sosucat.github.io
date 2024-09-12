@@ -63,7 +63,9 @@ google_analytics: UA-NNNNNNNN-N
 <ol reversed style="font-size:14px; font-weight:450">
   <li><p>Hydroptical Thermal Feedback: Spatial Thermal Feedback Using Visible Lights and Water<br>
     <strong>Sosuke Ichihashi</strong>, Masahiko Inami, Hsin-Ni Ho, Noura Howell<br>
-    In Proc. UIST '24 <a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3654777.3676453">doi</a> (to appear)</p>
+    In Proc. UIST '24 <a style="color: inherit; text-decoration: none;" href="https://doi.org/10.1145/3654777.3676453">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 32"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M0 64C0 28.7 28.7 0 64 0L224 0l0 128c0 17.7 14.3 32 32 32l128 0 0 288c0 35.3-28.7 64-64 64L64 512c-35.3 0-64-28.7-64-64L0 64zm384 64l-128 0L256 0 384 128z"/></svg>
+      UIST '24 Paper</a> (to appear)</p>
 </li>
   <li><p>Swarm Body: Embodied Swarm Robots<br>
     <strong>Sosuke Ichihashi</strong>, So Kuroki, Mai Nishimura, Kazumi Kasaura, Takefumi Hiraki, Kazutoshi Tanaka, Shigeo Yoshida<br>
