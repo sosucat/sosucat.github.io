@@ -45,8 +45,8 @@ google_analytics: UA-NNNNNNNN-N
     <img src="assets/images/ichihashi_headshot.jpg" alt="profile pic">
     <p style="line-height:0.8">
       <br>
-      &nbsp;<a style="font-size: 16px; color: blue; text-decoration: underline;" href="/assets/pdfs/Sosuke_Ichihashi_CV_Fall_2024.pdf"><strong>Download CV</strong></a>
-      | Follow me <a href="https://twitter.com/RefreshSource"><img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:22px;height:22px;"></a>
+      &nbsp;<a  class="hover-text" style="font-size: 16px" href="/assets/pdfs/Sosuke_Ichihashi_CV_Fall_2024.pdf"><strong>Download CV</strong></a>
+      | <a href="https://twitter.com/RefreshSource">Follow me <img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:22px;height:22px;vertical-align:middle"></a>
     </p>
   </div>
   <div class="profText">
@@ -63,28 +63,28 @@ google_analytics: UA-NNNNNNNN-N
 <ol reversed style="font-size:14px; font-weight:450">
   <li><p>Hydroptical Thermal Feedback: Spatial Thermal Feedback Using Visible Lights and Water<br>
     <strong>Sosuke Ichihashi</strong>, Masahiko Inami, Hsin-Ni Ho, Noura Howell<br>
-    <a style="color: inherit; text-decoration: none;" href="https://doi.org/10.1145/3654777.3676453">
+    <a class="hover-text" href="https://doi.org/10.1145/3654777.3676453">
       <svg style="vertical-align: middle" width="12" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M0 64C0 28.7 28.7 0 64 0L224 0l0 128c0 17.7 14.3 32 32 32l128 0 0 288c0 35.3-28.7 64-64 64L64 512c-35.3 0-64-28.7-64-64L0 64zm384 64l-128 0L256 0 384 128z"/></svg>
       UIST '24 Paper</a> (to appear)</p>
 </li>
   <li><p>Swarm Body: Embodied Swarm Robots<br>
     <strong>Sosuke Ichihashi</strong>, So Kuroki, Mai Nishimura, Kazumi Kasaura, Takefumi Hiraki, Kazutoshi Tanaka, Shigeo Yoshida<br>
-    <a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3613904.3642870">doi</a><br>
-    <b style="color:blue;">Popular Choice Honorable Mention Award</b>
+    <a class="hover-text" href="https://doi.org/10.1145/3613904.3642870">CHI '24 paper</a><br>
+    <b style="color:#2f7739;">Popular Choice Honorable Mention Award</b>
   </p>
 </li>
 <li><p>ThermoBlinds: Non-Contact, Highly Responsive Thermal Feedback for Thermal Interaction<br>
   <strong>Sosuke Ichihashi</strong>, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, Sohei Wakisaka, Masahiko Inami<br>
-  In Proc. SIGGRAPH ’22 Emerging Technologies <a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3532721.3535569">doi</a></p>
+  <a class="hover-text" href="https://doi.org/10.1145/3532721.3535569">SIGGRAPH ’22 E-Tech paper</a></p>
 </li>
 <li><p>The Effect of Temperature Presentation According to The Gaze of Others on Remote Communications<br>
   <strong>Sosuke Ichihashi</strong>, Arata Horie, Zendai Kashino, Shigeo Yoshida, Masahiko Inami<br>
-  Presentation at ISMCR '21 <a style="color: inherit; text-decoration: underline;" href="https://secureservercdn.net/198.71.233.33/l95.2a1.myftpupload.com/wp-content/uploads/2021/09/ISMCR2021-October-1st-PROGRAM-.pdf">Program</a></p>
+  <a class="hover-text" href="https://secureservercdn.net/198.71.233.33/l95.2a1.myftpupload.com/wp-content/uploads/2021/09/ISMCR2021-October-1st-PROGRAM-.pdf">ISMCR '21 Program</a></p>
 </li>
 <li><p>High-Speed Non-Contact Thermal Display Using Infrared Rays and Shutter Mechanism<br>
   <strong>Sosuke Ichihashi</strong>, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, Masahiko Inami<br>
-  In Proc. UbiComp-ISWC ’21 workshop MIMSVAI <a style="color: inherit; text-decoration: underline;" href="https://doi.org/10.1145/3460418.3480160">doi</a><br>
-  <b style="color:blue;">Best Paper Award</b></p>
+  <a class="hover-text" href="https://doi.org/10.1145/3460418.3480160">UbiComp-ISWC ’21 workshop MIMSVAI paper</a><br>
+  <b style="color:#2f7739;">Best Paper Award</b></p>
 </li>
 </ol>
 <br>
