@@ -57,7 +57,7 @@ google_analytics: UA-NNNNNNNN-N
     | Follow me <a href="https://twitter.com/RefreshSource"><img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:26px;height:24px;"></a>
   </div>
   <div class="profText">
-    <p style="font-size: 14px; font-weight:450;line-height:1.7">
+    <p style="font-size: 14px; font-weight:450; text-align: justify; line-height:1.7">
       I am a Ph.D. student in <a style="color:inherit; text-decoration: underline;" href="https://sites.gatech.edu/futurefeelings/team/">Future Feelings Lab</a>, Georgia Tech (advisor: <a style="color: inherit; text-decoration: underline;" href="https://nourahowell.com/">Noura Howell</a>).<br>
       I create systems that <strong>augment human perceptions</strong>. I believe augmented perceptions will bring a new paradigm of interactions in both physical and digital worlds, and I <strong>explore the interactions between augmented people and the physical / digital world</strong>. Although HCI researchers have enabled various interactions, they were designed for innate perceptions. Augmented perceptions eliminate the constraints coming from limited modes and capabilities of innate perceptions.
     </p>
@@ -91,6 +91,7 @@ google_analytics: UA-NNNNNNNN-N
   <b style="color:blue;">Best Paper Award</b></p>
 </li>
 </ol>
+<br>
 
 ## Experiences
 ### Research Intern
@@ -101,7 +102,7 @@ google_analytics: UA-NNNNNNNN-N
       <strong>Ho Haptics Lab</strong> @ <strong>Kyushu University</strong>, Japan<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       Research Intern advised by 
-      Prof. <a style="color: inherit; text-decoration: underline;" href="https://sites.google.com/view/hohapticslab">Hsin-Ni Ho</a> <br>
+      Prof. <a style="color: inherit; text-decoration: underline;" href="https://sites.google.com/view/hohapticslab"><strong>Hsin-Ni Ho</strong></a> <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       Topic: Development of Hydroptical Thermal Display
     </p>
@@ -111,7 +112,7 @@ google_analytics: UA-NNNNNNNN-N
       2023.08-2024.02&nbsp; &nbsp; &nbsp;
       <strong>Code Craft Lab</strong> @ <strong>Georgia Tech</strong>, USA<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      Independent Study advised by Prof. <a style="color: inherit; text-decoration: underline;" href="https://www.codecraft.group/hyunjoo-oh">HyunJoo Oh</a><br>
+      Independent Study advised by Prof. <a style="color: inherit; text-decoration: underline;" href="https://www.codecraft.group/hyunjoo-oh"><strong>HyunJoo Oh</strong></a><br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       Topic: 2.5D Fabrication (paper under review)
     </p>
@@ -121,60 +122,70 @@ google_analytics: UA-NNNNNNNN-N
       2023.05-2023.08&nbsp; &nbsp; &nbsp;
       Interaction Group @ <strong>Omron Sinic X</strong>, Japan<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      Research Intern advised by Dr. <a style="color: inherit; text-decoration: underline;" href="https://shigeodayo.me">Shigeo Yoshida</a><br>
+      Research Intern advised by Dr. <a style="color: inherit; text-decoration: underline;" href="https://shigeodayo.me"><strong>Shigeo Yoshida</strong></a><br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       Topic: Swarm Body (CHI '24)
     </p>
   </li>
 </ul>
 
-<br>
-
 ### Teaching
-<ol reversed style="font-size:14px; font-weight:450">
+<ul style="font-size:14px; font-weight:450">
   <li>
     <p>
-      TA&nbsp; &nbsp; &nbsp;LMC 2700 Intro to Computational Media 
-      @Georgia Tech, USA&nbsp; &nbsp; &nbsp;2024
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2024&nbsp; &nbsp; &nbsp; 
+      TA in LMC 2700 Intro to Computational Media<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      @ Georgia Tech, USA
     </p>
   </li>
   <li>
     <p>
-      Instructor&nbsp; &nbsp; &nbsp;LMC 2400 Intro to Media Studies 
-      @Georgia Tech, USA&nbsp; &nbsp; &nbsp;2024
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      Instructor in LMC 2400 Intro to Media Studies<br>
+      @ Georgia Tech, USA
+    </p>
+  </li>
+  
+  <li>
+    <p>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2023&nbsp; &nbsp; &nbsp; 
+      TA in LMC 6130 Computer as Expressive Medium<br>
+      @ Georgia Tech, USA
+    </p>
+  </li>
+  
+  <li>
+    <p>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2019&nbsp; &nbsp; &nbsp; 
+      Translator in JSPS Science Dialogue Program<br>
+      @ Akashi Kita Science High School, Japan &nbsp; <a style="color: inherit; text-decoration: underline;" href="https://www.jsps.go.jp/j-sdialogue/data/03_past_lectures/201911/f1114_3457.pdf">Report</a>
+    </p>
+  </li>
+  
+  <li>
+    <p>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2018&nbsp; &nbsp; &nbsp; 
+      Instructor in Japanese History<br>
+      @ Johan Heinrich Pestalozzi Elementary School, Nothern Macedonia
+    </p>
+  </li>
+  
+  <li>
+    <p>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2017&nbsp; &nbsp; &nbsp; 
+      Instructor in Kyoto University Disaster Prevention School<br>
+      @ Five elementary schools in Makassar, Indonesia
     </p>
   </li>
   <li>
     <p>
-      TA&nbsp; &nbsp; &nbsp;LMC 6130 Computer as Expressive Medium 
-      @Georgia Tech, USA&nbsp; &nbsp; &nbsp;2023
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      TA in Engineering Science Global Communication Programme<br>
+      @ Ngee Ann Polytechnic, Singapore
     </p>
   </li>
-  <li>
-    <p>
-      Translator&nbsp; &nbsp; &nbsp;JSPS Science Dialogue Program 
-      @Akashi Kita Science High School, Japan&nbsp; &nbsp; &nbsp;<a style="color: inherit; text-decoration: underline;" href="https://www.jsps.go.jp/j-sdialogue/data/03_past_lectures/201911/f1114_3457.pdf">Report</a>. 2018
-    </p>
-  </li>
-  <li>
-    <p>
-      Instructor&nbsp; &nbsp; &nbsp;Japanese History 
-      @Johan Heinrich Pestalozzi Elementary School, Nothern Macedonia&nbsp; &nbsp; &nbsp;2018
-    </p>
-  </li>
-  <li>
-    <p>
-      Instructor&nbsp; &nbsp; &nbsp;Kyoto University Disaster Prevention School 
-      @Five elementary schools in Makassar, Indonesia&nbsp; &nbsp; &nbsp;2017
-    </p>
-  </li>
-  <li>
-    <p>
-      TA&nbsp; &nbsp; &nbsp;Engineering Science Global Communication Programme 
-      @Ngee Ann Polytechnic, Singapore&nbsp; &nbsp; &nbsp;2017
-    </p>
-  </li>
-</ol>
+</ul>
 
 <br>
 
@@ -182,19 +193,19 @@ google_analytics: UA-NNNNNNNN-N
 <ol reversed style="font-size:14px; font-weight:450">
   <li>
     <p>
-      <a style="color: inherit; text-decoration: underline;" href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/09593/">Nikkei article about Swarm Body</a>&nbsp; &nbsp; &nbsp;2024
+      <a style="color: inherit; text-decoration: underline;" href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/09593/">Nikkei article about Swarm Body</a>&nbsp;2024
     </p>
   </li>
 
   <li>
     <p>
-      <a style="color: inherit; text-decoration: underline;" href="https://medium.com/sinicx/our-paper-which-explores-whether-people-can-perceive-as-if-swarm-robots-were-part-of-their-body-69bc10abfd64">Company's article about Swarm Body</a>&nbsp; &nbsp; &nbsp;2023
+      <a style="color: inherit; text-decoration: underline;" href="https://medium.com/sinicx/our-paper-which-explores-whether-people-can-perceive-as-if-swarm-robots-were-part-of-their-body-69bc10abfd64">Company's article about Swarm Body</a>&nbsp;2023
     </p>
   </li>
   
   <li>
     <p>
-      <a style="color: inherit; text-decoration: underline;" href="https://www.s-ge.t.kyoto-u.ac.jp/int/en/campuslife/students/blog/ichihashisan">University's article about my exchange at UT Austin</a>&nbsp; &nbsp; &nbsp;2019
+      <a style="color: inherit; text-decoration: underline;" href="https://www.s-ge.t.kyoto-u.ac.jp/int/en/campuslife/students/blog/ichihashisan">University's article about my exchange at UT Austin</a>&nbsp;2019
     </p>
   </li>
 </ol>
@@ -215,31 +226,49 @@ google_analytics: UA-NNNNNNNN-N
 
 <br>
 <ol style="font-size:14px; font-weight:450">
-  <li><strong>Sosuke Ichihashi</strong>, Arata Horie, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami.
-    The effect of temperature presentation according to the gaze of others on remote communications.
-    The 26th Annual Conference of Virtual Reality Society of Japan (VRSJ 2021). 2021. in Japanese.
-    <a style="color: inherit; text-decoration: underline;" href="http://conference.vrsj.org/ac2021/program/doc/1G-9.pdf">PDF (JPN)</a>
+  <li>
+    <p>
+      <strong>Sosuke Ichihashi</strong>, Arata Horie, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami.
+      The effect of temperature presentation according to the gaze of others on remote communications.
+      The 26th Annual Conference of Virtual Reality Society of Japan (VRSJ 2021). 2021. in Japanese.
+      <a style="color: inherit; text-decoration: underline;" href="http://conference.vrsj.org/ac2021/program/doc/1G-9.pdf">PDF (JPN)</a>
+    </p>
   </li>
 
-  <li><strong>Sosuke Ichihashi</strong>, Arata Horie, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami.
-    High-Response Thermal Presentation by Controlling Infrared Radiant Intensity using a Shutter Mechanism.
-    Information Processing Society of Japan Entertainment Computing 2021. 2021. in Japanese.
-    <a style="color: inherit; text-decoration: underline;" href="https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_action_common_download&item_id=212594&item_no=1&attribute_id=1&file_no=1">PDF (JPN)</a>
+  <li>
+    <p>
+      <strong>Sosuke Ichihashi</strong>, Arata Horie, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami.
+      High-Response Thermal Presentation by Controlling Infrared Radiant Intensity using a Shutter Mechanism.
+      Information Processing Society of Japan Entertainment Computing 2021. 2021. in Japanese.
+      <a style="color: inherit; text-decoration: underline;" href="https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_action_common_download&item_id=212594&item_no=1&attribute_id=1&file_no=1">PDF (JPN)</a>
+    </p>
   </li>
 
-  <li><strong>Sosuke Ichihashi</strong>, Arata Horie, Hiroto Saito, Zendai Kashino, and Masahiko Inami.
-    Preliminary Study on Orientation Perception with Far Infrared Stimulus.
-    The Society of Instrument and Control Engineering System Integration Division Conference. 2020. in Japanese.
-    <a style="color: inherit; text-decoration: underline;" href="https://www.sice-si.org/conf/si2020/SI2020%E6%9A%AB%E5%AE%9A%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A01204r2.pdf">Program (JPN)</a>
+  <li>
+    <p>
+      <strong>Sosuke Ichihashi</strong>, Arata Horie, Hiroto Saito, Zendai Kashino, and Masahiko Inami.
+      Preliminary Study on Orientation Perception with Far Infrared Stimulus.
+      The Society of Instrument and Control Engineering System Integration Division Conference. 2020. in Japanese.
+      <a style="color: inherit; text-decoration: underline;" href="https://www.sice-si.org/conf/si2020/SI2020%E6%9A%AB%E5%AE%9A%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A01204r2.pdf">Program (JPN)</a>
+    </p>
   </li>
 
-  <li>UT Austin GEO 327G GIS & GPS Applications in Earth Sciences: Maps of the Week.
-    <a style="color: inherit; text-decoration: underline;" href="http://courses.geo.utexas.edu/courses/371c/MOW/2018F/lab1/MOW_Lab_1__Ichihashi_large.htm">PDF</a>
+  <li>
+    <p>
+      UT Austin GEO 327G GIS & GPS Applications in Earth Sciences: Maps of the Week.
+      <a style="color: inherit; text-decoration: underline;" href="http://courses.geo.utexas.edu/courses/371c/MOW/2018F/lab1/MOW_Lab_1__Ichihashi_large.htm">PDF</a>
+    </p>
   </li>
 
-  <li>UT Austin GEO 327G GIS & GPS Applications in Earth Sciences: Class Project.
-    <a style="color: inherit; text-decoration: underline;" href="https://www.geo.utexas.edu/courses/371c/project/2018F/Ichihashi_GIS_project.pdf">PDF</a>
+  <li>
+    <p>
+      UT Austin GEO 327G GIS & GPS Applications in Earth Sciences: Class Project.
+      <a style="color: inherit; text-decoration: underline;" href="https://www.geo.utexas.edu/courses/371c/project/2018F/Ichihashi_GIS_project.pdf">PDF</a>
+    </p>
   </li>
 
-  <li>Graduation Thesis at Kyoto University: Combinatorial Optimization for Parameter Identification of a Rainfall-Runoff Model Applied to 120 Dam River Basins in Japan.</li>
+  <li>
+    <p>
+      Graduation Thesis at Kyoto University: Combinatorial Optimization for Parameter Identification of a Rainfall-Runoff Model Applied to 120 Dam River Basins in Japan.</li>
+    </p>
 </ol>
