@@ -130,7 +130,7 @@ google_analytics: UA-NNNNNNNN-N
 </ul>
 
 ### Teaching
-<ul style="font-size:14px; font-weight:450">
+<ul style="list-style-type:none; font-size:14px; font-weight:450">
   <li>
     <p>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2024&nbsp; &nbsp; &nbsp; 
