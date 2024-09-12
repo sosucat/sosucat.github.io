@@ -98,26 +98,30 @@ google_analytics: UA-NNNNNNNN-N
   <li>
     <p>
       2024.07-2024.08&nbsp; &nbsp; &nbsp;
-      Ho Haptics Lab @ Kyushu University, Japan<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      Research Intern advised by Prof. Hsin-Ni Ho<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      **Ho Haptics Lab** @ **Kyushu University**, Japan<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      Research Intern advised by **Prof. Hsin-Ni Ho**<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       Topic: Development of Hydroptical Thermal Display
     </p>
   </li>
   <li>
     <p>
       2023.08-2024.02&nbsp; &nbsp; &nbsp;
-      Code Craft Lab @ Georgia Tech, USA<br>
-      Independent Study advised by Prof. HyunJoo Oh<br>
+      **Code Craft Lab** @** Georgia Tech**, USA<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      Independent Study advised by Prof. **HyunJoo Oh**<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       Topic: 2.5D Fabrication (paper under review)
     </p>
   </li>
   <li>
     <p>
       2023.05-2023.08&nbsp; &nbsp; &nbsp;
-      Interaction Group @ Omron Sinic X, Japan<br>
-      Research Intern advised by Dr. Shigeo Yoshida<br>
+      Interaction Group @ **Omron Sinic X**, Japan<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      Research Intern advised by Dr. [**Shigeo Yoshida**](shigeodayo.me)<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       Topic: Swarm Body (CHI '24)
     </p>
   </li>
