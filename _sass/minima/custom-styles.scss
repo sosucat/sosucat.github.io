@@ -84,12 +84,20 @@ h1, h2, h3, h4 {
 }
 
 .hover-text {
-    color:#772f6d; /* Initial color of the text */
-    transition: color 0.3s ease; /* Smooth transition for the color change */
+  color:#772f6d; /* Initial color of the text */
+  font-weight: bold;
+  transition: color 0.3s ease; /* Smooth transition for the color change */
 }
 
 .hover-text:hover {
-    color: #9c3d8e; /* Color of the text when hovered */
+  color: #9c3d8e; /* Color of the text when hovered */
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.paperDetail {
+  font-size: 14px;
+  font-weight:450;
 }
 
 /* Responsive layout - makes a two column-layout instead of three columns */
