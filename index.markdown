@@ -6,35 +6,35 @@ google_analytics: UA-NNNNNNNN-N
 
 
 <p style="font-size:16px; font-weight:450; color:black">&nbsp; &nbsp;Temperature as Digital Media</p>
-<div class="row" style="font-size:14px; font-weight:450">
+<div class="row" style="font-size:14px; font-weight:480">
   <div class="column">
     <a href="https://sosuke-ichihashi.com/hydroptical/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
-    Hydroptical (UIST' 24 to appear) <br> <br>
+    Hydroptical | UIST' 24 to appear<br> <br>
     <a href="https://sosuke-ichihashi.com/vtd/"><img src="/assets/images/vtd/vtd_overview.jpg" alt="Visuo-Thermal Display"></a>
-    Visuo-Thermal (SIGGRAPH '22)
+    Visuo-Thermal | SIGGRAPH '22
   </div>
   <div class="column">
     <a href="https://sosuke-ichihashi.com/thermoblinds/"><img src="/assets/images/thermoblinds/thermoblinds_stand.jpg" alt="ThermoBlinds"></a>
-    ThermoBlinds (UbiComp '22)<br> <br>
+    ThermoBlinds | UbiComp '22<br> <br>
     <a href="https://sosuke-ichihashi.com/redirection/"><img src="/assets/images/redirection/redirection_grid.jpg" alt="Redirection"></a>
     Redirection thru Heat
   </div>
   <div class="column">
     <a href="https://sosuke-ichihashi.com/heatophone/"><img src="/assets/images/heatophone/heatophone_grid.jpg" alt="Heat-O-Phone"></a>
-    Heat-O-Phone (Guthman Fair)
+    Heat-O-Phone | Guthman Fair
   </div>
 </div>
 <br>
 
 <p style="font-size:16px; font-weight:450; color:black">&nbsp; &nbsp;Human Augmentation</p>
-<div class="row" style="font-size:14px; font-weight:450">
+<div class="row" style="font-size:14px; font-weight:480">
   <div class="column">
     <a href="https://shigeodayo.me/works/swarm_body/"><img src="/assets/images/swarmbody/swarm_body_teaser.jpg" alt="Swarm Body"></a>
-    Swarm Body (CHI '24)
+    Swarm Body | CHI '24
   </div>
   <div class="column">
     <a href="https://sosuke-ichihashi.com/rattleye/"><img src="/assets/images/rattleye/rattleye_overview.jpg" alt="RattlEye"></a>
-    RattlEye (SIGGRAPH '22)
+    RattlEye | SIGGRAPH '22
   </div>
 </div>
 <br><br>
@@ -43,9 +43,9 @@ google_analytics: UA-NNNNNNNN-N
 <div class="profile">
   <div class="profImage">
     <img src="assets/images/ichihashi_headshot.jpg" alt="profile pic">
-    <p style="line-height:0.5">
+    <p style="line-height:0.8">
       <br>
-      &nbsp; &nbsp;<a style="font-size: 16px; color: blue; text-decoration: underline;" href="/assets/pdfs/Sosuke_Ichihashi_CV_Fall_2024.pdf"><strong>Download CV</strong></a>
+      &nbsp;<a style="font-size: 16px; color: blue; text-decoration: underline;" href="/assets/pdfs/Sosuke_Ichihashi_CV_Fall_2024.pdf"><strong>Download CV</strong></a>
       | Follow me <a href="https://twitter.com/RefreshSource"><img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:22px;height:22px;"></a>
     </p>
   </div>
@@ -92,7 +92,7 @@ google_analytics: UA-NNNNNNNN-N
 <ul style="list-style-type:none; font-size:14px; font-weight:450">
   <li>
     <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2022-2026&nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2022-2026&nbsp; &nbsp; &nbsp;
       <strong>PhD in Digital Media</strong> @ <strong>Georgia Tech</strong><br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       Advised by Prof. <a style="color: inherit; text-decoration: underline;" href="https://nourahowell.com"><strong>Noura Howell</strong></a> <br>
@@ -102,7 +102,7 @@ google_analytics: UA-NNNNNNNN-N
   </li>
   <li>
     <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2022&nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2022&nbsp; &nbsp; &nbsp;
       <strong>MAS in Interdisciplinary Information Studies</strong> @ <strong>University of Tokyo</strong><br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       Advised by Prof. <a style="color: inherit; text-decoration: underline;" href="https://star.rcast.u-tokyo.ac.jp/en"><strong>Masahiko Inami</strong></a><br>
@@ -112,18 +112,20 @@ google_analytics: UA-NNNNNNNN-N
   </li>
   <li>
     <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2020&nbsp; &nbsp; &nbsp;
-      BE in Global Engineering @ Kyoto University
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2020&nbsp; &nbsp; &nbsp;
+      BE in Global Engineering @ Kyoto University<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       Advised by Prof. <a style="color: inherit; text-decoration: underline;" href="http://flood.dpri.kyoto-u.ac.jp/en/">Takahiro Sayama</a><br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      Thesis: Combinatorial Optimization for Parameter Identification of a Rainfall-Runoff Model Applied to 120 Dam River Basins in Japan
+      Thesis: Combinatorial Optimization for Parameter Identification of a<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      Rainfall-Runoff Model Applied to 120 Dam River Basins in Japan
     </p>
   </li>
   <li>
     <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2018&nbsp; &nbsp; &nbsp;
-      Exchange in ECE @ University of Texas at Austin
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2018&nbsp; &nbsp; &nbsp;
+      Exchange in ECE @ University of Texas at Austin<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       University Honor (Fall 2018)
     </p>
@@ -305,6 +307,7 @@ google_analytics: UA-NNNNNNNN-N
 
   <li>
     <p>
-      Graduation Thesis at Kyoto University: Combinatorial Optimization for Parameter Identification of a Rainfall-Runoff Model Applied to 120 Dam River Basins in Japan.</li>
+      Graduation Thesis at Kyoto University: Combinatorial Optimization for Parameter Identification of a Rainfall-Runoff Model Applied to 120 Dam River Basins in Japan.
     </p>
+  </li>
 </ol>
