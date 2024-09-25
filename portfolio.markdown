@@ -7,7 +7,7 @@ google_analytics: UA-NNNNNNNN-N
 
 <!--<link href="{{site.baseurl}}/assets/css/main.css" rel="stylesheet">-->
 
-<a href="https://sosuke-ichihashi.com/hydroptical/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback" style="width:100%" class="center"></a>
+<a href="https://youtu.be/VG1r-MGIW7Q"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback" style="width:100%" class="center"></a>
 <p>Hydroptical Thermal Feedback (to appear)<br></p>
 <br>
 
