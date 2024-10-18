@@ -5,8 +5,8 @@ google_analytics: UA-NNNNNNNN-N
 ---
 
 
-<p style="font-size:16px; font-weight:450; color:black">&nbsp; &nbsp;Temperature as Digital Media</p>
-<div class="row" style="font-size:13px; font-weight:480">
+<p style="font-size:18px; font-weight:450; color:black">&nbsp; &nbsp;Temperature as Digital Media</p>
+<div class="row" style="font-size:15px; font-weight:480">
   <div class="column">
     <a href="https://youtu.be/VG1r-MGIW7Q"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
     Hydroptical | UIST' 24 to appear<br> <br>
@@ -26,8 +26,8 @@ google_analytics: UA-NNNNNNNN-N
 </div>
 <br>
 
-<p style="font-size:16px; font-weight:450; color:black">&nbsp; &nbsp;Human Augmentation</p>
-<div class="row" style="font-size:13px; font-weight:480">
+<p style="font-size:18px; font-weight:450; color:black">&nbsp; &nbsp;Human Augmentation</p>
+<div class="row" style="font-size:15px; font-weight:480">
   <div class="column">
     <a href="https://shigeodayo.me/works/swarm_body/"><img src="/assets/images/swarmbody/swarm_body_teaser.jpg" alt="Swarm Body"></a>
     Swarm Body | CHI '24
@@ -46,12 +46,12 @@ google_analytics: UA-NNNNNNNN-N
     <img src="assets/images/ichihashi_headshot.jpg" alt="profile pic">
     <p style="line-height:0.8">
       <br>
-      &nbsp;<a  class="hover-text" style="font-size: 15px" href="/assets/pdfs/Sosuke_Ichihashi_CV_Fall_2024.pdf">Download CV</a>
-      | <a class="hover-text" style="font-size: 15px" href="https://twitter.com/RefreshSource">Follow me <img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:22px;height:22px;vertical-align:middle"></a>
+      &nbsp;<a  class="hover-text" style="font-size: 18px" href="/assets/pdfs/Sosuke_Ichihashi_CV_Fall_2024.pdf">Download CV</a>
+      | <a class="hover-text" style="font-size: 18px" href="https://twitter.com/RefreshSource">Follow me <img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:22px;height:22px;vertical-align:middle"></a>
     </p>
   </div>
   <div class="profText">
-    <p style="font-size: 13px; font-weight:450; text-align: justify; line-height:1.7">
+    <p style="font-size: 15px; font-weight:450; text-align: justify; line-height:1.7">
       I am a Ph.D. student in <a style="color:inherit; text-decoration: underline;" href="https://sites.gatech.edu/futurefeelings/team/">Future Feelings Lab</a>, Georgia Tech (advisor: <a style="color: inherit; text-decoration: underline;" href="https://nourahowell.com/">Noura Howell</a>).<br>
       I create systems that <strong>augment human perceptions</strong>. I believe augmented perceptions will bring a new paradigm of interactions in both physical and digital worlds, and I <strong>explore the interactions between augmented people and the physical / digital world</strong>. Although HCI researchers have enabled various interactions, they were designed for innate perceptions. Augmented perceptions eliminate the constraints coming from limited modes and capabilities of innate perceptions.
     </p>
@@ -61,7 +61,7 @@ google_analytics: UA-NNNNNNNN-N
 
 
 ## Publications
-<ol reversed style="font-size:17px; font-weight:450">
+<ol reversed style="font-size:18px; font-weight:450">
   <li>
     <p>Hydroptical Thermal Feedback: Spatial Thermal Feedback Using Visible Lights and Water<br>
       <span class="paperDetail">
@@ -137,7 +137,7 @@ google_analytics: UA-NNNNNNNN-N
 
 ## Experiences
 ### Education
-<ul style="list-style-type:none; font-size:13px; font-weight:450">
+<ul style="list-style-type:none; font-size:15px; font-weight:450">
   <li>
     <p>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2022-2026&nbsp; &nbsp; &nbsp;
@@ -181,7 +181,7 @@ google_analytics: UA-NNNNNNNN-N
 </ul>
 
 ### Research Intern
-<ul style="list-style-type:none; font-size:13px; font-weight:450">
+<ul style="list-style-type:none; font-size:15px; font-weight:450">
   <li>
     <p>
       2024.07-2024.08&nbsp; &nbsp; &nbsp;
@@ -216,7 +216,7 @@ google_analytics: UA-NNNNNNNN-N
 </ul>
 
 ### Teaching
-<ul style="list-style-type:none; font-size:13px; font-weight:450">
+<ul style="list-style-type:none; font-size:15px; font-weight:450">
   <li>
     <p>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2024&nbsp; &nbsp; &nbsp;
@@ -286,7 +286,7 @@ google_analytics: UA-NNNNNNNN-N
 <br>
 
 ## Articles
-<ol reversed style="font-size:13px; font-weight:450">
+<ol reversed style="font-size:15px; font-weight:450">
   <li>
     <p>
       <a class="hover-text" href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/09593/">Nikkei article about Swarm Body</a> &nbsp; 2024
@@ -309,7 +309,7 @@ google_analytics: UA-NNNNNNNN-N
 <br>
 
 ## Other Works
-<div class="row" style="font-size:13px; font-weight:450">
+<div class="row" style="font-size:15px; font-weight:450">
   <div class="column">
    <a href="https://sosuke-ichihashi.com/momentochroma/"><img src="/assets/images/momentochroma/momentochroma_grid.jpg" alt="MomentoChroma"></a>
     MomentoChroma
@@ -322,7 +322,7 @@ google_analytics: UA-NNNNNNNN-N
 
 <br>
 
-<ol style="font-size:17px; font-weight:450">
+<ol style="font-size:15px; font-weight:450">
   <li>
     <p>The Effect of Temperature Presentation According to the Gaze of Others on Remote Communications<br>
       <span class="paperDetail">
