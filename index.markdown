@@ -5,36 +5,27 @@ google_analytics: UA-NNNNNNNN-N
 ---
 
 
-<p style="font-size:18px; font-weight:450; color:black">&nbsp; &nbsp;Temperature as Digital Media</p>
-<div class="row" style="font-size:15px; font-weight:480">
+<p style="font-size:20px; font-weight:500; color:black">&nbsp; &nbsp;Responsive Atmosphere</p>
+<div class="row" style="font-size:16px; font-weight:500">
   <div class="column">
     <a href="https://youtu.be/VG1r-MGIW7Q"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
-    Hydroptical | UIST' 24 to appear<br> <br>
+    Hydroptical | UIST' 24<br> <br>
     <a href="https://sosuke-ichihashi.com/vtd/"><img src="/assets/images/vtd/vtd_overview.jpg" alt="Visuo-Thermal Display"></a>
     Visuo-Thermal | SIGGRAPH '22
-  </div>
-  <div class="column">
-    <a href="https://sosuke-ichihashi.com/thermoblinds/"><img src="/assets/images/thermoblinds/thermoblinds_stand.jpg" alt="ThermoBlinds"></a>
-    ThermoBlinds | UbiComp '22<br> <br>
     <a href="https://sosuke-ichihashi.com/redirection/"><img src="/assets/images/redirection/redirection_grid.jpg" alt="Redirection"></a>
     Redirection thru Heat
   </div>
   <div class="column">
-    <a href="https://sosuke-ichihashi.com/heatophone/"><img src="/assets/images/heatophone/heatophone_grid.jpg" alt="Heat-O-Phone"></a>
-    Heat-O-Phone | Guthman Fair
-  </div>
-</div>
-<br>
-
-<p style="font-size:18px; font-weight:450; color:black">&nbsp; &nbsp;Human Augmentation</p>
-<div class="row" style="font-size:15px; font-weight:480">
-  <div class="column">
     <a href="https://shigeodayo.me/works/swarm_body/"><img src="/assets/images/swarmbody/swarm_body_teaser.jpg" alt="Swarm Body"></a>
     Swarm Body | CHI '24
-  </div>
-  <div class="column">
     <a href="https://sosuke-ichihashi.com/rattleye/"><img src="/assets/images/rattleye/rattleye_overview.jpg" alt="RattlEye"></a>
     RattlEye | SIGGRAPH '22
+  </div>
+  <div class="column">
+    <a href="https://sosuke-ichihashi.com/heatophone/"><img src="/assets/images/heatophone/heatophone_grid.jpg" alt="Heat-O-Phone"></a>
+    Heat-O-Phone | Guthman Fair
+    <a href="https://sosuke-ichihashi.com/thermoblinds/"><img src="/assets/images/thermoblinds/thermoblinds_stand.jpg" alt="ThermoBlinds"></a>
+    ThermoBlinds | UbiComp '22<br> <br>
   </div>
 </div>
 <br>
