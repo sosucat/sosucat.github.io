@@ -50,7 +50,7 @@ google_analytics: UA-NNNNNNNN-N
   </div>
   <div class="profText">
     <p style="font-size: 16px; font-weight:500; text-align: justify; line-height:2.0">
-      <em>What if the atmosphere (air temperature, smell, lighting, sound) dynamically changed according to your actions and states?</em>
+      <em>What if the atmosphere (air temperature, smell, lighting, sound) dynamically changed according to your actions and states?</em><br>
       I am a Ph.D. student in <a style="color:inherit; text-decoration: underline;" href="https://sites.gatech.edu/futurefeelings/team/">Future Feelings Lab</a> at Georgia Tech (advisor: <a style="color: inherit; text-decoration: underline;" href="https://nourahowell.com/">Noura Howell</a>).<br>
       I envision <em>Resonant Atmosphere</em>, the world where the atmosphere and surroundings dynamically change based on our actions, bodily states, and emotions.
       Humans have long been using a variety of objects within their reach. For example, we take notes with a pen, cook dishes with a knife and a pot, and type texts with a keyboard.
