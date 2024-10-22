@@ -5,7 +5,7 @@ google_analytics: UA-NNNNNNNN-N
 ---
 
 
-<p style="font-size:24px; font-weight:600; color:black">&nbsp; &nbsp;Responsive Atmosphere</p>
+<p style="font-size:24px; font-weight:600; color:black">&nbsp; &nbsp;Resonant Atmosphere</p>
 <div class="row" style="font-size:17px; font-weight:550">
   <div class="column">
     <a href="https://youtu.be/VG1r-MGIW7Q"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
@@ -16,6 +16,7 @@ google_analytics: UA-NNNNNNNN-N
     <br><br>
     <a href="https://sosuke-ichihashi.com/redirection/"><img src="/assets/images/redirection/redirection_grid.jpg" alt="Redirection"></a>
     Redirection thru Heat
+    <br><br>
   </div>
   <div class="column">
     <a href="https://shigeodayo.me/works/swarm_body/"><img src="/assets/images/swarmbody/swarm_body_teaser.jpg" alt="Swarm Body"></a>
@@ -23,13 +24,15 @@ google_analytics: UA-NNNNNNNN-N
     <br><br>
     <a href="https://sosuke-ichihashi.com/rattleye/"><img src="/assets/images/rattleye/rattleye_overview.jpg" alt="RattlEye"></a>
     RattlEye | SIGGRAPH '22
+    <br><br>
   </div>
   <div class="column">
     <a href="https://sosuke-ichihashi.com/heatophone/"><img src="/assets/images/heatophone/heatophone_grid.jpg" alt="Heat-O-Phone"></a>
     Heat-O-Phone | Guthman Fair '23
     <br><br>
     <a href="https://sosuke-ichihashi.com/thermoblinds/"><img src="/assets/images/thermoblinds/thermoblinds_stand.jpg" alt="ThermoBlinds"></a>
-    ThermoBlinds | UbiComp '22<br> <br>
+    ThermoBlinds | UbiComp '22
+    <br><br>
   </div>
 </div>
 <br>
@@ -47,6 +50,7 @@ google_analytics: UA-NNNNNNNN-N
   </div>
   <div class="profText">
     <p style="font-size: 16px; font-weight:500; text-align: justify; line-height:2.0">
+      <em>What if the atmosphere (air temperature, smell, lighting, sound) dynamically changed according to your actions and states?</em>
       I am a Ph.D. student in <a style="color:inherit; text-decoration: underline;" href="https://sites.gatech.edu/futurefeelings/team/">Future Feelings Lab</a> at Georgia Tech (advisor: <a style="color: inherit; text-decoration: underline;" href="https://nourahowell.com/">Noura Howell</a>).<br>
       I envision <em>Resonant Atmosphere</em>, the world where the atmosphere and surroundings dynamically change based on our actions, bodily states, and emotions.
       Humans have long been using a variety of objects within their reach. For example, we take notes with a pen, cook dishes with a knife and a pot, and type texts with a keyboard.
