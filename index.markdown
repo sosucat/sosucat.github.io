@@ -8,7 +8,7 @@ google_analytics: UA-NNNNNNNN-N
 <p style="font-size:24px; font-weight:600; color:black">&nbsp; &nbsp;Resonant Atmosphere</p>
 <div class="row" style="font-size:17px; font-weight:550">
   <div class="column">
-    <a href="https://youtu.be/VG1r-MGIW7Q"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
+    <a href="https://sites.gatech.edu/futurefeelings/2024/11/14/hydroptical-thermal-feedback-uist-24/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
     Hydroptical | UIST' 24
     <br><br>
     <a href="https://sosuke-ichihashi.com/vtd/"><img src="/assets/images/vtd/vtd_overview.jpg" alt="Visuo-Thermal Display"></a>
@@ -25,13 +25,16 @@ google_analytics: UA-NNNNNNNN-N
     <a href="https://sosuke-ichihashi.com/rattleye/"><img src="/assets/images/rattleye/rattleye_overview.jpg" alt="RattlEye"></a>
     RattlEye | SIGGRAPH '22
     <br><br>
-  </div>
-  <div class="column">
-    <a href="https://sosuke-ichihashi.com/heatophone/"><img src="/assets/images/heatophone/heatophone_grid.jpg" alt="Heat-O-Phone"></a>
-    Heat-O-Phone | Guthman Fair '23
-    <br><br>
     <a href="https://sosuke-ichihashi.com/thermoblinds/"><img src="/assets/images/thermoblinds/thermoblinds_stand.jpg" alt="ThermoBlinds"></a>
     ThermoBlinds | UbiComp '22
+    <br><br>
+  </div>
+  <div class="column">
+    <a href="https://sosuke-ichihashi.com"><img src="/assets/images/SbL/SbL_origami.jpg" alt="Swell by Light thumbnail"></a>
+    Swell by Light | TEI '25 (to appear)
+    <br><br>
+    <a href="https://sosuke-ichihashi.com/heatophone/"><img src="/assets/images/heatophone/heatophone_grid.jpg" alt="Heat-O-Phone"></a>
+    Heat-O-Phone | Guthman Fair '23
     <br><br>
   </div>
 </div>
