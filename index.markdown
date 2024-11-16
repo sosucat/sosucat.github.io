@@ -33,8 +33,8 @@ google_analytics: UA-NNNNNNNN-N
     <a href="https://sosuke-ichihashi.com"><img src="/assets/images/SbL/SbL_origami.jpg" alt="Swell by Light thumbnail"></a>
     Swell by Light | TEI '25 (to appear)
     <br><br>
-    <a href="https://sosuke-ichihashi.com"><img src="/assets/images/everyday/everyday_apps.jpg" alt="Everyday thumbnail"></a>
-    Towards Designing for Everyday Thermal Experiences | TEI '25 (to appear)
+    <a href="https://sosuke-ichihashi.com"><img src="/assets/images/everyday/everyday_thumbnail.jpg" alt="Everyday thumbnail"></a>
+    Everyday Thermal | TEI '25 (to appear)
     <br><br>
     <a href="https://sosuke-ichihashi.com/heatophone/"><img src="/assets/images/heatophone/heatophone_grid.jpg" alt="Heat-O-Phone"></a>
     Heat-O-Phone | Guthman Fair '23
