@@ -33,6 +33,9 @@ google_analytics: UA-NNNNNNNN-N
     <a href="https://sosuke-ichihashi.com"><img src="/assets/images/SbL/SbL_origami.jpg" alt="Swell by Light thumbnail"></a>
     Swell by Light | TEI '25 (to appear)
     <br><br>
+    <a href="https://sosuke-ichihashi.com"><img src="/assets/images/everyday/everyday_apps.jpg" alt="Everyday thumbnail"></a>
+    Towards Designing for Everyday Thermal Experiences | TEI '25 (to appear)
+    <br><br>
     <a href="https://sosuke-ichihashi.com/heatophone/"><img src="/assets/images/heatophone/heatophone_grid.jpg" alt="Heat-O-Phone"></a>
     Heat-O-Phone | Guthman Fair '23
     <br><br>
@@ -67,6 +70,28 @@ google_analytics: UA-NNNNNNNN-N
 
 ## Publications
 <ol reversed style="font-size:18px; font-weight:480">
+  <li>
+    <p>Swell by Light: An Approachable Technique for Freeform Raised Textures<br>
+      <span class="paperDetail">
+        <strong>Sosuke Ichihashi</strong>, Noura Howell, HyunJoo Oh<br>
+        <a class="hover-text" href="https://doi.org/10.1145/3689050.3704423">
+          <svg style="vertical-align: middle" width="12" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M0 64C0 28.7 28.7 0 64 0L224 0l0 128c0 17.7 14.3 32 32 32l128 0 0 288c0 35.3-28.7 64-64 64L64 512c-35.3 0-64-28.7-64-64L0 64zm384 64l-128 0L256 0 384 128z"/></svg>
+          TEI '25 Pictorial (to appear)
+        </a>&nbsp;
+      </span>
+    </p>
+  </li>
+  <li>
+    <p>Towards Designing for Everyday Thermal Experiences<br>
+      <span class="paperDetail">
+        <strong>Sosuke Ichihashi</strong>, Kosha Bedha, Noura Howell<br>
+        <a class="hover-text" href="https://doi.org/10.1145/3689050.3704423">
+          <svg style="vertical-align: middle" width="12" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M0 64C0 28.7 28.7 0 64 0L224 0l0 128c0 17.7 14.3 32 32 32l128 0 0 288c0 35.3-28.7 64-64 64L64 512c-35.3 0-64-28.7-64-64L0 64zm384 64l-128 0L256 0 384 128z"/></svg>
+          TEI '25 Pictorial (to appear)
+        </a>&nbsp;
+      </span>
+    </p>
+  </li>
   <li>
     <p>Hydroptical Thermal Feedback: Spatial Thermal Feedback Using Visible Lights and Water<br>
       <span class="paperDetail">
