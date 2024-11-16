@@ -7,6 +7,14 @@ google_analytics: UA-NNNNNNNN-N
 
 <!--<link href="{{site.baseurl}}/assets/css/main.css" rel="stylesheet">-->
 
+<a href="https://sosuke-ichihashi.com"><img src="/assets/images/SbL/SbL_origami.jpg" alt="Swell by Light" style="width:100%" class="center"></a>
+<p style="font-size:24px; font-weight:600; color:black">Swell by Light (TEI '25, to appear)<br></p>
+<br>
+
+<a href="https://sosuke-ichihashi.com"><img src="/assets/images/everyday/everyday_thumbnail.jpg" alt="Towards Designing for Everyday Thermal Experiences" style="width:100%" class="center"></a>
+<p style="font-size:24px; font-weight:600; color:black">Towards Designing for Everyday Thermal Experiences (TEI '25, to appear)<br></p>
+<br>
+
 <a href="https://youtu.be/VG1r-MGIW7Q"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback" style="width:100%" class="center"></a>
 <p style="font-size:24px; font-weight:600; color:black">Hydroptical Thermal Feedback (UIST '24)<br></p>
 <br>
