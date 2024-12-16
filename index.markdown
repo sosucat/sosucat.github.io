@@ -189,6 +189,10 @@ google_analytics: UA-NNNNNNNN-N
     flex: 1; /* Takes the remaining space */
     line-height: 1.6;
   }
+  .timeline a {
+    color: inherit;
+    text-decoration: underline;
+  }
 </style>
 
 ### Education
