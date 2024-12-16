@@ -166,48 +166,85 @@ google_analytics: UA-NNNNNNNN-N
 
 ## Experiences
 ### Education
-<ul style="list-style-type:none; font-size:16px; font-weight:450">
+<style>
+  .timeline {
+    list-style-type: none;
+    padding: 0;
+    font-size: 16px;
+    font-weight: 450;
+  }
+
+  .timeline li {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+  }
+
+  .timeline .year {
+    flex: 0 0 100px; /* Adjust width as needed */
+    font-weight: bold;
+    color: #555;
+  }
+
+  .timeline .details {
+    flex: 1; /* Takes the remaining space */
+    line-height: 1.6;
+  }
+
+  .timeline a {
+    color: inherit;
+    text-decoration: underline;
+  }
+
+  @media (max-width: 600px) {
+    .timeline li {
+      flex-direction: column;
+    }
+
+    .timeline .year {
+      margin-bottom: 0.5rem;
+    }
+  }
+</style>
+
+<ul class="timeline">
   <li>
-    <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2022-2026&nbsp; &nbsp; &nbsp;
+    <span class="year">2022-2026</span>
+    <div class="details">
       <strong>PhD in Digital Media</strong> @ <strong>Georgia Tech</strong><br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      Advised by Prof. <a style="color: inherit; text-decoration: underline;" href="https://nourahowell.com"><strong>Noura Howell</strong></a> <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      Advised by Prof. 
+      <a href="https://nourahowell.com"><strong>Noura Howell</strong></a><br>
       Topic: Augmented Perception & Non-Contact Interaction
-    </p>
+    </div>
   </li>
   <li>
-    <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2022&nbsp; &nbsp; &nbsp;
+    <span class="year">2022</span>
+    <div class="details">
       <strong>MAS in Interdisciplinary Information Studies</strong> @ <strong>University of Tokyo</strong><br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      Advised by Prof. <a style="color: inherit; text-decoration: underline;" href="https://star.rcast.u-tokyo.ac.jp/en"><strong>Masahiko Inami</strong></a><br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      Advised by Prof. 
+      <a href="https://star.rcast.u-tokyo.ac.jp/en"><strong>Masahiko Inami</strong></a><br>
       Thesis: Gaze Interaction Using Non-Contact Thermal Feedback
-    </p>
+    </div>
   </li>
   <li>
-    <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2020&nbsp; &nbsp; &nbsp;
+    <span class="year">2020</span>
+    <div class="details">
       BE in Global Engineering @ Kyoto University<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      Advised by Prof. <a style="color: inherit; text-decoration: underline;" href="http://flood.dpri.kyoto-u.ac.jp/en/">Takahiro Sayama</a><br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      Advised by Prof. 
+      <a href="http://flood.dpri.kyoto-u.ac.jp/en/">Takahiro Sayama</a><br>
       Thesis: Combinatorial Optimization for Parameter Identification of a<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       Rainfall-Runoff Model Applied to 120 Dam River Basins in Japan
-    </p>
+    </div>
   </li>
   <li>
-    <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2018&nbsp; &nbsp; &nbsp;
+    <span class="year">2018</span>
+    <div class="details">
       Exchange in ECE @ University of Texas at Austin<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       University Honor (Fall 2018)
-    </p>
+    </div>
   </li>
 </ul>
+
 
 ### Research Intern
 <ul style="list-style-type:none; font-size:16px; font-weight:450">
