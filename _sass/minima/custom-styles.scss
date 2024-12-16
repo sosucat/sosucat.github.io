@@ -80,40 +80,25 @@ ol li {
 /* Create three equal columns that sits next to each other */
 .profile {
   display: flex;
-  flex-wrap: wrap;
   align-items: flex-start;
-  gap: 20px; /* Adds spacing between columns */
 }
 
 .profImage {
-  flex: 1 1 30%; /* Allows flexible resizing */
-  max-width: 300px;
-  text-align: center;
+  margin-left: 1%;
+  margin-right: 2%;
+  flex: 32%;
+  max-width: 32%;
 }
 
 .profImage img {
-  width: 100%;
+  width: 90%;
   height: auto;
-  border-radius: 8px; /* Adds rounded corners to the image */
-}
-
-.twitter-icon {
-  width: 22px;
-  height: 22px;
-  vertical-align: middle;
+  vertical-align: top;
 }
 
 .profText {
-  flex: 1 1 65%; /* Allows flexible resizing */
-  text-align: justify;
-  line-height: 1.8;
-  font-size: 16px;
-  font-weight: 500;
-}
-
-.profText a {
-  color: inherit;
-  text-decoration: underline;
+  flex: 65%;
+  max-width: 65%;
 }
 
 .hover-text {
@@ -146,21 +131,5 @@ ol li {
   .column {
     flex: 100%;
     max-width: 100%;
-  }
-}
-
-@media (max-width: 768px) {
-  .profile {
-    flex-direction: column; /* Stacks elements vertically on small screens */
-  }
-
-  .profImage, .profText {
-    flex: 1 1 100%;
-    max-width: 100%;
-  }
-
-  .profImage img {
-    width: 80%;
-    margin: 0 auto; /* Centers the image */
   }
 }
