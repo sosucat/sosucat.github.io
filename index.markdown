@@ -182,8 +182,8 @@ google_analytics: UA-NNNNNNNN-N
 
   .timeline .year {
     flex: 0 0 100px; /* Adjust width as needed */
-    font-weight: bold;
-    color: #555;
+    text-align: right;
+    padding-right: 1rem;
   }
 
   .timeline .details {
