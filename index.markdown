@@ -4,9 +4,8 @@ title: About
 google_analytics: UA-NNNNNNNN-N
 ---
 
-
-<p style="font-size:24px; font-weight:600; color:black; text-align: left; margin-left: 0;">&nbsp; &nbsp;Resonant Atmosphere</p>
-<div class="row" style="font-size:17px; font-weight:550">
+<!--<p style="font-size:24px; font-weight:600; color:black; text-align: left; margin-left: 0;">&nbsp; &nbsp;Resonant Atmosphere</p>/-->
+<div class="row">
   <div class="column">
     <a href="https://sites.gatech.edu/futurefeelings/2024/11/14/hydroptical-thermal-feedback-uist-24/"><img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback"></a>
     Hydroptical | UIST' 24
