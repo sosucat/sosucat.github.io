@@ -20,6 +20,36 @@ ol li {
     padding: 6.5px 0px;
 }
 
+.timeline {
+    list-style-type: none;
+    padding: 0;
+    font-size: 16px;
+    font-weight: 450;
+  }
+
+  .timeline li {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 0.5rem;
+  }
+
+  .timeline .year {
+    flex: 0 0 130px; /* Adjust width as needed */
+    text-align: right;
+    padding-right: 2rem;
+  }
+
+  .timeline .details {
+    flex: 1; /* Takes the remaining space */
+    line-height: 1.6;
+  }
+
+  .timeline a {
+    color: inherit;
+    text-decoration: underline;
+  }
+
+
 .site-title {
   color: rgba(10, 10, 10, 1.0);
   font-family: 'Cairo Play', sans-serif;
