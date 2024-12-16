@@ -5,6 +5,58 @@ permalink: /portfolio/
 google_analytics: UA-NNNNNNNN-N
 ---
 
+
+
+<div class="portfolio-container" style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; padding: 20px;">
+
+  <div class="portfolio-item" style="text-align: center;">
+    <a href="https://sosuke-ichihashi.com">
+      <img src="/assets/images/SbL/SbL_origami.jpg" alt="Swell by Light" style="width:100%; border-radius: 10px;">
+    </a>
+    <p style="margin-top: 10px; font-size: 18px; font-weight: bold;">Swell by Light<br><span style="font-size: 14px; font-weight: normal;">TEI '25, to appear</span></p>
+  </div>
+
+  <div class="portfolio-item" style="text-align: center;">
+    <a href="https://sosuke-ichihashi.com">
+      <img src="/assets/images/everyday/everyday_thumbnail.jpg" alt="Towards Designing for Everyday Thermal Experiences" style="width:100%; border-radius: 10px;">
+    </a>
+    <p style="margin-top: 10px; font-size: 18px; font-weight: bold;">Towards Designing for Everyday Thermal Experiences<br><span style="font-size: 14px; font-weight: normal;">TEI '25, to appear</span></p>
+  </div>
+
+  <div class="portfolio-item" style="text-align: center;">
+    <a href="https://youtu.be/VG1r-MGIW7Q">
+      <img src="/assets/images/hydroptical/hydroptical_thumbnail.JPG" alt="Hydroptical Thermal Feedback" style="width:100%; border-radius: 10px;">
+    </a>
+    <p style="margin-top: 10px; font-size: 18px; font-weight: bold;">Hydroptical Thermal Feedback<br><span style="font-size: 14px; font-weight: normal;">UIST '24</span></p>
+  </div>
+
+  <div class="portfolio-item" style="text-align: center;">
+    <a href="https://shigeodayo.me/works/swarm_body/">
+      <img src="/assets/images/swarmbody/swarm_body_teaser.jpg" alt="Swarm Body" style="width:100%; border-radius: 10px;">
+    </a>
+    <p style="margin-top: 10px; font-size: 18px; font-weight: bold;">Swarm Body<br><span style="font-size: 14px; font-weight: normal;">CHI '24</span></p>
+  </div>
+
+  <!-- Add similar blocks for other portfolio items -->
+
+</div>
+
+<style>
+  .portfolio-container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .portfolio-item img {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .portfolio-item img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  }
+</style>
+
 <!--<link href="{{site.baseurl}}/assets/css/main.css" rel="stylesheet">-->
 
 <a href="https://sosuke-ichihashi.com"><img src="/assets/images/SbL/SbL_origami.jpg" alt="Swell by Light" style="width:50%" class="center"></a>
