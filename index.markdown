@@ -183,7 +183,7 @@ google_analytics: UA-NNNNNNNN-N
   .timeline .year {
     flex: 0 0 120px; /* Adjust width as needed */
     text-align: right;
-    padding-right: 1rem;
+    padding-right: 2rem;
   }
 
   .timeline .details {
@@ -237,105 +237,90 @@ google_analytics: UA-NNNNNNNN-N
 
 
 ### Research Intern
-<ul style="list-style-type:none; font-size:16px; font-weight:450">
+<ul class="timeline">
   <li>
-    <p>
-      2024.07-2024.08&nbsp; &nbsp; &nbsp;
+    <span class="year">2024.07-2024.08</span>
+    <div class="details">
       <strong>Ho Haptics Lab</strong> @ <strong>Kyushu University</strong>, Japan<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       Research Intern advised by 
-      Prof. <a style="color: inherit; text-decoration: underline;" href="https://sites.google.com/view/hohapticslab"><strong>Hsin-Ni Ho</strong></a> <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      Prof. <a href="https://sites.google.com/view/hohapticslab"><strong>Hsin-Ni Ho</strong></a><br>
       Topic: Development of Hydroptical Thermal Display
-    </p>
+    </div>
   </li>
   <li>
-    <p>
-      2023.08-2024.02&nbsp; &nbsp; &nbsp;
+    <span class="year">2023.08-2024.02</span>
+    <div class="details">
       <strong>Code Craft Lab</strong> @ <strong>Georgia Tech</strong>, USA<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      Independent Study advised by Prof. <a style="color: inherit; text-decoration: underline;" href="https://www.codecraft.group/hyunjoo-oh"><strong>HyunJoo Oh</strong></a><br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      Independent Study advised by Prof. 
+      <a href="https://www.codecraft.group/hyunjoo-oh"><strong>HyunJoo Oh</strong></a><br>
       Topic: Swell by Light (TEI '25 Pictorial)
-    </p>
+    </div>
   </li>
   <li>
-    <p>
-      2023.05-2023.08&nbsp; &nbsp; &nbsp;
+    <span class="year">2023.05-2023.08</span>
+    <div class="details">
       Interaction Group @ <strong>Omron Sinic X</strong>, Japan<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      Research Intern advised by Dr. <a style="color: inherit; text-decoration: underline;" href="https://shigeodayo.me"><strong>Shigeo Yoshida</strong></a><br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      Research Intern advised by Dr. 
+      <a href="https://shigeodayo.me"><strong>Shigeo Yoshida</strong></a><br>
       Topic: Swarm Body (CHI '24)
-    </p>
+    </div>
   </li>
 </ul>
 
 ### Teaching
-<ul style="list-style-type:none; font-size:16px; font-weight:450">
+<ul class="timeline">
   <li>
-    <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2024&nbsp; &nbsp; &nbsp;
+    <span class="year">2024</span>
+    <div class="details">
       TA in LMC 2700 Intro to Computational Media<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       @ Georgia Tech, USA
-    </p>
+    </div>
   </li>
   <li>
-    <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <span class="year">2024</span>
+    <div class="details">
       Instructor in LMC 2400 Intro to Media Studies<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       @ Georgia Tech, USA
-    </p>
+    </div>
   </li>
-  
   <li>
-    <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2023&nbsp; &nbsp; &nbsp;
+    <span class="year">2023</span>
+    <div class="details">
       TA in LMC 6130 Computer as Expressive Medium<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       @ Georgia Tech, USA
-    </p>
+    </div>
   </li>
-  
   <li>
-    <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2019&nbsp; &nbsp; &nbsp;
+    <span class="year">2019</span>
+    <div class="details">
       Translator in JSPS Science Dialogue Program<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      @ Akashi Kita Science High School, Japan &nbsp;
-      <a class="hover-text" href="https://www.jsps.go.jp/j-sdialogue/data/03_past_lectures/201911/f1114_3457.pdf">
+      @ Akashi Kita Science High School, Japan
+      <a href="https://www.jsps.go.jp/j-sdialogue/data/03_past_lectures/201911/f1114_3457.pdf">
         <svg style="vertical-align: middle" width="12" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M0 64C0 28.7 28.7 0 64 0L224 0l0 128c0 17.7 14.3 32 32 32l128 0 0 288c0 35.3-28.7 64-64 64L64 512c-35.3 0-64-28.7-64-64L0 64zm384 64l-128 0L256 0 384 128z"/></svg>
         report
       </a>
-    </p>
+    </div>
   </li>
-  
   <li>
-    <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2018&nbsp; &nbsp; &nbsp;
+    <span class="year">2018</span>
+    <div class="details">
       Instructor in Japanese History<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      @ Johan Heinrich Pestalozzi Elementary School, Nothern Macedonia
-    </p>
+      @ Johan Heinrich Pestalozzi Elementary School, Northern Macedonia
+    </div>
   </li>
-  
   <li>
-    <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2017&nbsp; &nbsp; &nbsp;
+    <span class="year">2017</span>
+    <div class="details">
       Instructor in Kyoto University Disaster Prevention School<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       @ Five elementary schools in Makassar, Indonesia
-    </p>
+    </div>
   </li>
   <li>
-    <p>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <span class="year">2017</span>
+    <div class="details">
       TA in Engineering Science Global Communication Programme<br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       @ Ngee Ann Polytechnic, Singapore
-    </p>
+    </div>
   </li>
 </ul>
 
