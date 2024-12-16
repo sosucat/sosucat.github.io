@@ -54,7 +54,7 @@ google_analytics: UA-NNNNNNNN-N
     </p>
   </div>
   <div class="profText">
-    <p style="font-size: 16px; font-weight:500; text-align: justify; line-height:2.0">
+    <p style="font-size: 16px; font-weight:450; text-align: justify; line-height:2.0">
       <em>What if the atmosphere (air temperature, smell, humidity, brightness, sound) dynamically changed according to your actions and states?</em><br>
       I am a Ph.D. student in <a style="color:inherit; text-decoration: underline;" href="https://sites.gatech.edu/futurefeelings/team/">Future Feelings Lab</a> at Georgia Tech (advisor: <a style="color: inherit; text-decoration: underline;" href="https://nourahowell.com/">Noura Howell</a>).<br>
       I envision <em>Interactive Atmosphere</em>, the world where the atmosphere and surroundings dynamically change based on our actions, bodily states, and emotions.
@@ -166,37 +166,6 @@ google_analytics: UA-NNNNNNNN-N
 
 ## Experiences
 ### Education
-<style>
-  .timeline {
-    list-style-type: none;
-    padding: 0;
-    font-size: 16px;
-    font-weight: 450;
-  }
-
-  .timeline li {
-    display: flex;
-    flex-wrap: wrap;
-    margin-bottom: 0.5rem;
-  }
-
-  .timeline .year {
-    flex: 0 0 130px; /* Adjust width as needed */
-    text-align: right;
-    padding-right: 2rem;
-  }
-
-  .timeline .details {
-    flex: 1; /* Takes the remaining space */
-    line-height: 1.6;
-  }
-
-  .timeline a {
-    color: inherit;
-    text-decoration: underline;
-  }
-</style>
-
 <ul class="timeline">
   <li>
     <span class="year">2022-2026</span>
