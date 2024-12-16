@@ -177,11 +177,11 @@ google_analytics: UA-NNNNNNNN-N
   .timeline li {
     display: flex;
     flex-wrap: wrap;
-    margin-bottom: 1.5rem;
+    margin-bottom: 0.5rem;
   }
 
   .timeline .year {
-    flex: 0 0 120px; /* Adjust width as needed */
+    flex: 0 0 130px; /* Adjust width as needed */
     text-align: right;
     padding-right: 2rem;
   }
@@ -253,7 +253,7 @@ google_analytics: UA-NNNNNNNN-N
       <strong>Code Craft Lab</strong> @ <strong>Georgia Tech</strong>, USA<br>
       Independent Study advised by Prof. 
       <a href="https://www.codecraft.group/hyunjoo-oh"><strong>HyunJoo Oh</strong></a><br>
-      Topic: Swell by Light (TEI '25 Pictorial)
+      Topic: Swell by Light (TEI '25)
     </div>
   </li>
   <li>
@@ -277,7 +277,7 @@ google_analytics: UA-NNNNNNNN-N
     </div>
   </li>
   <li>
-    <span class="year">2024</span>
+    <span class="year"></span>
     <div class="details">
       Instructor in LMC 2400 Intro to Media Studies<br>
       @ Georgia Tech, USA
@@ -316,7 +316,7 @@ google_analytics: UA-NNNNNNNN-N
     </div>
   </li>
   <li>
-    <span class="year">2017</span>
+    <span class="year"></span>
     <div class="details">
       TA in Engineering Science Global Communication Programme<br>
       @ Ngee Ann Polytechnic, Singapore
