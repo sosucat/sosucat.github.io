@@ -77,15 +77,6 @@ ol li {
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Subtle shadow */
 }
 
-/* Click effect: Full-page zoom with dark overlay */
-.column img:active {
-  transform: scale(3); /* Larger zoom */
-  transition: transform 1.5s ease, filter 1.5s ease; /* Smooth transition for click effect */
-  filter: brightness(0.3); /* Darken the image */
-  z-index: 9999; /* Bring image to the front */
-  position: fixed; /* Make image fill the page */
-}
-
 /* Create three equal columns that sits next to each other */
 .profile {
   display: flex;
