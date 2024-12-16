@@ -12,7 +12,6 @@ google_analytics: UA-NNNNNNNN-N
   <div class="portfolio-item" style="text-align: center;">
     <a href="https://sosuke-ichihashi.com/portfolio">
       <img src="/assets/images/SbL/SbL_origami.jpg" alt="Swell by Light" style="width:100%; border-radius: 10px;">
-      <div class="hover-description">Swell by Light is an approachable technique for fabricating raised textures on paper surfaces.</div>
     </a>
     <p style="margin-top: 10px; font-size: 18px; font-weight: bold;">Swell by Light<br><span style="font-size: 14px; font-weight: normal;">TEI '25, to appear</span></p>
   </div>
@@ -102,26 +101,6 @@ google_analytics: UA-NNNNNNNN-N
   .portfolio-item img:hover {
     transform: scale(1.05);
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-  }
-
-  .hover-description {
-    position: absolute;
-    bottom: 10%;
-    left: 50%;
-    transform: translateX(-50%);
-    background: rgba(0, 0, 0, 0.7);
-    color: white;
-    padding: 10px 15px;
-    border-radius: 8px;
-    opacity: 0;
-    transition: opacity 0.3s ease;
-    pointer-events: none;
-    text-align: center;
-    font-size: 14px;
-  }
-
-  .portfolio-item:hover .hover-description {
-    opacity: 1;
   }
   
 </style>
