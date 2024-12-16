@@ -230,7 +230,7 @@ google_analytics: UA-NNNNNNNN-N
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       Independent Study advised by Prof. <a style="color: inherit; text-decoration: underline;" href="https://www.codecraft.group/hyunjoo-oh"><strong>HyunJoo Oh</strong></a><br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      Topic: 2.5D Fabrication (paper under review)
+      Topic: Swell by Light (TEI '25 Pictorial)
     </p>
   </li>
   <li>
