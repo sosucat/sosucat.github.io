@@ -165,6 +165,32 @@ google_analytics: UA-NNNNNNNN-N
 <br>
 
 ## Experiences
+<style>
+  .timeline {
+    list-style-type: none;
+    padding: 0;
+    font-size: 16px;
+    font-weight: 450;
+  }
+  
+  .timeline li {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 0.5rem;
+  }
+  
+  .timeline .year {
+    flex: 0 0 130px; /* Adjust width as needed */
+    text-align: right;
+    padding-right: 2rem;
+  }
+  
+  .timeline .details {
+    flex: 1; /* Takes the remaining space */
+    line-height: 1.6;
+  }
+</style>
+
 ### Education
 <ul class="timeline">
   <li>
