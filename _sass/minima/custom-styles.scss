@@ -52,6 +52,8 @@ ol li {
   display: flex;
   flex-wrap: wrap;
   padding: 0 4px;
+  font-size: 17px;
+  font-weight: 550;
 }
 
 /* Create three equal columns that sits next to each other */
@@ -65,7 +67,13 @@ ol li {
   margin-top: 4px;
   vertical-align: middle;
   width: 100%;
+  border-radius: 15px;/* Rounds corners */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;/* Smooth hover effect */
 }
+
+.column img:hover {
+  transform: translateY(-10px); /* Floating effect*/
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Adds shadow on hover */
 
 /* Create three equal columns that sits next to each other */
 .profile {
