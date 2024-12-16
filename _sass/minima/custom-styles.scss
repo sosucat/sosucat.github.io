@@ -73,19 +73,17 @@ ol li {
 
 /* Hover effect: Slight zoom-in and float */
 .column img:hover {
-  transform: scale(1.1) translateY(-10px); /* Zoom and float */
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+  transform: scale(1.05); /* Zoom and float */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Subtle shadow */
 }
+
 /* Click effect: Full-page zoom with dark overlay */
 .column img:active {
   transform: scale(3); /* Larger zoom */
-  transition: transform 0.5s ease, filter 0.5s ease; /* Smooth transition for click effect */
+  transition: transform 1.5s ease, filter 1.5s ease; /* Smooth transition for click effect */
   filter: brightness(0.3); /* Darken the image */
   z-index: 9999; /* Bring image to the front */
   position: fixed; /* Make image fill the page */
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%) scale(3); /* Center and zoom */
 }
 
 /* Create three equal columns that sits next to each other */
