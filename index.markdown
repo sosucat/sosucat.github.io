@@ -181,7 +181,7 @@ google_analytics: UA-NNNNNNNN-N
   }
 
   .timeline .year {
-    flex: 0 0 100px; /* Adjust width as needed */
+    flex: 0 0 120px; /* Adjust width as needed */
     text-align: right;
     padding-right: 1rem;
   }
@@ -194,16 +194,6 @@ google_analytics: UA-NNNNNNNN-N
   .timeline a {
     color: inherit;
     text-decoration: underline;
-  }
-
-  @media (max-width: 600px) {
-    .timeline li {
-      flex-direction: column;
-    }
-
-    .timeline .year {
-      margin-bottom: 0.5rem;
-    }
   }
 </style>
 
