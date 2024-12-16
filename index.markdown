@@ -49,14 +49,15 @@ google_analytics: UA-NNNNNNNN-N
     <img src="assets/images/ichihashi_headshot.jpg" alt="profile pic">
     <p style="line-height:0.8">
       <br>
-      &nbsp;<a  class="hover-text" style="font-size: 18px" href="/assets/pdfs/Sosuke_Ichihashi_CV_Nov_2024.pdf">Download CV</a>
-      | <a class="hover-text" style="font-size: 18px" href="https://twitter.com/RefreshSource">Follow me <img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:22px;height:22px;vertical-align:middle"></a>
+      &nbsp;<a class="hover-text" href="/assets/pdfs/Sosuke_Ichihashi_CV_Nov_2024.pdf">Download CV</a>
+      | <a class="hover-text" href="https://twitter.com/RefreshSource">Follow me 
+        <img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" class="twitter-icon"></a>
     </p>
   </div>
   <div class="profText">
-    <p style="font-size: 16px; font-weight:500; text-align: justify; line-height:2.0">
+    <p>
       <em>What if the atmosphere (air temperature, smell, lighting, sound) dynamically changed according to your actions and states?</em><br>
-      I am a Ph.D. student in <a style="color:inherit; text-decoration: underline;" href="https://sites.gatech.edu/futurefeelings/team/">Future Feelings Lab</a> at Georgia Tech (advisor: <a style="color: inherit; text-decoration: underline;" href="https://nourahowell.com/">Noura Howell</a>).<br>
+      I am a Ph.D. student in <a href="https://sites.gatech.edu/futurefeelings/team/">Future Feelings Lab</a> at Georgia Tech (advisor: <a href="https://nourahowell.com/">Noura Howell</a>).<br>
       I envision <em>Resonant Atmosphere</em>, the world where the atmosphere and surroundings dynamically change based on our actions, bodily states, and emotions.
       Humans have long been using a variety of objects within their reach. For example, we take notes with a pen, cook dishes with a knife and a pot, and type texts with a keyboard.
       The resulting changes always occur within these objects; i.e., characters on a notebook, dishes, and texts or visual effects on a monitor.
@@ -64,7 +65,6 @@ google_analytics: UA-NNNNNNNN-N
     </p>
   </div>
 </div>
-<br>
 
 
 ## Publications
