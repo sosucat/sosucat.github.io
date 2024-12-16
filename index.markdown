@@ -55,12 +55,12 @@ google_analytics: UA-NNNNNNNN-N
   </div>
   <div class="profText">
     <p style="font-size: 16px; font-weight:500; text-align: justify; line-height:2.0">
-      <em>What if the atmosphere (air temperature, smell, lighting, sound) dynamically changed according to your actions and states?</em><br>
+      <em>What if the atmosphere (air temperature, smell, humidity, brightness, sound) dynamically changed according to your actions and states?</em><br>
       I am a Ph.D. student in <a style="color:inherit; text-decoration: underline;" href="https://sites.gatech.edu/futurefeelings/team/">Future Feelings Lab</a> at Georgia Tech (advisor: <a style="color: inherit; text-decoration: underline;" href="https://nourahowell.com/">Noura Howell</a>).<br>
-      I envision <em>Resonant Atmosphere</em>, the world where the atmosphere and surroundings dynamically change based on our actions, bodily states, and emotions.
+      I envision <em>Interactive Atmosphere</em>, the world where the atmosphere and surroundings dynamically change based on our actions, bodily states, and emotions.
       Humans have long been using a variety of objects within their reach. For example, we take notes with a pen, cook dishes with a knife and a pot, and type texts with a keyboard.
-      The resulting changes always occur within these objects; i.e., characters on a notebook, dishes, and texts or visual effects on a monitor.
-      In Resonant Atmosphere, not only objects around us but also the atmosphere, something out of our reach and surrounding us, changes interactively.
+      The resulting changes always occur within these objects; i.e., characters on a notebook, dishes, and texts or visual representations on a computer monitor.
+      In Interactive Atmosphere, not only objects around us but also the atmosphere, something out of our reach and surrounding us, changes interactively.
     </p>
   </div>
 </div>
@@ -75,7 +75,7 @@ google_analytics: UA-NNNNNNNN-N
         <strong>Sosuke Ichihashi</strong>, Noura Howell, HyunJoo Oh<br>
         <a class="hover-text" href="https://doi.org/10.1145/3689050.3704423">
           <svg style="vertical-align: middle" width="12" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M0 64C0 28.7 28.7 0 64 0L224 0l0 128c0 17.7 14.3 32 32 32l128 0 0 288c0 35.3-28.7 64-64 64L64 512c-35.3 0-64-28.7-64-64L0 64zm384 64l-128 0L256 0 384 128z"/></svg>
-          TEI '25 Pictorial (to appear)
+          TEI '25 (to appear)
         </a>&nbsp;
       </span>
     </p>
@@ -86,7 +86,7 @@ google_analytics: UA-NNNNNNNN-N
         <strong>Sosuke Ichihashi</strong>, Kosha Bedha, Noura Howell<br>
         <a class="hover-text" href="https://doi.org/10.1145/3689050.3704423">
           <svg style="vertical-align: middle" width="12" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M0 64C0 28.7 28.7 0 64 0L224 0l0 128c0 17.7 14.3 32 32 32l128 0 0 288c0 35.3-28.7 64-64 64L64 512c-35.3 0-64-28.7-64-64L0 64zm384 64l-128 0L256 0 384 128z"/></svg>
-          TEI '25 Pictorial (to appear)
+          TEI '25 (to appear)
         </a>&nbsp;
       </span>
     </p>
