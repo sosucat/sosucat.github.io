@@ -10,14 +10,14 @@ google_analytics: UA-NNNNNNNN-N
 <div class="portfolio-container" style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; padding: 20px;">
 
   <div class="portfolio-item" style="text-align: center;">
-    <a href="https://sosuke-ichihashi.com/portfolio">
+    <a href="https://doi.org/10.1145/3689050.3704420">
       <img src="/assets/images/SbL/SbL_origami.jpg" alt="Swell by Light" style="width:100%; border-radius: 10px;">
     </a>
     <p style="margin-top: 10px; font-size: 18px; font-weight: bold;">Swell by Light<br><span style="font-size: 14px; font-weight: normal;">TEI '25, to appear</span></p>
   </div>
 
   <div class="portfolio-item" style="text-align: center;">
-    <a href="https://sosuke-ichihashi.com/portfolio">
+    <a href="https://doi.org/10.1145/3689050.3704423">
       <img src="/assets/images/everyday/everyday_thumbnail.jpg" alt="Everyday Thermal Experiences" style="width:100%; border-radius: 10px;">
     </a>
     <p style="margin-top: 10px; font-size: 18px; font-weight: bold;">Everyday Thermal Experiences<br><span style="font-size: 14px; font-weight: normal;">TEI '25, to appear</span></p>
