@@ -67,14 +67,14 @@ ol li {
   margin-top: 4px;
   vertical-align: middle;
   width: 100%;
-  border-radius: 15px;/* Rounds corners */
-  transition: transform 0.3s ease, box-shadow 0.3s ease;/* Smooth hover effect */
+  // border-radius: 15px;/* Rounds corners */
+  transition: transform 0.2s ease, box-shadow 0.2s ease;/* Smooth hover effect */
 }
 
 /* Hover effect: Slight zoom-in and float */
 .column img:hover {
-  transform: scale(1.04); /* Zoom and float */
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+  transform: scale(1.02); /* Zoom and float */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow */
 }
 
 /* Create three equal columns that sits next to each other */
