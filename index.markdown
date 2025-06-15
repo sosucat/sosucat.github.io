@@ -35,9 +35,6 @@ google_analytics: UA-NNNNNNNN-N
     <a href="https://doi.org/10.1145/3689050.3704423"><img src="/assets/images/everyday/everyday_thumbnail.jpg" alt="Everyday thumbnail"></a>
     Everyday Thermal | TEI '25
     <br><br>
-    <a href="https://sosuke-ichihashi.com/heatophone/"><img src="/assets/images/heatophone/heatophone_grid.jpg" alt="Heat-O-Phone"></a>
-    Heat-O-Phone | Guthman Fair '23
-    <br><br>
   </div>
 </div>
 <br>
@@ -350,6 +347,10 @@ google_analytics: UA-NNNNNNNN-N
 
 ## Other Works
 <div class="row" style="font-size:16px; font-weight:450">
+  <div class="column">
+   <a href="https://sosuke-ichihashi.com/heatophone/"><img src="/assets/images/heatophone/heatophone_grid.jpg" alt="Heat-O-Phone"></a>
+    Heat-O-Phone | Guthman Fair '23
+  </div>
   <div class="column">
    <a href="https://sosuke-ichihashi.com/momentochroma/"><img src="/assets/images/momentochroma/momentochroma_grid.jpg" alt="MomentoChroma"></a>
     MomentoChroma
