@@ -13,14 +13,14 @@ google_analytics: UA-NNNNNNNN-N
     <a href="https://doi.org/10.1145/3689050.3704420">
       <img src="/assets/images/SbL/SbL_origami.jpg" alt="Swell by Light" style="width:100%;">
     </a>
-    <p style="margin-top: 10px; font-size: 18px; font-weight: bold;">Swell by Light<br><span style="font-size: 14px; font-weight: normal;">TEI '25, to appear</span></p>
+    <p style="margin-top: 10px; font-size: 18px; font-weight: bold;">Swell by Light<br><span style="font-size: 14px; font-weight: normal;">TEI '25</span></p>
   </div>
 
   <div class="portfolio-item" style="text-align: center;">
     <a href="https://doi.org/10.1145/3689050.3704423">
       <img src="/assets/images/everyday/everyday_thumbnail.jpg" alt="Everyday Thermal Experiences" style="width:100%;">
     </a>
-    <p style="margin-top: 10px; font-size: 18px; font-weight: bold;">Everyday Thermal Experiences<br><span style="font-size: 14px; font-weight: normal;">TEI '25, to appear</span></p>
+    <p style="margin-top: 10px; font-size: 18px; font-weight: bold;">Everyday Thermal Experiences<br><span style="font-size: 14px; font-weight: normal;">TEI '25</span></p>
   </div>
 
   <div class="portfolio-item" style="text-align: center;">
