@@ -29,7 +29,7 @@ google_analytics: UA-NNNNNNNN-N
     <br><br>
   </div>
   <div class="column">
-    <a href="https://doi.org/10.1145/3689050.3704420"><img src="/assets/images/SbL/SbL_origami.jpg" alt="Swell by Light thumbnail"></a>
+    <a href="https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/"><img src="/assets/images/SbL/SbL_origami.jpg" alt="Swell by Light thumbnail"></a>
     Swell by Light | TEI '25
     <br><br>
     <a href="https://doi.org/10.1145/3689050.3704423"><img src="/assets/images/everyday/everyday_thumbnail.jpg" alt="Everyday thumbnail"></a>
