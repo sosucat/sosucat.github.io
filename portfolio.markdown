@@ -10,7 +10,7 @@ google_analytics: UA-NNNNNNNN-N
 <div class="portfolio-container" style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; padding: 20px;">
 
   <div class="portfolio-item" style="text-align: center;">
-    <a href="https://doi.org/10.1145/3689050.3704420">
+    <a href="https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/">
       <img src="/assets/images/SbL/SbL_origami.jpg" alt="Swell by Light" style="width:100%;">
     </a>
     <p style="margin-top: 10px; font-size: 18px; font-weight: bold;">Swell by Light<br><span style="font-size: 14px; font-weight: normal;">TEI '25</span></p>
