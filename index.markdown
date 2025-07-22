@@ -46,8 +46,9 @@ google_analytics: UA-NNNNNNNN-N
     <img src="assets/images/ichihashi_headshot.jpg" alt="profile pic">
     <p style="line-height:0.8">
       <br>
-      &nbsp;<a  class="hover-text" style="font-size: 18px" href="/assets/pdfs/Sosuke_Ichihashi_CV_Nov_2024.pdf">Download CV</a>
-      | <a class="hover-text" style="font-size: 18px" href="https://twitter.com/RefreshSource">Follow me <img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:22px;height:22px;vertical-align:middle"></a>
+      &nbsp;<a  class="hover-text" style="font-size: 16px" href="/assets/pdfs/Sosuke_Ichihashi_CV_Nov_2024.pdf">Download CV</a>
+      | <a class="hover-text" style="font-size: 16px" href="https://twitter.com/RefreshSource">Follow me <img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:22px;height:22px;vertical-align:middle"></a>
+      | <a class="hover-text" style="font-size: 16px" href="https://sosuke-ichihashi.com/value/">My value</a>
     </p>
   </div>
   <div class="profText">
