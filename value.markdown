@@ -165,8 +165,8 @@ google_analytics: UA-NNNNNNNN-N
   <div id="submission_en">
     <h2>Submission Policy</h2>
     <ul>
-      <li>Check with other authors if we can submit the paper at least a few weeks before the deadline.</li>
-      <li>In principle, submit full papers.</li>
+      <li><strong>Check with other authors if we can submit the paper at least a few weeks before the deadline.</strong>
+      <li><strong>In principle, submit full papers.</strong>
       <li>Exception:
         <ul>
           <li>Peer-reviewed demos in experience halls (e.g., SIGGRAPH E-Tech) if approved after the demos to the PI.</li>
