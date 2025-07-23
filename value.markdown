@@ -45,12 +45,12 @@ google_analytics: UA-NNNNNNNN-N
         <li>
           <strong>Originality, advancement, and surprise</strong>
           <ul>
-            <li>“OK but no Wow” is not enough.</li>
+            <li>"Wow" is important.</li>
             <li>The best research makes people say: “I never thought of that!” or “This changed how I see the world.”</li>
-            <li>Similar to patents: novelty, usefulness, and inventiveness are essential.</li>
+            <li>Similar to patents: not only novelty and usefulness but also advancement are essential.</li>
           </ul>
         </li>
-        <li>
+        <li>s
           <strong>Clear claim and research question</strong>
           <ul>
             <li>Can you clearly state what your research is about?</li>
@@ -69,7 +69,7 @@ google_analytics: UA-NNNNNNNN-N
           <strong>Emotional impact and shifting perspectives</strong>
           <ul>
             <li>Even without technical novelty, research can be valuable if it touches the heart or challenges viewpoints.</li>
-            <li>Example: Research on “remote mourning” by Uryu-san.</li>
+            <li>Example: Design research for specific audience and situations.</li>
           </ul>
         </li>
         <li>
@@ -82,7 +82,6 @@ google_analytics: UA-NNNNNNNN-N
         <li>
           <strong>Exploratory thinking and flexibility in design</strong>
           <ul>
-            <li>For example, reconsider interaction from the idea of "zone flexibilization."</li>
             <li>Don’t be afraid to redesign from scratch to achieve surprising results.</li>
           </ul>
         </li>
@@ -112,7 +111,6 @@ google_analytics: UA-NNNNNNNN-N
           <strong>Just a system with no technical novelty</strong>
           <ul>
             <li>Re-implementing existing ideas with nice design ≠ publishable research.</li>
-            <li>Example: sniper-style focus games using known mechanics.</li>
           </ul>
         </li>
         <li>
@@ -128,13 +126,6 @@ google_analytics: UA-NNNNNNNN-N
             <li>Don't cling to past work just because you’ve spent time on it.</li>
             <li>Sometimes, pivoting is the best option.</li>
             <li><a href="https://en.wikipedia.org/wiki/Sunk_cost" target="_blank">Sunk cost fallacy</a></li>
-          </ul>
-        </li>
-        <li>
-          <strong>Changing concept or system after submission</strong>
-          <ul>
-            <li>It’s academically dishonest to shift the premise after peer review.</li>
-            <li>If the direction has changed drastically, consider withdrawing and reworking.</li>
           </ul>
         </li>
         <li>
@@ -302,21 +293,21 @@ google_analytics: UA-NNNNNNNN-N
           <strong>感動や物の見方を変える力</strong>
           <ul>
             <li>技術的に新しくなくても、人の心に響く研究は評価される</li>
-            <li>例：瓜生さんの「遠隔弔い」研究</li>
+            <li>例：特定の人と状況に響くデザイン研究など</li>
           </ul>
         </li>
         <li>
           <strong>汎化・原理発見を目指す</strong>
           <ul>
             <li>One Idea / One Solution を超えて、原理や応用を見出す</li>
-            <li>groundbreaking な研究は異なるスケールの3種以上の検証が多い</li>
+            <li>軸を複数持つことで見えてくることが大事</li>
           </ul>
         </li>
         <li>
           <strong>探索的な姿勢と再設計の柔軟さ</strong>
           <ul>
-            <li>「ゾーンの自在化」などの視点から、要素を根本的に再設計</li>
             <li>驚きや効果を発見的に追求する</li>
+            <li>作る中で見出した新たな視点に基づく根本的な再設計も重要</li>
           </ul>
         </li>
         <li>
@@ -324,14 +315,14 @@ google_analytics: UA-NNNNNNNN-N
           <ul>
             <li>論文執筆力だけでなく、人の心を動かす表現力が必要</li>
             <li>例：角野隼斗さんのピアノ演奏動画（<a href="https://twitter.com/drinami/status/1084772440465534976" target="_blank">リンク</a>）</li>
-            <li>「楽譜通りの演奏＝正確さ」＋「周囲の笑顔＝感動の力」</li>
+            <li>「楽譜通りの演奏＝正確さ」とは異なる「周囲の笑顔＝感動を生む力」</li>
           </ul>
         </li>
         <li>
           <strong>遊び心・創造性・文化性</strong>
           <ul>
             <li>三菱スーパーヘリ、ホンダの一球車など、遊びと創造性の融合が記憶に残る</li>
-            <li>「遊びがないとうまく動かない」</li>
+            <li>「人生にもプロジェクトにも機構にも遊びがないとうまく動かない」</li>
           </ul>
         </li>
       </ul>
@@ -342,8 +333,7 @@ google_analytics: UA-NNNNNNNN-N
         <li>
           <strong>技術的新規性のない単なるコンテンツ</strong>
           <ul>
-            <li>既存技術の組み合わせではEtechなどでは評価されない</li>
-            <li>例：スナイパーゲーム的な疑似集中</li>
+            <li>既存技術の組み合わせでは評価されない</li>
           </ul>
         </li>
         <li>
@@ -359,13 +349,6 @@ google_analytics: UA-NNNNNNNN-N
             <li>時間をかけたからこそ捨てられなくなる心理に注意</li>
             <li>時には見切ってピボットする勇気が必要</li>
             <li><a href="https://ja.wikipedia.org/wiki/コンコルド効果" target="_blank">コンコルド効果</a></li>
-          </ul>
-        </li>
-        <li>
-          <strong>投稿後のコンセプト変更</strong>
-          <ul>
-            <li>投稿後に大幅に設計を変えるのは学術的に不誠実</li>
-            <li>根本からやり直すなら投稿は見送るべき</li>
           </ul>
         </li>
         <li>
