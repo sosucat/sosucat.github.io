@@ -75,6 +75,12 @@ ol li {
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
+/* Hover effect: Slight zoom-in and float */
+.column img:hover {
+  transform: translateY(-0.3125rem) scale(1.01); /* Zoom and float */
+  box-shadow: 0 0.125rem 0.5rem rgba(0, 0, 0, 0.2); /* Subtle shadow */
+}
+
 /* Profile layout */
 .profile {
   display: flex;
