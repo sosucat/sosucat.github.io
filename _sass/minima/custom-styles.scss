@@ -71,48 +71,48 @@ ol li {
   transition: transform 0.15s ease, box-shadow 0.15s ease;/* Smooth hover effect */
 }
 
-/* Hover effect: Slight zoom-in and float */
-.column img:hover {
-  transform: scale(1.01); /* Zoom and float */
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
-}
+// /* Hover effect: Slight zoom-in and float */
+// .column img:hover {
+//   transform: scale(1.01); /* Zoom and float */
+//   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+// }
 
-/* Create three equal columns that sits next to each other */
-.profile {
-  display: flex;
-  align-items: flex-start;
-}
+// /* Create three equal columns that sits next to each other */
+// .profile {
+//   display: flex;
+//   align-items: flex-start;
+// }
 
-.profImage {
-  margin-left: 1%;
-  margin-right: 2%;
-  flex: 32%;
-  max-width: 32%;
-}
+// .profImage {
+//   margin-left: 1%;
+//   margin-right: 2%;
+//   flex: 32%;
+//   max-width: 32%;
+// }
 
-.profImage img {
-  width: 90%;
-  height: auto;
-  vertical-align: top;
-  // border-radius: 15px;/* Rounds corners */
-}
+// .profImage img {
+//   width: 90%;
+//   height: auto;
+//   vertical-align: top;
+//   // border-radius: 15px;/* Rounds corners */
+// }
 
-.profText {
-  flex: 65%;
-  max-width: 65%;
-}
+// .profText {
+//   flex: 65%;
+//   max-width: 65%;
+// }
 
-.hover-text {
-  color:#0096b0; /* Initial color of the text */
-  font-weight: bold;
-  transition: color 0.3s ease; /* Smooth transition for the color change */
-}
+// .hover-text {
+//   color:#0096b0; /* Initial color of the text */
+//   font-weight: bold;
+//   transition: color 0.3s ease; /* Smooth transition for the color change */
+// }
 
-.hover-text:hover {
-  color: #00d9ff; /* Color of the text when hovered */
-  font-weight: bold;
-  text-decoration: underline;
-}
+// .hover-text:hover {
+//   color: #00d9ff; /* Color of the text when hovered */
+//   font-weight: bold;
+//   text-decoration: underline;
+// }
 
 .paperDetail {
   font-size: 15px;
@@ -120,17 +120,114 @@ ol li {
 }
 
 /* Responsive layout - makes a two column-layout instead of three columns */
-@media screen and (max-width: 800px) {
-  .column {
-    flex: 50%;
-    max-width: 50%;
+// @media screen and (max-width: 800px) {
+//   .column {
+//     flex: 50%;
+//     max-width: 50%;
+//   }
+// }
+
+// /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+// @media screen and (max-width: 600px) {
+//   .column {
+//     flex: 100%;
+//     max-width: 100%;
+//   }
+// }
+
+/* Profile layout */
+.profile {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  margin: 2rem 0;
+  flex-wrap: wrap; /* allows stacking when screen shrinks */
+}
+
+/* Profile image */
+.profImage {
+  flex: 1 1 250px; /* grows, shrinks, min width */
+  max-width: 300px;
+}
+
+.profImage img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px; /* optional */
+}
+
+/* Profile text */
+.profText {
+  flex: 2 1 400px;
+  font-size: 1rem;
+  font-weight: 450;
+  line-height: 1.8;
+  text-align: justify;
+}
+
+/* Links under profile image */
+.profile-links {
+  margin-top: 0.8rem;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.profile-links a {
+  font-size: 1rem;
+  margin: 0 0.4rem;
+}
+
+.profile-links span {
+  color: #888;
+}
+
+.social-icon {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  margin-left: 4px;
+}
+
+/* Hover link styles */
+.hover-text {
+  color:#0096b0;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+.hover-text:hover {
+  color: #00d9ff;
+  text-decoration: underline;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .profile {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .profText {
+    text-align: left; /* keep readability */
+    margin-top: 1.5rem;
+  }
+
+  .profile-links {
+    font-size: 1rem;
   }
 }
 
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    flex: 100%;
-    max-width: 100%;
+@media (max-width: 480px) {
+  .profText {
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+
+  .social-icon {
+    width: 18px;
+    height: 18px;
   }
 }
+
