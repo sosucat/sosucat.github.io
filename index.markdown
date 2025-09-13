@@ -53,7 +53,7 @@ google_analytics: UA-NNNNNNNN-N
   </div>
   <div class="profText">
     <p style="font-size: 14px; font-weight:450; text-align: justify; line-height:2.0">
-      <em>What if we could dynamically control the atmosphere (air, light, and heat)?
+      <em>What if we could dynamically control the atmosphere (air, light, and heat)?</em>
         Sosuke, a Ph.D. student at the Georgia Institute of Technology, envisions a concept he calls <b>Interactive Atmosphere</b>: a world where the atmosphere around us is dynamically controlled.
         For centuries, humans have interacted with the world through objects. When we write, cook, or type, the outcomes of our actions are reflected in the objects: ink on paper, dishes, or text displayed on a screen.
         This object-centered model has also shaped the field of human-computer interaction.
