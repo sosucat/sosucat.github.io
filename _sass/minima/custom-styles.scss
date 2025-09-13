@@ -231,6 +231,18 @@ ol li {
     font-size: 0.95rem;
     line-height: 1.6;
   }
+
+  .profile-links {
+    display: flex;
+    flex-direction: column; /* stack links vertically */
+    gap: 0.5rem;            /* space between links */
+    align-items: center;    /* center them under the image */
+  }
+
+  .profile-links span {
+    display: none; /* remove the "|" separators on small screens */
+  }
+  
   .column {
     flex: 100%;
     max-width: 100%;
