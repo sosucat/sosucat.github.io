@@ -202,7 +202,8 @@ ol li {
 }
 
 /* Responsive adjustments */
-@media (max-width: 768px) {
+/* Tablet breakpoint (≈768px) */
+@media (max-width: 48em) {
   .profile {
     flex-direction: column;
     align-items: center;
@@ -217,12 +218,21 @@ ol li {
   .profile-links {
     font-size: 1rem;
   }
+
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
 }
 
-@media (max-width: 480px) {
+/* Small phone breakpoint (≈480px) */
+@media (max-width: 30em) {
   .profText {
     font-size: 0.95rem;
     line-height: 1.6;
   }
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
 }
-
