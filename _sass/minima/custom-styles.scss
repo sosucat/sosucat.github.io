@@ -1,5 +1,11 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+/*
+ * Debugged and cleaned stylesheet.
+ * Corrected a CSS specificity issue with the social icon.
+ */
+
+/* General document styles */
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -13,11 +19,11 @@ h1, h2, h3, h4 {
 }
 
 ul li {
-    padding: 5px 0px;
+  padding: 5px 0px;
 }
 
 ol li {
-    padding: 6.5px 0px;
+  padding: 6.5px 0px;
 }
 
 .site-title {
@@ -34,8 +40,7 @@ ol li {
 
 .videoWrapper {
   position: relative;
-  padding-bottom: 56.25%;
-  /* 16:9 */
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
   padding-top: 25px;
   height: 0;
 }
@@ -56,7 +61,7 @@ ol li {
   font-weight: 550;
 }
 
-/* Create three equal columns that sits next to each other */
+/* Create three equal columns for a gallery layout */
 .column {
   flex: 32%;
   max-width: 32%;
@@ -67,73 +72,8 @@ ol li {
   margin-top: 4px;
   vertical-align: middle;
   width: 100%;
-  // border-radius: 15px;/* Rounds corners */
-  transition: transform 0.15s ease, box-shadow 0.15s ease;/* Smooth hover effect */
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
-
-// /* Hover effect: Slight zoom-in and float */
-// .column img:hover {
-//   transform: scale(1.01); /* Zoom and float */
-//   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
-// }
-
-// /* Create three equal columns that sits next to each other */
-// .profile {
-//   display: flex;
-//   align-items: flex-start;
-// }
-
-// .profImage {
-//   margin-left: 1%;
-//   margin-right: 2%;
-//   flex: 32%;
-//   max-width: 32%;
-// }
-
-// .profImage img {
-//   width: 90%;
-//   height: auto;
-//   vertical-align: top;
-//   // border-radius: 15px;/* Rounds corners */
-// }
-
-// .profText {
-//   flex: 65%;
-//   max-width: 65%;
-// }
-
-// .hover-text {
-//   color:#0096b0; /* Initial color of the text */
-//   font-weight: bold;
-//   transition: color 0.3s ease; /* Smooth transition for the color change */
-// }
-
-// .hover-text:hover {
-//   color: #00d9ff; /* Color of the text when hovered */
-//   font-weight: bold;
-//   text-decoration: underline;
-// }
-
-.paperDetail {
-  font-size: 15px;
-  font-weight:450;
-}
-
-/* Responsive layout - makes a two column-layout instead of three columns */
-// @media screen and (max-width: 800px) {
-//   .column {
-//     flex: 50%;
-//     max-width: 50%;
-//   }
-// }
-
-// /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-// @media screen and (max-width: 600px) {
-//   .column {
-//     flex: 100%;
-//     max-width: 100%;
-//   }
-// }
 
 /* Profile layout */
 .profile {
@@ -141,12 +81,12 @@ ol li {
   align-items: flex-start;
   gap: 2rem;
   margin: 2rem 0;
-  flex-wrap: wrap; /* allows stacking when screen shrinks */
+  flex-wrap: wrap;
 }
 
 /* Profile image */
 .profImage {
-  flex: 1 1 250px; /* grows, shrinks, min width */
+  flex: 1 1 250px;
   max-width: 300px;
 }
 
@@ -154,7 +94,7 @@ ol li {
   width: 100%;
   height: auto;
   display: block;
-  border-radius: 8px; /* optional */
+  border-radius: 8px;
 }
 
 /* Profile text */
@@ -184,11 +124,15 @@ ol li {
   color: #888;
 }
 
-.social-icon {
-  height: 1em;       /* matches the current font-size */
-  width: auto;       /* keeps aspect ratio */
+/*
+ * Fix for social icon size.
+ * This more specific selector ensures the icon's size is not overridden by other image rules.
+ */
+.profile-links a .social-icon {
+  height: 1em;          /* matches the current font-size of the parent 'a' tag */
+  width: auto;          /* keeps aspect ratio */
   vertical-align: middle;
-  margin-left: 0.25em; /* spacing after text */
+  margin-left: 0.25em;  /* spacing after text */
   display: inline-block;
 }
 
@@ -204,8 +148,13 @@ ol li {
   text-decoration: underline;
 }
 
+.paperDetail {
+  font-size: 15px;
+  font-weight:450;
+}
+
 /* Responsive adjustments */
-/* Tablet breakpoint (≈768px) */
+/* Tablet breakpoint (768px and below) */
 @media (max-width: 48em) {
   .profile {
     flex-direction: column;
@@ -214,7 +163,7 @@ ol li {
   }
 
   .profText {
-    text-align: left; /* keep readability */
+    text-align: left;
     margin-top: 1.5rem;
   }
 
@@ -228,7 +177,7 @@ ol li {
   }
 }
 
-/* Small phone breakpoint (≈480px) */
+/* Small phone breakpoint (480px and below) */
 @media (max-width: 30em) {
   .profText {
     font-size: 0.95rem;
@@ -237,17 +186,18 @@ ol li {
 
   .profile-links {
     display: flex;
-    flex-direction: column; /* stack links vertically */
-    gap: 0.5rem;            /* space between links */
-    align-items: center;    /* center them under the image */
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: center;
   }
 
   .profile-links span {
-    display: none; /* remove the "|" separators on small screens */
+    display: none;
   }
-  
+
   .column {
     flex: 100%;
     max-width: 100%;
   }
 }
+
