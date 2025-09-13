@@ -41,7 +41,42 @@ google_analytics: UA-NNNNNNNN-N
 <br>
 
 
-<div class="profile">
+<section class="profile">
+  <figure class="profImage">
+    <img src="assets/images/ichihashi_headshot.jpg" alt="Profile picture of Sosuke Ichihashi">
+    <figcaption class="profile-links">
+      <a class="hover-text" href="/assets/pdfs/Sosuke_Ichihashi_CV_Nov_2024.pdf">Download CV</a>
+      <span>|</span>
+      <a class="hover-text" href="https://twitter.com/RefreshSource">
+        Follow me 
+        <img src="assets/images/Twitter social icons - rounded square - blue.png" 
+             alt="Twitter icon" class="social-icon">
+      </a>
+      <span>|</span>
+      <a class="hover-text" href="https://sosuke-ichihashi.com/value/">My Value</a>
+    </figcaption>
+  </figure>
+
+  <div class="profText">
+    <p>
+      <em>What if we could dynamically control the atmosphere (air, light, and heat)?</em><br>
+      Sosuke, a Ph.D. student at the Georgia Institute of Technology, envisions a concept he calls 
+      <b>Interactive Atmosphere</b>: a world where the atmosphere around us is dynamically controlled.
+      For centuries, humans have interacted with the world through objects. When we write, cook, or type, 
+      the outcomes of our actions are reflected in the objects: ink on paper, dishes, or text displayed on a screen.
+      This object-centered model has also shaped the field of human-computer interaction.
+      Interactive Atmosphere proposes a shift from focusing on <b>"atoms"</b> (physical objects) 
+      to <b>"atmos"</b> (the surrounding ether).
+      It is not just the objects that respond to you, but the atmosphere itself (air, light, and heat) 
+      becoming part of the interactive experience.
+      His work in Interactive Atmosphere includes atmos control technologies, atmos interactions, 
+      atmos-based power delivery and communication, and atmos-based fabrication.
+    </p>
+  </div>
+</section>
+
+
+<!--<div class="profile">
   <div class="profImage">
     <img src="assets/images/ichihashi_headshot.jpg" alt="profile pic">
     <p style="line-height:0.8">
@@ -62,7 +97,7 @@ google_analytics: UA-NNNNNNNN-N
         His work in Interactive Atmosphere includes atmos control technologies, atmos interactions, atmos-based power delivery and communication, and atmos-based fabrication.
     </p>
   </div>
-</div>
+</div>-->
 <br>
 
 
