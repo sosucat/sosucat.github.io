@@ -1,288 +1,203 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+/*
+ * Debugged and cleaned stylesheet.
+ * Corrected a CSS specificity issue with the social icon.
+ */
 
-/* General Styles */
-:root {
-  --primary-color: #2c3e50;
-  --secondary-color: #3498db;
-  --tertiary-color: #ecf0f1;
-  --text-color: #333;
-  --light-text-color: #7f8c8d;
-  /* Setting a base font size for rem calculations */
-  font-size: 16px;
+/* General document styles */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  width: auto;
+  color: rgba(80, 80, 80, 1.0);
+  letter-spacing: 0.4px;
 }
 
-body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
-  color: var(--text-color);
-  line-height: 1.6;
-  margin: 0;
-  padding: 2rem;
-  background-color: #f4f7f6;
+h1, h2, h3, h4 {
+  font-weight: 450;
 }
 
-h1, h2, h3 {
-  font-weight: 600;
-  color: var(--primary-color);
+ul li {
+  padding: 5px 0px;
 }
 
-a {
-  color: var(--secondary-color);
-  text-decoration: none;
-  transition: color 0.3s ease;
+ol li {
+  padding: 6.5px 0px;
 }
 
-a:hover {
-  color: var(--primary-color);
+.site-title {
+  color: rgba(10, 10, 10, 1.0);
+  font-family: 'Cairo Play', sans-serif;
 }
 
-/* Layout and Utility Classes */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  padding-top: 25px;
+  height: 0;
+}
+
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 .row {
   display: flex;
   flex-wrap: wrap;
-  margin: 0 -0.5rem;
+  padding: 0 4px;
+  font-size: 17px;
+  font-weight: 550;
 }
 
+/* Create three equal columns for a gallery layout */
 .column {
-  flex: 1;
-  padding: 0 0.5rem;
+  flex: 32%;
+  max-width: 32%;
+  padding: 0 4px;
 }
 
-.section-title {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  border-bottom: 0.125rem solid var(--primary-color);
-  padding-bottom: 0.5rem;
-  font-size: 1.5rem;
-}
-
-.subsection-title {
-  margin-top: 1.5rem;
-  margin-bottom: 0.5rem;
-  font-size: 1.25rem;
-}
-
-.hover-text {
-  position: relative;
-  text-decoration: none;
-}
-
-.hover-text:hover {
-  text-decoration: underline;
-}
-
-.hover-text:hover::after {
-  content: '';
-  position: absolute;
-  left: 0;
-  bottom: -0.125rem;
-  width: 100%;
-  height: 0.125rem;
-  background-color: var(--primary-color);
-  transition: width 0.3s ease;
-}
-
-.svg-icon {
-  fill: var(--secondary-color);
+.column img {
+  margin-top: 4px;
   vertical-align: middle;
-  transition: fill 0.3s ease;
+  width: 100%;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
-a:hover .svg-icon {
-  fill: var(--primary-color);
-}
-
-/* Profile Section */
+/* Profile layout */
 .profile {
   display: flex;
-  gap: 2rem;
   align-items: flex-start;
-  margin-bottom: 2rem;
+  gap: 2rem;
+  margin: 2rem 0;
+  flex-wrap: wrap;
 }
 
+/* Profile image */
 .profImage {
-  flex-shrink: 0;
-  width: 15.625rem;
-  text-align: center;
-  margin: 0;
+  flex: 1 1 250px;
+  max-width: 300px;
 }
 
 .profImage img {
   width: 100%;
   height: auto;
-  border-radius: 0.5rem;
-  box-shadow: 0 0.25rem 0.9375rem rgba(0, 0, 0, 0.1);
+  display: block;
+  border-radius: 8px;
 }
 
-.profile-links {
-  margin-top: 1rem;
-  font-size: 0.9rem;
-  color: var(--light-text-color);
-}
-
-.profile-links a, .profile-links span {
-  display: inline-block;
-}
-
-.social-icon {
-  width: 1.2rem;
-  height: 1.2rem;
-  vertical-align: middle;
-  margin-left: 0.125rem;
-  opacity: 0.8;
-  transition: opacity 0.3s ease;
-}
-
-.social-icon:hover {
-  opacity: 1;
-}
-
+/* Profile text */
 .profText {
-  flex-grow: 1;
+  flex: 2 1 400px;
+  font-size: 1rem;
+  font-weight: 450;
+  line-height: 1.8;
   text-align: justify;
 }
 
-.profText em {
-  display: block;
-  font-weight: bold;
-  font-style: normal;
-  margin-bottom: 1rem;
-  font-size: 1.1rem;
-  color: var(--primary-color);
+/* Links under profile image */
+.profile-links {
+  margin-top: 0.8rem;
+  font-size: 0.95rem;
+  line-height: 1.6;
 }
 
-/* Gallery Section */
-.gallery-item {
-  background-color: white;
-  border-radius: 0.5rem;
-  box-shadow: 0 0.25rem 0.9375rem rgba(0, 0, 0, 0.1);
-  overflow: hidden;
-  margin-bottom: 1rem;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+.profile-links a {
+  font-size: 1rem;
+  margin: 0 0.4rem;
+  display: inline-flex;
+  align-items: center;
 }
 
-.gallery-item:hover {
-  transform: translateY(-0.3125rem);
-  box-shadow: 0 0.375rem 1.25rem rgba(0, 0, 0, 0.15);
+.profile-links span {
+  color: #888;
 }
 
-.gallery-item img {
-  width: 100%;
-  height: auto;
-  display: block;
+/*
+ * Fix for social icon size.
+ * This more specific selector ensures the icon's size is not overridden by other image rules.
+ */
+.profile-links a .social-icon {
+  height: 1em;          /* matches the current font-size of the parent 'a' tag */
+  width: auto;          /* keeps aspect ratio */
+  vertical-align: middle;
+  margin-left: 0.25em;  /* spacing after text */
+  display: inline-block;
 }
 
-.gallery-caption {
-  text-align: center;
-  padding: 0.75rem;
-  margin: 0;
-  font-size: 0.9rem;
-  font-weight: 500;
-  color: var(--text-color);
+/* Hover link styles */
+.hover-text {
+  color:#0096b0;
+  font-weight: 600;
+  transition: color 0.3s ease;
 }
 
-/* Publications, Articles, and Other Works */
-.publications-list, .articles-list, .other-works-list-2 {
-  list-style-type: none;
-  padding: 0;
-  margin-bottom: 2rem;
-}
-
-.publications-list li, .articles-list li, .other-works-list-2 li {
-  margin-bottom: 1.5rem;
-}
-
-.publications-list p, .articles-list p, .other-works-list-2 p {
-  margin: 0;
+.hover-text:hover {
+  color: #00d9ff;
+  text-decoration: underline;
 }
 
 .paperDetail {
-  display: block;
-  font-size: 0.9rem;
-  color: var(--light-text-color);
-  margin-top: 0.25rem;
+  font-size: 15px;
+  font-weight:450;
 }
 
-.award {
-  display: inline-block;
-  background-color: var(--secondary-color);
-  color: white;
-  padding: 0.25rem 0.5rem;
-  border-radius: 0.25rem;
-  font-weight: bold;
-  font-size: 0.8rem;
-  margin-top: 0.5rem;
-}
-
-.other-works-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-}
-
-/* Timeline */
-.timeline {
-  position: relative;
-  list-style: none;
-  padding: 0;
-}
-
-.timeline::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 2rem;
-  width: 0.125rem;
-  height: 100%;
-  background-color: var(--secondary-color);
-}
-
-.timeline li {
-  position: relative;
-  padding-left: 3rem;
-  margin-bottom: 2rem;
-}
-
-.timeline li::before {
-  content: '';
-  position: absolute;
-  left: 1.5rem;
-  top: 0.25rem;
-  width: 0.75rem;
-  height: 0.75rem;
-  background-color: var(--secondary-color);
-  border-radius: 50%;
-  border: 0.125rem solid white;
-}
-
-.timeline .year {
-  display: block;
-  font-weight: bold;
-  color: var(--primary-color);
-  font-size: 1rem;
-}
-
-.timeline .details {
-  font-size: 0.95rem;
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
+/* Responsive adjustments */
+/* Tablet breakpoint (768px and below) */
+@media (max-width: 48em) {
   .profile {
     flex-direction: column;
     align-items: center;
     text-align: center;
   }
 
-  .profImage {
-    width: 70%;
+  .profText {
+    text-align: left;
+    margin-top: 1.5rem;
   }
 
-  .gallery {
-    flex-direction: column;
+  .profile-links {
+    font-size: 1rem;
   }
 
   .column {
-    padding: 0;
+    flex: 50%;
+    max-width: 50%;
   }
 }
+
+/* Small phone breakpoint (480px and below) */
+@media (max-width: 30em) {
+  .profText {
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+
+  .profile-links {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: center;
+  }
+
+  .profile-links span {
+    display: none;
+  }
+
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
