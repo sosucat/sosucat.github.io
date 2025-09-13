@@ -52,13 +52,14 @@ google_analytics: UA-NNNNNNNN-N
     </p>
   </div>
   <div class="profText">
-    <p style="font-size: 16px; font-weight:450; text-align: justify; line-height:2.0">
-      <em>What if the atmosphere (air temperature, smell, humidity, brightness, sound) dynamically changed according to your actions and states?</em><br>
-      I am a Ph.D. student in <a style="color:inherit; text-decoration: underline;" href="https://sites.gatech.edu/futurefeelings/team/">Future Feelings Lab</a> at Georgia Tech (advisor: <a style="color: inherit; text-decoration: underline;" href="https://nourahowell.com/">Noura Howell</a>).<br>
-      I envision <em>Interactive Atmosphere</em>, the world where the atmosphere and surroundings dynamically change based on our actions, bodily states, and emotions.
-      Humans have long been using a variety of objects within their reach. For example, we take notes with a pen, cook dishes with a knife and a pot, and type texts with a keyboard.
-      The resulting changes always occur within these objects; i.e., characters on a notebook, dishes, and texts or visual representations on a computer monitor.
-      In Interactive Atmosphere, not only objects around us but also the atmosphere, something out of our reach and surrounding us, changes interactively.
+    <p style="font-size: 14px; font-weight:450; text-align: justify; line-height:2.0">
+      <em>What if we could dynamically control the atmosphere (air, light, and heat)?
+        Sosuke, a Ph.D. student at the Georgia Institute of Technology, envisions a concept he calls Interactive Atmosphere: a world where the atmosphere around us is dynamically controlled.
+        For centuries, humans have interacted with the world through objects. When we write, cook, or type, the outcomes of our actions are reflected in the objects: ink on paper, dishes, or text displayed on a screen.
+        This object-centered model has also shaped the field of human-computer interaction.
+        Interactive Atmosphere proposes a shift from focusing on "atoms" (physical objects) to "atmos" (the surrounding ether).
+        It is not just the objects that respond to you, but the atmosphere itself (air, light, and heat) becoming part of the interactive experience.
+        His work in Interactive Atmosphere includes atmos control technologies, atmos interactions, atmos-based power delivery and communication, and atmos-based fabrication.
     </p>
   </div>
 </div>
