@@ -105,7 +105,7 @@ ol li {
 
 /* Profile text */
 .profText {
-  flex: 64%;
+  flex: 68%;
   font-size: 1rem;
   font-weight: 450;
   line-height: 1.8;
@@ -198,8 +198,8 @@ ol li {
   }
 
   .profImage {
-    flex: 49%;
-    max-width: 49%;
+    flex: 50%;
+    max-width: 50%;
   }
 
   .profText {
@@ -212,8 +212,8 @@ ol li {
   }
 
   .column {
-    flex: 49%;
-    max-width: 49%;
+    flex: 50%;
+    max-width: 50%;
   }
 }
 
@@ -236,14 +236,14 @@ ol li {
   }
 
   .column {
-    flex: 90%;
-    max-width: 90%;
+    flex: 100%;
+    max-width: 100%;
   }
 
   /* EDITED: Ensure the profile image takes up a reasonable width on small phones */
   .profImage {
-    flex: 90%;
-    max-width: 90%;
+    flex: 60%;
+    max-width: 60%;
   }
 }
 
