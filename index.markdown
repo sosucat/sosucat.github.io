@@ -74,30 +74,6 @@ google_analytics: UA-NNNNNNNN-N
     </p>
   </div>
 </section>
-
-
-<!--<div class="profile">
-  <div class="profImage">
-    <img src="assets/images/ichihashi_headshot.jpg" alt="profile pic">
-    <p style="line-height:0.8">
-      <br>
-      &nbsp;<a  class="hover-text" style="font-size: 16px" href="/assets/pdfs/Sosuke_Ichihashi_CV_Nov_2024.pdf">Download CV</a>
-      | <a class="hover-text" style="font-size: 16px" href="https://twitter.com/RefreshSource">Follow me <img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" style="width:22px;height:22px;vertical-align:middle"></a>
-      | <a class="hover-text" style="font-size: 16px" href="https://sosuke-ichihashi.com/value/">My value</a>
-    </p>
-  </div>
-  <div class="profText">
-    <p style="font-size: 14px; font-weight:450; text-align: justify; line-height:2.0">
-      <em>What if we could dynamically control the atmosphere (air, light, and heat)?</em><br>
-        Sosuke, a Ph.D. student at the Georgia Institute of Technology, envisions a concept he calls <b>Interactive Atmosphere</b>: a world where the atmosphere around us is dynamically controlled.
-        For centuries, humans have interacted with the world through objects. When we write, cook, or type, the outcomes of our actions are reflected in the objects: ink on paper, dishes, or text displayed on a screen.
-        This object-centered model has also shaped the field of human-computer interaction.
-        Interactive Atmosphere proposes a shift from focusing on <b>"atoms"</b> (physical objects) to <b>"atmos"</b> (the surrounding ether).
-        It is not just the objects that respond to you, but the atmosphere itself (air, light, and heat) becoming part of the interactive experience.
-        His work in Interactive Atmosphere includes atmos control technologies, atmos interactions, atmos-based power delivery and communication, and atmos-based fabrication.
-    </p>
-  </div>
-</div>-->
 <br>
 
 
