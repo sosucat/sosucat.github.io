@@ -176,6 +176,8 @@ ol li {
 .profile-links a {
   font-size: 1rem;
   margin: 0 0.4rem;
+  display: inline-flex;
+  align-items: center;
 }
 
 .profile-links span {
@@ -186,7 +188,8 @@ ol li {
   height: 1em;       /* matches the current font-size */
   width: auto;       /* keeps aspect ratio */
   vertical-align: middle;
-  margin-left: 4px;
+  margin-left: 0.25em; /* spacing after text */
+  display: inline-block;
 }
 
 /* Hover link styles */
