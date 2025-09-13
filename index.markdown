@@ -49,8 +49,7 @@ google_analytics: UA-NNNNNNNN-N
       <span>|</span>
       <a class="hover-text" href="https://twitter.com/RefreshSource">
         Follow me 
-        <img src="assets/images/Twitter social icons - rounded square - blue.png" 
-             alt="Twitter icon" class="social-icon">
+        <img src="assets/images/Twitter social icons - rounded square - blue.png" alt="Twitter icon" class="social-icon">
       </a>
       <span>|</span>
       <a class="hover-text" href="https://sosuke-ichihashi.com/value/">My Value</a>
