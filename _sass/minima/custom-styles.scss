@@ -183,8 +183,8 @@ ol li {
 }
 
 .social-icon {
-  width: 20px;
-  height: 20px;
+  height: 1em;       /* matches the current font-size */
+  width: auto;       /* keeps aspect ratio */
   vertical-align: middle;
   margin-left: 4px;
 }
@@ -223,11 +223,6 @@ ol li {
   .profText {
     font-size: 0.95rem;
     line-height: 1.6;
-  }
-
-  .social-icon {
-    width: 18px;
-    height: 18px;
   }
 }
 
