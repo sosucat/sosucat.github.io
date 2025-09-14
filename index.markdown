@@ -69,8 +69,7 @@ google_analytics: UA-NNNNNNNN-N
       <br>
       Sosuke, a PhD student at Georgia Institute of Technology, envisions a concept he calls  <b>Interactive Atmosphere</b>: a world where the atmosphere around us is dynamically controlled.
       Humans have interacted with the world through objects. When we write, cook, or type, the outcomes of our actions are reflected in the objects: characters on paper, dishes, or text on a computer screen.
-      Interactive Atmosphere proposes a shift from <b>"atoms"</b> (physical objects) to <b>"atmos"</b> (the surrounding ether).
-      Atmosphere (air, light, and heat) becomes part of the interactive experience.
+      Interactive Atmosphere shifts the focus of interaction from <b>atoms</b> (objects) to <b>atmos</b> (the aether-like in-between, a perceived world surrounds us).
       His work includes atmos control technologies, atmos interactions, atmos-based power delivery and communication, and atmos-based fabrication.
     </p>
   </div>
