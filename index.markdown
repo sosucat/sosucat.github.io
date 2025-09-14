@@ -66,6 +66,7 @@ google_analytics: UA-NNNNNNNN-N
   <div class="profText">
     <p>
       <em>What if we could dynamically control the atmosphere (air, light, and heat)?</em><br>
+      <br>
       Sosuke, a PhD student at Georgia Institute of Technology, envisions a concept he calls  <b>Interactive Atmosphere</b>: a world where the atmosphere around us is dynamically controlled.
       Humans have interacted with the world through objects. When we write, cook, or type, the outcomes of our actions are reflected in the objects: characters on paper, dishes, or text on a computer screen.
       Interactive Atmosphere proposes a shift from <b>"atoms"</b> (physical objects) to <b>"atmos"</b> (the surrounding ether).
