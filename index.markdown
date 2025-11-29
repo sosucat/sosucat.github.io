@@ -51,7 +51,7 @@ google_analytics: UA-NNNNNNNN-N
   <figure class="profImage">
     <img src="assets/images/ichihashi_headshot.jpg" alt="Profile picture of Sosuke Ichihashi">
     <figcaption class="profile-links">
-      <a class="hover-text" href="/assets/pdfs/Sosuke_Ichihashi_CV_Nov_2024.pdf">Download CV</a>
+      <a class="hover-text" href="/assets/pdfs/Sosuke_Ichihashi_CV_Dec_2025.pdf">Download CV</a>
       <span>|</span>
       <a class="hover-text" href="https://twitter.com/RefreshSource">
         Follow me 
