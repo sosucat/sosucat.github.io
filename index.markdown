@@ -67,10 +67,10 @@ google_analytics: UA-NNNNNNNN-N
     <p>
       <em>What if we could dynamically control the atmosphere (air, light, and heat)?</em><br>
       <br>
-      Sosuke, a PhD student at Georgia Institute of Technology, envisions a concept he calls  <b>Interactive Atmosphere</b>: a world where the atmosphere around us is dynamically controlled.
-      Humans have interacted with the world through objects. When we write, cook, or type, the outcomes of our actions are reflected in the objects: characters on paper, dishes, or text on a computer screen.
+      Sosuke is a PhD student at Georgia Tech envisioning <b>Interactive Atmosphere</b>, a world where the atmosphere around us is dynamically controlled.
+      Humans have interacted with the world through objects. When we write, cook, or type, the outcomes of our actions are reflected in the objects: characters on paper, dishes, or texts on a monitor.
       Interactive Atmosphere shifts the focus of interaction from <b>atoms</b> (objects) to <b>atmos</b> (the aether-like in-between, a perceived world surrounds us).
-      His work includes atmos control technologies, atmos interactions, atmos-based power delivery and communication, and atmos-based fabrication.
+      His work includes: thermal perception and interaction; ambient interaction; and optical sensory feedback, power delivery, and fabrication.
     </p>
   </div>
 </section>
@@ -80,6 +80,38 @@ google_analytics: UA-NNNNNNNN-N
 ## Publications
 
 <ol reversed style="font-size:18px; font-weight:480">
+
+  <li>
+    <p>Thermal and Tactile Integration in Human Liquid Perception Using Viscous Solutions and Visible Light<br>
+      <span class="paperDetail">
+        Junjie Hua, <strong>Sosuke Ichihashi</strong>, Hsin-Ni Ho<br>
+        <a class="hover-text" href="">
+          <svg style="vertical-align: middle" width="12" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M0 64C0 28.7 28.7 0 64 0L224 0l0 128c0 17.7 14.3 32 32 32l128 0 0 288c0 35.3-28.7 64-64 64L64 512c-35.3 0-64-28.7-64-64L0 64zm384 64l-128 0L256 0 384 128z"/></svg>
+          IEEE Haptics '26 Paper (to appear)
+        </a>&nbsp;
+        <!-- <a class="hover-text" href="https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/">
+          <svg style="vertical-align: middle" width="12" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M224.6 12.8c56.2-56.2 147.4-56.2 203.6 0s56.2 147.4 0 203.6l-164 164c-34.4 34.4-90.1 34.4-124.5 0s-34.4-90.1 0-124.5L292.5 103.3c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3L185 301.3c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l164-164c31.2-31.2 31.2-81.9 0-113.1s-81.9-31.2-113.1 0l-164 164c-53.1 53.1-53.1 139.2 0 192.3s139.2 53.1 192.3 0L428.3 284.3c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3L343.4 459.6c-78.1 78.1-204.7 78.1-282.8 0s-78.1-204.7 0-282.8l164-164z"/></svg>
+          Project Page
+        </a>&nbsp; -->
+      </span>
+    </p>
+  </li>
+
+  <li>
+    <p>Designing for Defamiliarization with Thermal Painting: Exploring Experiences of Dynamic Warmth in Painters' Creative Processes<br>
+      <span class="paperDetail">
+        Supratim Pait, <strong>Sosuke Ichihashi</strong>, Xingyu Li, Haiqing Xu, Noura Howell<br>
+        <a class="hover-text" href="">
+          <svg style="vertical-align: middle" width="12" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M0 64C0 28.7 28.7 0 64 0L224 0l0 128c0 17.7 14.3 32 32 32l128 0 0 288c0 35.3-28.7 64-64 64L64 512c-35.3 0-64-28.7-64-64L0 64zm384 64l-128 0L256 0 384 128z"/></svg>
+          TEI '26 WiP, Demo (to appear)
+        </a>&nbsp;
+        <!-- <a class="hover-text" href="https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/">
+          <svg style="vertical-align: middle" width="12" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M224.6 12.8c56.2-56.2 147.4-56.2 203.6 0s56.2 147.4 0 203.6l-164 164c-34.4 34.4-90.1 34.4-124.5 0s-34.4-90.1 0-124.5L292.5 103.3c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3L185 301.3c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l164-164c31.2-31.2 31.2-81.9 0-113.1s-81.9-31.2-113.1 0l-164 164c-53.1 53.1-53.1 139.2 0 192.3s139.2 53.1 192.3 0L428.3 284.3c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3L343.4 459.6c-78.1 78.1-204.7 78.1-282.8 0s-78.1-204.7 0-282.8l164-164z"/></svg>
+          Project Page
+        </a>&nbsp; -->
+      </span>
+    </p>
+  </li>
 
   <li>
     <p>Swell by Light: An Approachable Technique for Freeform Raised Textures<br>
@@ -195,10 +227,10 @@ google_analytics: UA-NNNNNNNN-N
 <ul class="timeline">
 
   <li>
-    <span class="year">2022-2026</span>
+    <span class="year">2022-2027</span>
     <div class="details">
       <strong>PhD in Digital Media</strong> @ <strong>Georgia Tech</strong><br>
-      Advised by Prof. 
+      Co-Advised by Prof. <a href=https://sites.google.com/view/magerko/home"><strong>Brian Magerko</strong></a> & Prof. 
       <a href="https://nourahowell.com"><strong>Noura Howell</strong></a><br>
       Topic: Augmented Perception & Non-Contact Interaction
     </div>
@@ -237,8 +269,17 @@ google_analytics: UA-NNNNNNNN-N
 
 
 
-### Research Intern
+### Research Collaborations
 <ul class="timeline">
+  <li>
+    <span class="year">2025.08-Present</span>
+    <div class="details">
+      <strong> Flavin Neuromachines Lab</strong> @ <strong>Georgia Tech</strong>, USA<br>
+      Advised by 
+      Prof. <a href="https://flavinlab.io/"><strong>Matthew T. Flavin</strong></a><br>
+      Topic: Thermoregulating Wearable Fludic Device
+    </div>
+  </li>
 
   <li>
     <span class="year">2024.07-2024.08</span>
@@ -246,7 +287,7 @@ google_analytics: UA-NNNNNNNN-N
       <strong>Ho Haptics Lab</strong> @ <strong>Kyushu University</strong>, Japan<br>
       Research Intern advised by 
       Prof. <a href="https://sites.google.com/view/hohapticslab"><strong>Hsin-Ni Ho</strong></a><br>
-      Topic: Development of Hydroptical Thermal Display
+      Topic: Development of Hydroptical Thermal Display (IEEE Haptics '26)
     </div>
   </li>
 
@@ -254,7 +295,7 @@ google_analytics: UA-NNNNNNNN-N
     <span class="year">2023.08-2024.02</span>
     <div class="details">
       <strong>Code Craft Lab</strong> @ <strong>Georgia Tech</strong>, USA<br>
-      Independent Study advised by Prof. 
+      Advised by Prof. 
       <a href="https://www.codecraft.group/hyunjoo-oh"><strong>HyunJoo Oh</strong></a><br>
       Topic: Swell by Light (TEI '25)
     </div>
@@ -278,7 +319,15 @@ google_analytics: UA-NNNNNNNN-N
 <ul class="timeline">
 
   <li>
-    <span class="year">2024</span>
+    <span class="year">2026</span>
+    <div class="details">
+      TA / Developer in Accessibility Initiative for OMSCS<br>
+      @ Georgia Tech, USA
+    </div>
+  </li>
+
+  <li>
+    <span class="year">2025, 2024</span>
     <div class="details">
       TA in LMC 2700 Intro to Computational Media<br>
       @ Georgia Tech, USA
