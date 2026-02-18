@@ -407,7 +407,7 @@ google_analytics: UA-NNNNNNNN-N
 
   <li>
     <p>
-      <a class="hover-text" href="https://www.s-ge.t.kyoto-u.ac.jp/int/en/campuslife/students/blog/ichihashisan">University's article about my exchange at UT Austin</a> &nbsp; 2019
+      <a class="hover-text" href="https://www.s-ge.t.kyoto-u.ac.jp/int/en/about/voice/ichihashisan">University's article about my exchange at UT Austin</a> &nbsp; 2019
     </p>
   </li>
 
