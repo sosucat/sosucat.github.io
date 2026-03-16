@@ -70,20 +70,19 @@ google_analytics: UA-NNNNNNNN-N
     <p>
       <em>From Visual to Multimodal. From Information to Energy.</em><br>
       <br>
+      Read the full version <a href="vision.markdown">here.<br><br>
       Sosuke, a PhD student at Georgia Tech, creates new ways for humans to interact with the world by repurposing visual media into multimodal experiences. For instance, <a href="https://sites.gatech.edu/futurefeelings/2024/11/14/hydroptical-thermal-feedback-uist-24/">Hydroptical Thermal Feedback</a> creates the illusion of instant water temperature changes using LED-based skin heating, without altering the water's actual temperature. <a href="https://sosuke-ichihashi.com/thermoblinds/">ThermoBlinds</a> draws inspiration from liquid crystal displays (LCDs) to deliver fast-switching thermal sensations, while <a href="https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/">Swell by Light</a> leverages a standard office printer to generate 2.5D tactile textures. These projects demonstrate how visual media technologies can transcend simple information display, reshaping the physical world and our perception of it by directly mediating energy.<br><br>
       This approach seeks to return us to <a href="https://doi.org/10.1145/3689050.3704423">more organic, synesthetic, and multimodal way</a> of interacting with our environment and each other, enhanced by the magic of computing.
       <a href="https://sites.gatech.edu/futurefeelings/2024/11/14/hydroptical-thermal-feedback-uist-24/">Hydroptical Bath</a>, for example, offers a meditative, relaxing experience with physiological benefits. Similarly, <a href="https://sites.gatech.edu/futurefeelings/2026/03/14/thermal-painting-tei-26-wip/">Thermal Painting</a> augments an artist's creativity with multimodal paints that evoke both thermal and color sensations.
       Ultimately, Sosuke's research pulls magical experiences out from behind the sceen, integrating physiological, emotional, and behavioral changes into our media experiences.<br><br>
-      In a global scale, computers are mediating the sunlight. We are turning the constant energy flow from the sun into controlled spatio-temporal patterns of energy. Such patterns used to be so low energy that they only conveyed information; i.e., worked as visual media. However, we are starting to control patterns of high energy, which can now be called energy media. What used to be mere visual will be thermal, tactile, force, olfactory, gustatory, physiological, emotional, motivational to us humans. They will morph, cook, burn, power, and control matters and computers.
+      In the age of electricity, optical patterns were of such low energy that they could only conveyed information, functioning merely as visual media.
+      However, as we learn to control higher-energy patterns, we are giving rise to what Sosuke calls "energy media."
+      What were once mere visual representations will come to give thermal, tactile, kinetic, olfactory, and gustatory sensations.
+      What was once mere information will come to exert physiological, emotional, and motivational impacts on us humans.
+      These high-energy patterns will morph, heat, power, and control physical matter and computing systems.
     </p>
   </div>
 </section>
-
-
-From the engineering and societal point of view, repurposing visual technologies benefits from both past and future trajectories of human.
-      Since Gutenberg's invention, we have been heavily investing on visual media technologies. As a result, we have many sophisticated technologies in that domain, have the devices all around our society, and have grown rich cultures and skills around them. By repurposing such technologies, we can import their sophisticated spatio-temporal control methods, can realize multimodal experiences everywhere without distributing new devices, and can enable people to create and enjoy multimodal experiences with their visual culture backgrounds. One good example is <a href="https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/">Swell by Light</a>. It enables people to create 2.5D tactile patterns using their visual techniques and devices; i.e., drawing and printers. Therefore, his approach enables a seamless societal transition from oculo-centrism to multimodalism.<br><br>
-      Looking at the present trend in computing, the numbers of people and computational devices are growing. To sustain our society, we need to quickly move information and energy between people, between people and devices, and between devices. That is why we are shifting from the age of electricity to the age of light. For example, optical circuits are coming to be integrated into electrical circuits [<a href="https://youtu.be/kS8r7UcexJU?si=Cnlk7W6EESenjYRI">NVIDIA CPO</a>]. Power will be optically transferred from space solar plants to ground receivers [<a href="https://www.japan.go.jp/kizuna/2023/08/japans_long-planned_photovoltaics.html">Japan SSP</a>]. More and more computers will be moved to the orbit for the better access to such energy sources. In such a world, people, environments, computers are connected not only electronically but also optically. The expected investment on the opto-electro fusion technologies pushes Sosuke's visual-to-multimodal approach further. 
-
 
 
 ## Publications
