@@ -35,20 +35,43 @@ google_analytics: UA-NNNNNNNN-N
 
 <br>
 <p><a href="#jp">日本語</a></p>
-
+Under construction...
 <div id="en">
   <div id="research_en">
     <h2>Research I love</h2>
-    <div id="dos_en">
-      <h3>./h3>
-      <ul>
-        <li></li>
-      </ul>
-    </div>
-    <div id="donts_en">
-      <h3></h3>
-      <ul>
-        <li>
+  </div>
+  <div id="dos_en">
+    <h2>Do</h2>
+    <ul>
+      <li></li>
+    </ul>
+  </div>
+  <div id="donts_en">
+    <h2>Don't</h2>
+    <ul>
+      <li>
       </li>
     </ul>
   </div>
+</div>
+
+
+
+<div id="jp">
+  <div id="research_jp">
+    <h2>私の好きな研究</h2>
+  </div>
+  <div id="dos_jp">
+    <h2>おすすめ</h2>
+    <ul>
+      <li></li>
+    </ul>
+  </div>
+  <div id="donts_jp">
+    <h2>よくない</h2>
+    <ul>
+      <li>
+      </li>
+    </ul>
+  </div>
+</div>
