@@ -92,8 +92,8 @@ ol li {
 
 /* Profile image */
 .profImage {
-  flex: 32%x;
-  max-width: 32%;
+  flex: 25%;
+  max-width: 25%;
 }
 
 .profImage img {
@@ -106,9 +106,9 @@ ol li {
 /* Profile text */
 .profText {
   flex: 50%;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   font-weight: 450;
-  line-height: 1.8;
+  line-height: 1.7;
   text-align: justify;
 }
 
