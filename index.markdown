@@ -239,7 +239,7 @@ google_analytics: UA-NNNNNNNN-N
       <strong>PhD in Digital Media</strong> @ <strong>Georgia Tech</strong><br>
       Co-Advised by Prof. <a href="https://sites.google.com/view/magerko/home"><strong>Brian Magerko</strong></a> & Prof. 
       <a href="https://nourahowell.com"><strong>Noura Howell</strong></a><br>
-      Topic: Augmented Perception & Non-Contact Interaction
+      Topic: Optical Energy Display for Multimodal Sensory Feedback, Fabrication, and Power Delivery
     </div>
   </li>
 
