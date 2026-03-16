@@ -35,7 +35,7 @@ google_analytics: UA-NNNNNNNN-N
   </div>
 
   <div class="column">
-    <a href="https://sites.gatech.edu/futurefeelings/2026/03/14/thermal-painting-tei-26-wip/"><img src="/assets/images/Paint/thermal_paint_thumbnail_web.jpg" alt="Thermal Painting thumbnail"></a>
+    <a href="https://sites.gatech.edu/futurefeelings/2026/03/14/thermal-painting-tei-26-wip/"><img src="/assets/images/paint/thermal_paint_thumbnail_web.jpg" alt="Thermal Painting thumbnail"></a>
     Thermal Painting | TEI '26 WiP
     <br><br>
     <a href="https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/"><img src="/assets/images/SbL/SbL_origami.jpg" alt="Swell by Light thumbnail"></a>

@@ -10,6 +10,13 @@ google_analytics: UA-NNNNNNNN-N
 <div class="portfolio-container" style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; padding: 20px;">
 
   <div class="portfolio-item" style="text-align: center;">
+    <a href="https://sites.gatech.edu/futurefeelings/2026/03/14/thermal-painting-tei-26-wip/">
+      <img src="/assets/images/paint/thermal_paint_thumbnail_web.jpg" alt="Thermal Painting" style="width:100%;">
+    </a>
+    <p style="margin-top: 10px; font-size: 18px; font-weight: bold;">Thermal Painting<br><span style="font-size: 14px; font-weight: normal;">TEI '26 WiP</span></p>
+  </div>
+
+  <div class="portfolio-item" style="text-align: center;">
     <a href="https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/">
       <img src="/assets/images/SbL/SbL_origami.jpg" alt="Swell by Light" style="width:100%;">
     </a>
