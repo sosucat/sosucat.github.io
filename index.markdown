@@ -69,8 +69,7 @@ google_analytics: UA-NNNNNNNN-N
   <div class="profText">
     <p>
       <em>From Visual to Multimodal. From Information to Energy.</em><br>
-      <br>
-      Read the full version <a href="vision.markdown">here.<br><br>
+      Read the full version <a href="vision.markdown">here.</a><br>
       Sosuke, a PhD student at Georgia Tech, creates new ways for humans to interact with the world by repurposing visual media into multimodal experiences. For instance, <a href="https://sites.gatech.edu/futurefeelings/2024/11/14/hydroptical-thermal-feedback-uist-24/">Hydroptical Thermal Feedback</a> creates the illusion of instant water temperature changes using LED-based skin heating, without altering the water's actual temperature. <a href="https://sosuke-ichihashi.com/thermoblinds/">ThermoBlinds</a> draws inspiration from liquid crystal displays (LCDs) to deliver fast-switching thermal sensations, while <a href="https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/">Swell by Light</a> leverages a standard office printer to generate 2.5D tactile textures. These projects demonstrate how visual media technologies can transcend simple information display, reshaping the physical world and our perception of it by directly mediating energy.<br><br>
       This approach seeks to return us to <a href="https://doi.org/10.1145/3689050.3704423">more organic, synesthetic, and multimodal way</a> of interacting with our environment and each other, enhanced by the magic of computing.
       <a href="https://sites.gatech.edu/futurefeelings/2024/11/14/hydroptical-thermal-feedback-uist-24/">Hydroptical Bath</a>, for example, offers a meditative, relaxing experience with physiological benefits. Similarly, <a href="https://sites.gatech.edu/futurefeelings/2026/03/14/thermal-painting-tei-26-wip/">Thermal Painting</a> augments an artist's creativity with multimodal paints that evoke both thermal and color sensations.
