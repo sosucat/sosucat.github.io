@@ -35,6 +35,9 @@ google_analytics: UA-NNNNNNNN-N
   </div>
 
   <div class="column">
+    <a href="https://sites.gatech.edu/futurefeelings/2026/03/14/thermal-painting-tei-26-wip/"><img src="/assets/images/Paint/thermal_paint_thumbnail_web.jpg" alt="Thermal Painting thumbnail"></a>
+    Thermal Painting | TEI '26 WiP
+    <br><br>
     <a href="https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/"><img src="/assets/images/SbL/SbL_origami.jpg" alt="Swell by Light thumbnail"></a>
     Swell by Light | TEI '25
     <br><br>
@@ -65,12 +68,13 @@ google_analytics: UA-NNNNNNNN-N
 
   <div class="profText">
     <p>
-      <em>What if we could dynamically control the atmosphere (air, light, and heat)?</em><br>
+      <em>From Visual to Multimodal. From Information to Energy.</em><br>
       <br>
-      Sosuke is a PhD student at Georgia Tech envisioning <b>Interactive Atmosphere</b>, a world where the atmosphere around us is dynamically controlled.
-      Humans have interacted with the world through objects. When we write, cook, or type, the outcomes of our actions are reflected in the objects: characters on paper, dishes, or texts on a monitor.
-      Interactive Atmosphere shifts the focus of interaction from <b>atoms</b> (objects) to <b>atmos</b> (the aether-like in-between, a perceived world surrounds us).
-      His work includes: thermal perception and interaction; ambient interaction; and optical sensory feedback, power delivery, and fabrication.
+      Sosuke is a PhD student at Georgia Tech. He makes new interactions between us and the world by repurposing visual media to multimodal media. For example, <a href="https://sites.gatech.edu/futurefeelings/2024/11/14/hydroptical-thermal-feedback-uist-24/">Hydroptical Thermal Feedback</a> realizes instant water temperature switching without affecting the actual water temperature using an LED-based skin heating. <a href="https://sosuke-ichihashi.com/thermoblinds/">ThermoBlinds</a> took inspirations from liquid crystal display (LCD) and provide fast-switching thermal sensations. <a href="https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/">Swell by Light</a> uses an office printer to create 2.5D textures. These exemplify how visual media technologies can not only present information but also reshape the physical world and its perceptions by mediating energy.<br><br>
+      Such approaches will bring us back to <a href="https://doi.org/10.1145/3689050.3704423">more multimodal, synesthetic, organic ways</a> of interacting with the world and other people while making them more magical with the power of computing. For example, <a href="https://sites.gatech.edu/futurefeelings/2024/11/14/hydroptical-thermal-feedback-uist-24/">Hydroptical Bath</a> offers a meditating, relaxing experience with physiological benefits. <a href="https://sites.gatech.edu/futurefeelings/2026/03/14/thermal-painting-tei-26-wip/">Thermal Painting</a> augments artists' creativity with multimodal paints, which evoke thermal sensations in addition to color sensations. As such, Sosuke will bring magical experiences out of the sceen, involving your physiological, emotional, and behavioral changes into media experiences.<br><br>
+      From the engineering and societal point of view, repurposing visual technologies benefits from both past and future trajectories of human.
+      Since Gutenberg's invention, we have been heavily investing on visual media technologies. As a result, we have many sophisticated technologies in that domain, have the devices all around our society, and have grown rich cultures and skills around them. By repurposing such technologies, we can import their sophisticated spatio-temporal control methods, can realize multimodal experiences everywhere without distributing new devices, and can enable people to create and enjoy multimodal experiences with their visual culture backgrounds. One good example is <a href="https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/">Swell by Light</a>. It enables people to create 2.5D tactile patterns using their visual techniques and devices; i.e., drawing and printers. Therefore, his approach enables a seamless societal transition from oculo-centrism to multimodalism.<br><br>
+      Looking at the present trend in computing, the numbers of people and computational devices are growing. To sustain our society, we need to quickly move information and energy between people, between people and devices, and between devices. That is why we are shifting from the age of electricity to the age of light. For example, optical circuits are coming to be integrated into electrical circuits [<a href="https://youtu.be/kS8r7UcexJU?si=Cnlk7W6EESenjYRI">NVIDIA CPO</a>]. Power will be optically transferred from space solar plants to ground receivers [<a href="https://www.japan.go.jp/kizuna/2023/08/japans_long-planned_photovoltaics.html">Japan SSP</a>]. More and more computers will be moved to the orbit for the better access to such energy sources. In such a world, people, environments, computers are connected not only electronically but also optically. The expected investment on the opto-electro fusion technologies pushes Sosuke's visual-to-multimodal approach further. In a global scale, computers are mediating the sunlight. We are turning the constant energy flow from the sun into controlled spatio-temporal patterns of energy. Such patterns used to be so low energy that they only conveyed information; i.e., worked as visual media. However, we are starting to control patterns of high energy, which can now be called energy media. What used to be mere visual will be thermal, tactile, force, olfactory, gustatory, physiological, emotional, motivational to us humans. They will morph, cook, burn, power, and control matters and computers.
     </p>
   </div>
 </section>
@@ -103,12 +107,12 @@ google_analytics: UA-NNNNNNNN-N
         Supratim Pait, <strong>Sosuke Ichihashi</strong>, Xingyu Li, Haiqing Xu, Noura Howell<br>
         <a class="hover-text" href="">
           <svg style="vertical-align: middle" width="12" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M0 64C0 28.7 28.7 0 64 0L224 0l0 128c0 17.7 14.3 32 32 32l128 0 0 288c0 35.3-28.7 64-64 64L64 512c-35.3 0-64-28.7-64-64L0 64zm384 64l-128 0L256 0 384 128z"/></svg>
-          TEI '26 WiP, Demo (to appear)
+          TEI '26 WiP, Demo
         </a>&nbsp;
-        <!-- <a class="hover-text" href="https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/">
-          <svg style="vertical-align: middle" width="12" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M224.6 12.8c56.2-56.2 147.4-56.2 203.6 0s56.2 147.4 0 203.6l-164 164c-34.4 34.4-90.1 34.4-124.5 0s-34.4-90.1 0-124.5L292.5 103.3c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3L185 301.3c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l164-164c31.2-31.2 31.2-81.9 0-113.1s-81.9-31.2-113.1 0l-164 164c-53.1 53.1-53.1 139.2 0 192.3s139.2 53.1 192.3 0L428.3 284.3c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3L343.4 459.6c-78.1 78.1-204.7 78.1-282.8 0s-78.1-204.7 0-282.8l164-164z"/></svg>
-          Project Page
-        </a>&nbsp; -->
+        <a class="hover-text" href="https://youtu.be/rIGO8lKhb8M?si=iAJTmvGKnIaTQ33V">
+          <svg width="18" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M549.7 124.1c-6.3-23.7-24.8-42.3-48.3-48.6C458.8 64 288 64 288 64S117.2 64 74.6 75.5c-23.5 6.3-42 24.9-48.3 48.6-11.4 42.9-11.4 132.3-11.4 132.3s0 89.4 11.4 132.3c6.3 23.7 24.8 41.5 48.3 47.8C117.2 448 288 448 288 448s170.8 0 213.4-11.5c23.5-6.3 42-24.2 48.3-47.8 11.4-42.9 11.4-132.3 11.4-132.3s0-89.4-11.4-132.3zm-317.5 213.5V175.2l142.7 81.2-142.7 81.2z"/></svg>
+          video
+        </a>
       </span>
     </p>
   </li>
