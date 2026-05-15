@@ -54,7 +54,7 @@ google_analytics: UA-NNNNNNNN-N
   <figure class="profImage">
     <img src="assets/images/ichihashi_headshot.jpg" alt="Profile picture of Sosuke Ichihashi">
     <figcaption class="profile-links">
-      <a class="hover-text" href="/assets/pdfs/Sosuke_Ichihashi_CV_Apr_2026.pdf">Download CV</a>
+      <a class="hover-text" href="/assets/pdfs/Sosuke_Ichihashi_CV_May_2026.pdf">Download CV</a>
       <span>|</span>
       <a class="hover-text" href="https://twitter.com/RefreshSource">
         Follow me 
@@ -248,8 +248,8 @@ google_analytics: UA-NNNNNNNN-N
     <div class="details">
       <strong>PhD in Digital Media</strong> @ <strong>Georgia Tech</strong><br>
       Co-Advised by Prof. <a href="https://sites.google.com/view/magerko/home"><strong>Brian Magerko</strong></a> & Prof. 
-      <a href="https://nourahowell.com"><strong>Noura Howell</strong></a><br>
-      Topic: Optical Energy Display for Multimodal Sensory Feedback, Fabrication, and Power Delivery
+      <a href="https://nourahowell.com">Noura Howell</a><br>
+      Topic: Thermo-Optical Display for Sensory Feedback, Fabrication, and Power Delivery
     </div>
   </li>
 
@@ -288,6 +288,16 @@ google_analytics: UA-NNNNNNNN-N
 
 ### Research Collaborations
 <ul class="timeline">
+  <li>
+    <span class="year">2026.01-Present</span>
+    <div class="details">
+      <strong> Contextual Computing Lab</strong> @ <strong>Georgia Tech</strong>, USA<br>
+      Advised by 
+      Prof. <a href="https://sites.cc.gatech.edu/home/thad/"><strong>Thad Starner</strong></a><br>
+      Topic: Useful Thermal Interfaces
+    </div>
+  </li>
+
   <li>
     <span class="year">2025.08-Present</span>
     <div class="details">
