@@ -309,6 +309,16 @@ google_analytics: UA-NNNNNNNN-N
   </li>
 
   <li>
+    <span class="year">2020.04-Present</span>
+    <div class="details">
+      Information Somatics Lab @ <strong>University of Tokyo</strong>, Japan<br>
+      Research Intern advised by Prof. 
+      <a href="https://star.rcast.u-tokyo.ac.jp/en/"><strong>Masahiko Inami</strong></a><br>
+      Topics: Hydroptical Thermal Feedback (<a class="hover-text" href="https://doi.org/10.1145/3654777.3676453">UIST '24</a>) and more.
+    </div>
+  </li>
+
+  <li>
     <span class="year">2024.07-2024.08</span>
     <div class="details">
       <strong>Ho Haptics Lab</strong> @ <strong>Kyushu University</strong>, Japan<br>
