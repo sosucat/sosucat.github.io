@@ -92,9 +92,9 @@ google_analytics: UA-NNNNNNNN-N
     <p>Thermal and Tactile Integration in Human Liquid Perception Using Viscous Solutions and Visible Light<br>
       <span class="paperDetail">
         Junjie Hua, <strong>Sosuke Ichihashi</strong>, Hsin-Ni Ho<br>
-        <a class="hover-text" href="">
+        <a class="hover-text" href="https://doi.org/10.1109/HAPTICS66823.2026.11495458">
           <svg style="vertical-align: middle" width="12" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M0 64C0 28.7 28.7 0 64 0L224 0l0 128c0 17.7 14.3 32 32 32l128 0 0 288c0 35.3-28.7 64-64 64L64 512c-35.3 0-64-28.7-64-64L0 64zm384 64l-128 0L256 0 384 128z"/></svg>
-          IEEE Haptics '26 Paper (to appear)
+          IEEE Haptics '26 Paper
         </a>&nbsp;
         <!-- <a class="hover-text" href="https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/">
           <svg style="vertical-align: middle" width="12" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M224.6 12.8c56.2-56.2 147.4-56.2 203.6 0s56.2 147.4 0 203.6l-164 164c-34.4 34.4-90.1 34.4-124.5 0s-34.4-90.1 0-124.5L292.5 103.3c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3L185 301.3c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l164-164c31.2-31.2 31.2-81.9 0-113.1s-81.9-31.2-113.1 0l-164 164c-53.1 53.1-53.1 139.2 0 192.3s139.2 53.1 192.3 0L428.3 284.3c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3L343.4 459.6c-78.1 78.1-204.7 78.1-282.8 0s-78.1-204.7 0-282.8l164-164z"/></svg>
@@ -314,7 +314,7 @@ google_analytics: UA-NNNNNNNN-N
       <strong>Ho Haptics Lab</strong> @ <strong>Kyushu University</strong>, Japan<br>
       Research Intern advised by 
       Prof. <a href="https://sites.google.com/view/hohapticslab"><strong>Hsin-Ni Ho</strong></a><br>
-      Topic: Development of Hydroptical Thermal Display (IEEE Haptics '26)
+      Topic: Thermal and Tactile Integration in Liquid Perception (<a class="hover-text" href="https://doi.org/10.1109/HAPTICS66823.2026.11495458">IEEE Haptics '26</a>)
     </div>
   </li>
 
@@ -324,7 +324,7 @@ google_analytics: UA-NNNNNNNN-N
       <strong>Code Craft Lab</strong> @ <strong>Georgia Tech</strong>, USA<br>
       Advised by Prof. 
       <a href="https://www.codecraft.group/hyunjoo-oh"><strong>HyunJoo Oh</strong></a><br>
-      Topic: Swell by Light (TEI '25)
+      Topic: Swell by Light (<a class="hover-text" href="https://doi.org/10.1145/3689050.3704420">TEI '25</a>)
     </div>
   </li>
 
@@ -334,7 +334,7 @@ google_analytics: UA-NNNNNNNN-N
       Interaction Group @ <strong>Omron Sinic X</strong>, Japan<br>
       Research Intern advised by Dr. 
       <a href="https://shigeodayo.me"><strong>Shigeo Yoshida</strong></a><br>
-      Topic: Swarm Body (CHI '24)
+      Topic: Swarm Body (<a class="hover-text" href="https://doi.org/10.1145/3613904.3642870">CHI '24</a>)
     </div>
   </li>
 
